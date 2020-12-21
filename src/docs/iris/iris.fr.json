@@ -1,0 +1,967 @@
+{
+  "doc": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Iris"
+          }
+        ]
+      },
+      {
+        "type": "figure",
+        "content": [
+          {
+            "type": "picture",
+            "content": [
+              {
+                "type": "source",
+                "attrs": {
+                  "sizes": "(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw",
+                  "srcset": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-280.webp 280w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-380.webp 380w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-480.webp 480w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-640.webp 640w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.webp 700w",
+                  "type": "image/webp"
+                }
+              },
+              {
+                "type": "image",
+                "attrs": {
+                  "src": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg",
+                  "title": "Peinture de René-Antoine HOUASSE,　“Morphée s'éveillant à l'approche d'Iris” (“Iris et Morphée”), Grand Trianon, Versailles",
+                  "alt": "Peinture de René-Antoine HOUASSE,　“Morphée s'éveillant à l'approche d'Iris” (“Iris et Morphée”), Grand Trianon, Versailles",
+                  "usemap": "#iris",
+                  "sizes": "(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw",
+                  "srcset": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-280.jpg 280w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-380.jpg 380w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-480.jpg 480w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-640.jpg 640w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg 700w"
+                }
+              }
+            ]
+          },
+          {
+            "type": "figcaption",
+            "content": [
+              {
+                "type": "text",
+                "text": "Iris, messagère de Junon, entre dans la grotte de Sommeil"
+              }
+            ]
+          },
+          {
+            "type": "map",
+            "attrs": {
+              "name": "iris",
+              "id": "iris"
+            },
+            "content": [
+              {
+                "type": "area",
+                "attrs": {
+                  "href": "#iris",
+                  "title": "Iris",
+                  "alt": "Iris",
+                  "id": "area_iris",
+                  "shape": "poly",
+                  "coords": "41,502,57,465,91,443,139,421,140,375,182,333,219,254,264,249,301,207,296,184,280,192,273,213,219,234,207,193,210,169,202,157,184,162,169,89,142,147,119,128,97,136,26,90,24,109,44,154,72,187,86,245,67,274,64,302,47,313,43,328,50,333,57,333,59,347,50,359,39,350,23,353,15,362,15,399,31,415,27,433,36,447,51,444,45,453,33,454,26,479,27,505"
+                }
+              },
+              {
+                "type": "area",
+                "attrs": {
+                  "href": "#morpheus",
+                  "title": "Sommeil",
+                  "alt": "Sommeil",
+                  "id": "area_morpheus",
+                  "shape": "poly",
+                  "coords": "163,554,232,532,271,529,290,541,306,597,314,602,352,566,363,549,436,537,454,521,478,515,503,497,528,509,572,496,570,480,550,475,521,475,512,463,488,453,485,429,494,417,486,403,430,379,403,380,396,391,399,432,326,393,223,375,228,396,276,422,316,429,339,443,364,472,324,458,287,459,252,466,217,457,212,465,233,482,248,500,198,523,166,528,155,541"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "notices",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dans le Salon de Famille de Louis-Philippe du "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Grand_Trianon",
+                  "title": "https://fr.wikipedia.org/wiki/Grand Trianon"
+                }
+              }
+            ],
+            "text": "Grand Trianon"
+          },
+          {
+            "type": "text",
+            "text": " à Versailles, se peut voir une peinture de "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/René-Antoine_Houasse",
+                  "title": "https://fr.wikipedia.org/wiki/René-Antoine Houasse"
+                }
+              }
+            ],
+            "text": "René-Antoine Houasse"
+          },
+          {
+            "type": "text",
+            "text": ", “Morphée s'éveillant à l'approche d'Iris” (aussi appelée “Iris et Morphée”)."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "À partir d'une partie du Livre XI des "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)",
+                  "title": "https://fr.wikipedia.org/wiki/Métamorphoses (Ovide)"
+                }
+              }
+            ],
+            "text": "Métamorphoses"
+          },
+          {
+            "type": "text",
+            "text": " d'"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Ovide",
+                  "title": "https://fr.wikipedia.org/wiki/Ovide"
+                }
+              }
+            ],
+            "text": "Ovide"
+          },
+          {
+            "type": "text",
+            "text": " se trouve représenté le moment où "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "#area_iris",
+                  "title": "Iris"
+                }
+              }
+            ],
+            "text": "Iris"
+          },
+          {
+            "type": "text",
+            "text": ", messagère de "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Junon",
+                  "title": "https://fr.wikipedia.org/wiki/Junon"
+                }
+              }
+            ],
+            "text": "Junon"
+          },
+          {
+            "type": "text",
+            "text": ", entre dans la grotte de "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Hypnos",
+                  "title": "https://fr.wikipedia.org/wiki/Hypnos"
+                }
+              }
+            ],
+            "text": "Sommeil"
+          },
+          {
+            "type": "text",
+            "text": " pour lui ordonner de faire rêver "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Alcyone",
+                  "title": "https://fr.wikipedia.org/wiki/Alcyone"
+                }
+              }
+            ],
+            "text": "Alcyone"
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "hard_break"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              },
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(61, 139, 61)"
+                }
+              }
+            ],
+            "text": "Iris"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "583"
+          },
+          {
+            "type": "text",
+            "text": " Or la déesse ne supporte pas davantage qu'on l'implore pour quelqu'un"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Qui est mort et, afin de détourner de ses autels ces mains funestes,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "585"
+          },
+          {
+            "type": "text",
+            "text": " Elle dit: “"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(61, 139, 61)"
+                }
+              }
+            ],
+            "text": "Iris"
+          },
+          {
+            "type": "text",
+            "text": ", fidèle messagère de mes volontés,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Cours vite chez le Sommeil, dans son palais des songes,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Et demande-lui d'envoyer à "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(61, 139, 61)"
+                }
+              }
+            ],
+            "text": "Alcyone"
+          },
+          {
+            "type": "text",
+            "text": " un rêve qui, sous les traits"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "De son défunt "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(61, 139, 61)"
+                }
+              }
+            ],
+            "text": "Céyx"
+          },
+          {
+            "type": "text",
+            "text": ", lui dise toute la vérité sur son malheur.”"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Elle a parlé: "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(61, 139, 61)"
+                }
+              }
+            ],
+            "text": "Iris"
+          },
+          {
+            "type": "text",
+            "text": " revêt sa robe aux mille couleurs"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "590"
+          },
+          {
+            "type": "text",
+            "text": " Et, arc-en-ciel décrivant une courbe dans l’espace,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Elle gagne, pour exécuter l’ordre, le palais royal caché sous la nue."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Il est, près du pays des Cimmériens, une cavernes très secrête,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Creusée dans la roche, demeure et sanctuaire du "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(61, 139, 61)"
+                }
+              }
+            ],
+            "text": "Sommeil Indolent"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Où jamais Phœbus ne peut, au lever, au zénith, au coucher,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "595"
+          },
+          {
+            "type": "text",
+            "text": " Faire pénétrer ses rayons. Des vapeurs mêlées de brumes"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "S’exhalent du sol, ce qui donne une vague lueur crépusculaire."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Là, l’oiseau vigilant couronné d’une crête ne chante point"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Pour appeler l’Aurore, et le silence n’est rompu ni par la voix"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Des chiens de gardes, ni par celle de l’oie, plus sagace que les chiens."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "600"
+          },
+          {
+            "type": "text",
+            "text": " Aucun animal sauvage ni domestique, aucune branche agitée par la brise"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "N’émet le moindre son, ni les humains conversant dans leur langue :"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "C’est un lieu de silence et de calme. Toutefois, des profondeurs de la roche"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Sort une résurgence du Léthé dont l’eau glisse dans un murmure"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Sur les cailloux crissants et invite au sommeil."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "605"
+          },
+          {
+            "type": "text",
+            "text": " Devant l’entrée de la grotte fleurissent d’abondants pavots,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "D’innombrables plantes dont la Nuit humide recueille le lait"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Afin de le répandre sur les terres ombreuses."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Aucune porte ne grince en tournant sur ses gonds :"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Il n’y en a pas une seule dans toute la demeure ; nul gardien sur le seuil."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "610"
+          },
+          {
+            "type": "text",
+            "text": " Mais au milieu de la grotte s’élève un lit d’ébène"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Au matelas de plumes, de couleur uniforme, tendu de noir,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Où repose le dieu aux membres alanguis par l’inactivité."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Autour de lui sont couchés çà et là, sous des apparences diverses,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Les "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(61, 139, 61)"
+                }
+              }
+            ],
+            "text": "Songes trompeurs"
+          },
+          {
+            "type": "text",
+            "text": ", aussi nombreux que les blés d’une moisson,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "615"
+          },
+          {
+            "type": "text",
+            "text": " Les feuillages dans une forêt, les grains de sable jetés sur un rivage."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Sitôt que la vierge est entrée, écartant de la mains les Songes"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Qui lui faisaient obstacle, l’éclat de sa robe a illuminé"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "La demeure sacrée et le dieu, soulevant avec peine"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Ses paupières lourdes tombant et retombant sans cesse"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "620"
+          },
+          {
+            "type": "text",
+            "text": " Tandis que son menton tremblotant frappe le haut de sa poitrine,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Finit par se secouer et, appuyé sur un coude, lui demande"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "(Car il l’a reconnue) la raison de sa visite."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Alors elle lui dit :"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "«"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(61, 139, 61)"
+                }
+              }
+            ],
+            "text": "Sommeil"
+          },
+          {
+            "type": "text",
+            "text": ", repos de l’univers, Sommeil, le plus paisible des dieux,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Paix de l’âme, toi qui fais fuir l’inquiétude, toi qui dissipes"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "625"
+          },
+          {
+            "type": "text",
+            "text": " La fatigue du corps après de lourdes tâche et qui aides à l’effort,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Ordonne à l’un des Songes qui savent prendre l’apparence du vrai"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "De partir pour Trachine, ville d’Hercule, sous les traits de son roi"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Et, prenant la forme d’un naufragé, d’appraître à Alcyone."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "C’est la volonté de Junon.»"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Après avoir accompli sa mission,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "630"
+          },
+          {
+            "type": "text",
+            "text": " Iris s’en va -car elle ne pouvait résister plus longtemps à ce pouvoir"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Soporifique – et sentant le sommeil se glisser dans ses membres,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Elle s’enfuit, s’en retourne par arc-en-ciel, comme elle était venue."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(61, 139, 61)"
+                }
+              }
+            ],
+            "text": "Ovide, “Les Métamorphoses”, Livre XI"
+          }
+        ]
+      },
+      {
+        "type": "noticesheading",
+        "attrs": {
+          "level": 4
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Note:"
+          }
+        ]
+      },
+      {
+        "type": "notices",
+        "content": [
+          {
+            "type": "text",
+            "text": "L'œuvre de "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/René-Antoine_Houasse",
+                  "title": "https://fr.wikipedia.org/wiki/René-Antoine Houasse"
+                }
+              }
+            ],
+            "text": "René-Antoine Houasse"
+          },
+          {
+            "type": "text",
+            "text": " a été nommé au XVII"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "ème"
+          },
+          {
+            "type": "text",
+            "text": " siècle «Morphée s'éveillant à l'approche d'Iris» ou «Iris et Morphée»."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Nous conservons cette appellation pour permettre son identification, bien que la scène représentée montre bien plutôt "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Iris_(mythologie)",
+                  "title": "https://fr.wikipedia.org/wiki/Iris_(mythologie)"
+                }
+              }
+            ],
+            "text": "Iris"
+          },
+          {
+            "type": "text",
+            "text": " et "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "#area_morpheus",
+                  "title": "Morphée"
+                }
+              }
+            ],
+            "text": "le Sommeil"
+          },
+          {
+            "type": "text",
+            "text": ", aussi appelé Somnus. Morphée est son fils."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Après avoir reçu l'ordre d'Iris, son père le désigne pour aller accomplir la mission d'Iris ainsi que le montre la suite du récit."
+          }
+        ]
+      }
+    ]
+  },
+  "selection": {
+    "type": "text",
+    "anchor": 4129,
+    "head": 4129
+  }
+}

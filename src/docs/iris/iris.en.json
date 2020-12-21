@@ -1,0 +1,996 @@
+{
+  "doc": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Iris and Morpheus"
+          }
+        ]
+      },
+      {
+        "type": "figure",
+        "content": [
+          {
+            "type": "picture",
+            "content": [
+              {
+                "type": "source",
+                "attrs": {
+                  "sizes": "(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw",
+                  "srcset": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-280.webp 280w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-380.webp 380w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-480.webp 480w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-640.webp 640w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.webp 700w",
+                  "type": "image/webp"
+                }
+              },
+              {
+                "type": "image",
+                "attrs": {
+                  "src": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg",
+                  "title": "Painting of René-Antoine HOUASSE, «Iris and Morpheus», Grand Trianon, Palace of Versailles",
+                  "alt": "Painting of René-Antoine HOUASSE, «Iris and Morpheus», Grand Trianon, Palace of Versailles",
+                  "usemap": null,
+                  "sizes": "(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw",
+                  "srcset": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-280.jpg 280w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-380.jpg 380w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-480.jpg 480w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-640.jpg 640w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg 700w"
+                }
+              }
+            ]
+          },
+          {
+            "type": "figcaption",
+            "content": [
+              {
+                "type": "text",
+                "text": "Iris, messenger of Juno, enters in the cave of Sleep"
+              }
+            ]
+          },
+          {
+            "type": "map",
+            "attrs": {
+              "name": "iris",
+              "id": "iris"
+            },
+            "content": [
+              {
+                "type": "area",
+                "attrs": {
+                  "href": "#iris",
+                  "title": "Iris",
+                  "alt": "Iris",
+                  "id": "area_iris",
+                  "shape": "poly",
+                  "coords": "50, 599, 69, 555, 109, 529, 166, 502, 167, 448, 218, 398, 262, 303, 316, 297, 360, 247, 354, 220, 334, 229, 326, 255, 262, 279, 248, 231, 251, 202, 242, 188, 220, 194, 202, 107, 170, 176, 143, 153, 116, 163, 32, 108, 29, 131, 53, 184, 87, 223, 103, 292, 81, 327, 77, 360, 57, 374, 52, 391, 60, 397, 69, 398, 71, 414, 60, 428, 47, 418, 28, 421, 18, 432, 19, 476, 37, 495, 33, 517, 43, 533, 61, 530, 54, 540, 40, 542, 32, 571, 33, 602"
+                }
+              },
+              {
+                "type": "area",
+                "attrs": {
+                  "href": "#morpheus",
+                  "title": "God of Sleep",
+                  "alt": "God of Sleep",
+                  "id": "area_morpheus",
+                  "shape": "poly",
+                  "coords": "195, 661, 277, 634, 324, 631, 347, 645, 366, 712, 375, 718, 420, 675, 433, 655, 521, 641, 542, 621, 571, 614, 600, 593, 630, 607, 683, 592, 680, 573, 657, 567, 622, 567, 611, 552, 583, 540, 579, 512, 590, 497, 580, 481, 513, 452, 481, 453, 473, 466, 476, 515, 389, 469, 267, 447, 273, 473, 330, 503, 378, 512, 405, 529, 435, 563, 387, 546, 343, 548, 301, 556, 259, 545, 254, 555, 279, 575, 296, 597, 237, 624, 198, 630, 185, 645"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "notices",
+        "content": [
+          {
+            "type": "text",
+            "text": "In the Salon de Famille de Louis-Philippe of the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Grand_Trianon",
+                  "title": "https://en.wikipedia.org/wiki/Grand Trianon"
+                }
+              }
+            ],
+            "text": "Grand Trianon"
+          },
+          {
+            "type": "text",
+            "text": " in Versailles a painting from "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/René-Antoine_Houasse",
+                  "title": "https://en.wikipedia.org/wiki/René-Antoine Houasse"
+                }
+              }
+            ],
+            "text": "René-Antoine Houasse"
+          },
+          {
+            "type": "text",
+            "text": ", “Morpheus awakening as Iris draws near” (also “Iris and Morpheus”) can be seen."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Based on a part of Book XI of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Metamorphoses",
+                  "title": "https://en.wikipedia.org/wiki/Metamorphoses"
+                }
+              }
+            ],
+            "text": "The Metamorphoses"
+          },
+          {
+            "type": "text",
+            "text": " written by "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Ovid",
+                  "title": "https://en.wikipedia.org/wiki/Ovid"
+                }
+              }
+            ],
+            "text": "Ovid"
+          },
+          {
+            "type": "text",
+            "text": ", it represents the particular moment when "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Iris_(mythology)",
+                  "title": "https://en.wikipedia.org/wiki/Iris_(mythology)"
+                }
+              }
+            ],
+            "text": "Iris"
+          },
+          {
+            "type": "text",
+            "text": ", messager of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Juno_(mythology)",
+                  "title": "https://en.wikipedia.org/wiki/Juno_(mythology)"
+                }
+              }
+            ],
+            "text": "Juno"
+          },
+          {
+            "type": "text",
+            "text": " enters the cave of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Hypnos",
+                  "title": "https://en.wikipedia.org/wiki/Hypnos"
+                }
+              }
+            ],
+            "text": "the Sleep"
+          },
+          {
+            "type": "text",
+            "text": " to order to him to make "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Alcyone",
+                  "title": "https://en.wikipedia.org/wiki/Alcyone"
+                }
+              }
+            ],
+            "text": "Alcynoe"
+          },
+          {
+            "type": "text",
+            "text": " dream."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "hard_break"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              },
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(61, 139, 61)"
+                }
+              }
+            ],
+            "text": "Iris"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "583"
+          },
+          {
+            "type": "text",
+            "text": " but Juno could not long accept as hers"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "these supplications on behalf of one"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "then dead; and that she might persuade Halcyone"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "to turn her death-polluted hands away"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "from hallowed altars, Juno said in haste,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "“O, Iris, best of all my messengers,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "go quickly to the dreadful court of Sleep,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "and in my name command him to despatch"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "a dream in the shape of Ceyx, who is dead,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "and tell Halcyone the woeful truth.”"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "So she commanded.—Iris instantly"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "assumed a garment of a thousand tints;"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "and as she marked the high skies with her arch,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "went swiftly thence as ordered, to the place"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "where Sleep was then concealed beneath a rock."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Near the Cimmerian Land there is a cave,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "with a long entrance, in a hallowed mountain,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "the home of slothful Sleep. To that dark cave"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "the Sun, when rising or in middle skies,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "or setting, never can approach with light."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "There dense fogs, mingled with the dark, exhale"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "darkness from the black soil—and all that place"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "is shadowed in a deep mysterious gloom."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "No wakeful bird with visage crested high"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "calls forth the morning's beauty in clear notes;"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "nor do the watchful dogs, more watchful geese,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "600"
+          },
+          {
+            "type": "text",
+            "text": " nor wild beasts, cattle, nor the waving trees,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "make sound or whisper; and the human voice"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "is never heard there—silent Rest is there."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "But, from the bottom of a rock beneath,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Lethean waters of a stream ooze forth,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "sounds of a rivulet, which trickle with"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "soft murmuring amid the pebbles and"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "invite soft sleep. Before the cavern doors"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "most fertile poppies and a wealth of herbs"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "bloom in abundance, from the juice of which"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "the humid night-hours gather sleep and spread"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "it over darkened Earth. No door is in"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "that cavern-home and not a hinge's noise"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "nor guarding porter's voice disturbs the calm."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "But in the middle is a resting-couch,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "raised high on night-black ebony and soft"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "with feathered cushions, all jet black, concealed"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "by a rich coverlet as dark as night,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "on which the god of sleep, dissolved in sloth"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "lies with unmoving limbs. Around him there"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "in all directions, unsubstantial dreams"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "recline in imitation of all shapes—"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "as many as the uncounted ears of corn"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "at harvest—as the myriad leaves of trees—"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "or tiny sand grains spread upon the shore."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "As soon as Iris entered that dread gloom,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "she pushed aside the visions in her way"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "with her fair glowing hands; and instantly,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "that sacred cavern of the god of Sleep"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "was all illuminated with the glow"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "and splendor of her garment.—Out of himself"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "the god with difficulty lifted up"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "his lanquid eyes. From this small sign of life"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "relapsing many times to languid sloth,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "while nodding, with his chin he struck his breast"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "again and again. At last he roused himself"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "from gloom and slumber; and, while raised upon"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "his elbow, he enquired of Iris why"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "she came to him.—He knew her by her name."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "She answered him,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "“O, Sleep, divine repose"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "of all things! Gentlest of the deities!"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Peace to the troubled mind, from which you drive"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "the cares of life, restorer of men's strength"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "when wearied with the toils of day, command"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "a vision that shall seem the actual form"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "of royal Ceyx to visit Trachin famed"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "for Hercules and tell Halcyone"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "his death by shipwreck. It is Juno's wish.”"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "630"
+          },
+          {
+            "type": "text",
+            "text": " Iris departed after this was said."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "For she no longer could endure the effect"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "of slumber-vapor; and as soon as she"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "knew sleep was creeping over her tired limbs"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "she flew from there—and she departed by"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "the rainbow, over which she came before."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(61, 139, 61)"
+                }
+              }
+            ],
+            "text": "Ovid, “The Metamorphoses”, Book XI"
+          }
+        ]
+      },
+      {
+        "type": "noticesheading",
+        "attrs": {
+          "level": 4
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Note:"
+          }
+        ]
+      },
+      {
+        "type": "notices",
+        "content": [
+          {
+            "type": "text",
+            "text": "The work of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/René-Antoine_Houasse",
+                  "title": "https://en.wikipedia.org/wiki/René-Antoine Houasse"
+                }
+              }
+            ],
+            "text": "René-Antoine Houasse"
+          },
+          {
+            "type": "text",
+            "text": " has been named in the XVII"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "th"
+          },
+          {
+            "type": "text",
+            "text": " century «Iris et Morphée»."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "We keep this denomination for identification, while the scene represented shows more likely "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Iris_(mythology)",
+                  "title": "https://en.wikipedia.org/wiki/Iris_(mythology)"
+                }
+              }
+            ],
+            "text": "Iris"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Hypnos",
+                  "title": "https://en.wikipedia.org/wiki/Hypnos"
+                }
+              }
+            ],
+            "text": "the Sleep"
+          },
+          {
+            "type": "text",
+            "text": ", also known as Hypnos. Morpheus is his son."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "After receiving Iris's order, his father appoints him to go and carry out Iris's mission, as the rest of the story shows."
+          }
+        ]
+      }
+    ]
+  },
+  "selection": {
+    "type": "text",
+    "anchor": 4256,
+    "head": 4256
+  }
+}

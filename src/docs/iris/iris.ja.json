@@ -1,0 +1,1674 @@
+{
+  "doc": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "イリス"
+          }
+        ]
+      },
+      {
+        "type": "figure",
+        "content": [
+          {
+            "type": "picture",
+            "content": [
+              {
+                "type": "source",
+                "attrs": {
+                  "sizes": "(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw",
+                  "srcset": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-280.webp 280w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-380.webp 380w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-480.webp 480w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-640.webp 640w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.webp 700w",
+                  "type": "image/webp"
+                }
+              },
+              {
+                "type": "image",
+                "attrs": {
+                  "src": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg",
+                  "title": "ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアス、《イリスの近づきに目覚めるモルフェ》絵画",
+                  "alt": "ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアス、《イリスの近づきに目覚めるモルフェ》絵画",
+                  "usemap": "#iris",
+                  "sizes": "(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw",
+                  "srcset": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-280.jpg 280w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-380.jpg 380w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-480.jpg 480w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-640.jpg 640w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg 700w"
+                }
+              }
+            ]
+          },
+          {
+            "type": "figcaption",
+            "content": [
+              {
+                "type": "text",
+                "text": "眠りの神の洞窟に入るユノー女神の伝達者であるイリス"
+              }
+            ]
+          },
+          {
+            "type": "map",
+            "attrs": {
+              "name": "iris",
+              "id": "iris"
+            },
+            "content": [
+              {
+                "type": "area",
+                "attrs": {
+                  "href": "#iris",
+                  "title": "イリス",
+                  "alt": "イリス",
+                  "id": "area_iris",
+                  "shape": "poly",
+                  "coords": "41,502,57,465,91,443,139,421,140,375,182,333,219,254,264,249,301,207,296,184,280,192,273,213,219,234,207,193,210,169,202,157,184,162,169,89,142,147,119,128,97,136,26,90,24,109,44,154,72,187,86,245,67,274,64,302,47,313,43,328,50,333,57,333,59,347,50,359,39,350,23,353,15,362,15,399,31,415,27,433,36,447,51,444,45,453,33,454,26,479,27,505"
+                }
+              },
+              {
+                "type": "area",
+                "attrs": {
+                  "href": "#morpheus",
+                  "title": "眠りの神",
+                  "alt": "眠りの神",
+                  "id": "area_morpheus",
+                  "shape": "poly",
+                  "coords": "163,554,232,532,271,529,290,541,306,597,314,602,352,566,363,549,436,537,454,521,478,515,503,497,528,509,572,496,570,480,550,475,521,475,512,463,488,453,485,429,494,417,486,403,430,379,403,380,396,391,399,432,326,393,223,375,228,396,276,422,316,429,339,443,364,472,324,458,287,459,252,466,217,457,212,465,233,482,248,500,198,523,166,528,155,541"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "notices",
+        "content": [
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "大トリアノン宮殿"
+              },
+              {
+                "type": "pronunciationlang",
+                "attrs": {
+                  "lang": "fr"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "le Grand Trianon"
+                  }
+                ]
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/大トリアノン宮殿",
+                  "title": "https://ja.wikipedia.org/wiki/大トリアノン宮殿"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "に展示されている"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "ルネ"
+              },
+              {
+                "type": "pronunciationlang",
+                "attrs": {
+                  "lang": "fr"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "René"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "＝"
+              },
+              {
+                "type": "pronunciationlang",
+                "attrs": {
+                  "lang": "fr"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "-"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "アントワーヌ"
+              },
+              {
+                "type": "pronunciationlang",
+                "attrs": {
+                  "lang": "fr"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Antoine"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "・"
+              },
+              {
+                "type": "pronunciationlang",
+                "attrs": {
+                  "lang": "fr"
+                }
+              },
+              {
+                "type": "text",
+                "text": "ウアス"
+              },
+              {
+                "type": "pronunciationlang",
+                "attrs": {
+                  "lang": "fr"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Houasse"
+                  }
+                ]
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス",
+                  "title": "https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "が描いた「"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "イリス"
+              },
+              {
+                "type": "pronunciationlang",
+                "attrs": {
+                  "lang": "fr"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Iris"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "の近づきに目覚める"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "モルフェ"
+              },
+              {
+                "type": "pronunciationlang",
+                "attrs": {
+                  "lang": "fr"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Morphée"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "」絵画（イリスとモルフェともいう）が"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "ルイ=フィリップの家族の間"
+              },
+              {
+                "type": "pronunciationlang",
+                "attrs": {
+                  "lang": "fr"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "le Salon de Famille de Louis-Philippe"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "に見られます。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "オウィディウス"
+              },
+              {
+                "type": "pronunciationlang",
+                "attrs": {
+                  "lang": "la"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ovidius"
+                  }
+                ]
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/オウィディウス",
+                  "title": "https://ja.wikipedia.org/wiki/オウィディウス"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "が書いた「"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "変身物語"
+              },
+              {
+                "type": "pronunciationlang",
+                "attrs": {
+                  "lang": "grc"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Metamorphoseon"
+                  }
+                ]
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/変身物語",
+                  "title": "https://ja.wikipedia.org/wiki/変身物語"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "」において、夫婦"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "ケユクス"
+              },
+              {
+                "type": "pronunciationlang",
+                "attrs": {
+                  "lang": "la"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ceyx"
+                  }
+                ]
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/ケーユクス",
+                  "title": "https://ja.wikipedia.org/wiki/ケーユクス"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "と"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "アルキュオネ"
+              },
+              {
+                "type": "pronunciationlang",
+                "attrs": {
+                  "lang": "la"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Alcyone"
+                  }
+                ]
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/ヒュプノス",
+                  "title": "https://ja.wikipedia.org/wiki/ヒュプノス"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "の深い愛情が語られている。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "ある日、"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "アポロン"
+              },
+              {
+                "type": "pronunciationlang",
+                "attrs": {
+                  "lang": "la"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Apollōn"
+                  }
+                ]
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/アポローン",
+                  "title": "https://ja.wikipedia.org/wiki/アポローン"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "の神託を伺うために"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "クラロス"
+              },
+              {
+                "type": "pronunciationlang",
+                "attrs": {
+                  "lang": "la"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Claros"
+                  }
+                ]
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/クラロス",
+                  "title": "https://ja.wikipedia.org/wiki/クラロス"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "へ赴こうとしたケユクスは「どうか陸路で行ってほしい」という妻の言葉を聞き入れずに船で出かけ、"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "大"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "おお"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "時"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "し"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "化"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "け"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "に遭って海の"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "藻"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "も"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "屑"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "くず"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "となってしまいます。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "何も知らないアルキュオネは日夜"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "ユノー"
+              },
+              {
+                "type": "pronunciationlang",
+                "attrs": {
+                  "lang": "la"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Juno"
+                  }
+                ]
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/ユーノー",
+                  "title": "https://ja.wikipedia.org/wiki/ユーノー"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/ユーノー",
+                  "title": "https://ja.wikipedia.org/wiki/ユーノー"
+                }
+              }
+            ],
+            "text": "女神"
+          },
+          {
+            "type": "text",
+            "text": "の神殿で夫の無事な帰還を祈っていましたが、もはや叶えようもない祈りを聞かされ続けるのはユノーにとってもつらいことでした。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "見かねた女神は哀れな妻に真実を知らせてやるべく、"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "#area_iris",
+                  "title": "イリス"
+                }
+              }
+            ],
+            "text": "イリス"
+          },
+          {
+            "type": "text",
+            "text": "を呼んでこう命じました。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "「眠りの神男"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "ソムヌス"
+              },
+              {
+                "type": "pronunciationlang",
+                "attrs": {
+                  "lang": "la"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Somnus"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "のところへ行き、アルキュオネに亡きケユクスの夢を見せて事の次第を教えてやってくれるよう頼んでちょうだい」"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "女王の命を受けたイリスが眠りの神であるソムヌスが住む洞窟を訪れていく..."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "hard_break"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              },
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(61, 139, 61)"
+                }
+              }
+            ],
+            "text": "イリス"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "５８３"
+          },
+          {
+            "type": "text",
+            "text": " 〈"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "虹"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "イリス"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "〉女神はあまたの色で飾られた"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "衣"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ころも"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "を身にまとい、大空に虹のような弧をえがきながら、いいつけられたとおり、雲のしたに隠れた王者の住居ヘ向かうのだ。"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "キムメリア"
+              },
+              {
+                "type": "pronunciationlang",
+                "attrs": {
+                  "lang": "la"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Cimmeria"
+                  }
+                ]
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/キンメリア人",
+                  "title": "https://ja.wikipedia.org/wiki/キンメリア人"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/キンメリア人",
+                  "title": "https://ja.wikipedia.org/wiki/キンメリア人"
+                }
+              }
+            ],
+            "text": "人"
+          },
+          {
+            "type": "text",
+            "text": "たちが住んでいるあたりにほど近く、"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "洞"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ほら"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "になった山がある。 たいそう奧深い洞窟だが、ここが、"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "懶"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "らん"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "惰"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "だ"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "な〈眠り〉の神の住む奥殿だ。 ここには、朝も、夕暮れもおよそ一日のあいだじゅう、日がささない。 地面からは、雲霧が立ちのぼり、"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "朦"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "もう"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "朧"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ろう"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "とした薄明がたちこめている。 ここでは、"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "鶏"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "と"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "冠"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "さか"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "をいただいた鳥も、〈"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "曙"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "アウロラ"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "〉を呼ぶために鳴くことなく、油断ない番犬たちや、その犬よりも耳ざとい"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "鵞"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "が"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "鳥"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ちょう"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "の声が静けさを破ることもない。"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "６００"
+          },
+          {
+            "type": "text",
+            "text": " 野獣も家畜も、風にそよぐ枝も、もの音をたてず、かまびすしい人語も聞こえはない。 ひっそりした静寂が住みついている所だ。 ただ、岩の底から「"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "忘却"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "レーテ"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "」の流れが湧き出していて、河床の小石のうえをさらさらとせせらぐ水のささやきがまどろみを誘っている。 洞窟の入ロには、たくさんの"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "罌"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "け"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "粟"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "し"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "が咲き、おびただしい草木が花をつけている。 それらの草の乳液から、露に濡れた「夜」が、眠りをあつめ、暗い地上にそれをふりまくのだ。"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "蝶"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ちょう"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "番"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "つがい"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "の回転で、戸がきしむこともない。 住居のどこ見ても、一つもない。入るところに番人もいない。 しかし、中央に、黒檀でできた羽毛ぶとんのある黒"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "一色"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "いっしょく"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "な掛布で被われている寝台が置かれている。 そこには、何もしないことで重くなった手足の神が、横になっている。 彼のまわり、あちらこちらに、いろんな姿振りで、惑わす「夢想」が寝ころがっているが、そのたくさんなことといったら、まるで実った麦の穂が、森の木の枝か、海岸にある"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "真"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ま"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "砂"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "さご"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "の数ほどもあるのだ。"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "乙女がここへはいった次第、手で邪魔となっていた夢たちをはらいのけながた、神聖なる住居と神は、女神の衣の輝やきで照はえた。"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "６２０"
+          },
+          {
+            "type": "text",
+            "text": " 〈眠り〉の神は、どろんと重たげな目を辛うじてあげ、何度も何度もうしろヘ倒れかかりながら、こくりこくりする"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "顎"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "あご"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "を"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "喉"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "のど"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "首"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "くび"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "のあたりにぶつけていたが、とうとう目をさますと、"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "片"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "かた"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "肱"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ひじ"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "をついて起きあがり、用むきをたずねた。 女神の姿に気づいたからだ。 女神はこう語りかけた。"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "「万物を憩わせる〈眠り〉よ、このうえなくおだやかな神よ、心の安らぎよ！ あなたこそは、悩みを遠ざけ、苦しい仕事に疲れたからだを慰めて、つぎの仕事への備えをさせてくれるのです。 それはそうと、うまくほん物を真似ることのできる夢の幻を、ヘラクレスにゆかりのトラキスまで"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "寄"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "よ"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "越"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "こ"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "していただけませんか。 難船したケユクス王の姿を借りて、アルキュオネに近づき、そのさまを写し出させてほしいのです。 いっておきますが、これはユノーさまのご命令です。」"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "６３０"
+          },
+          {
+            "type": "text",
+            "text": " ロ上をいい終えると、すぐに〈"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "虹"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "イリス"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "〉は立ち去った。 これ以上、眠気を我慢することができなかったからだ。 眠りが手足に忍びこんで来るのがわかると、急いで逃げ出し、先ほど通って来た虹の橋で、引き返えした。"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(61, 139, 61)"
+                }
+              }
+            ],
+            "text": "オウィディウス、変身物語、第１１巻より"
+          }
+        ]
+      },
+      {
+        "type": "notices",
+        "content": [
+          {
+            "type": "text",
+            "text": "その後、ソムヌスは、息子たちの中から夢の神"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/モルペウス",
+                  "title": "https://ja.wikipedia.org/wiki/モルペウス"
+                }
+              }
+            ],
+            "text": "モルペウス（フランス語で「モルフェ」）"
+          },
+          {
+            "type": "text",
+            "text": "を選んで、アルキュオネの元に派遣しました。"
+          }
+        ]
+      },
+      {
+        "type": "notices",
+        "content": [
+          {
+            "type": "text",
+            "text": "モルペウスはケユクスそっくりに身を変えて彼女の夢枕に立つと、こう告げました。"
+          }
+        ]
+      },
+      {
+        "type": "noticesblockquotes",
+        "content": [
+          {
+            "type": "notices",
+            "content": [
+              {
+                "type": "text",
+                "text": "「愛しい妻よ、私はおまえの危惧した通り嵐に遭って死んでしまった。どうか私の死を嘆き、葬儀を執り行っておくれ。このままではつつがなく死の国に赴くことも出来ない」。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "notices",
+        "content": [
+          {
+            "type": "text",
+            "text": "あまりのことに飛び起きたアルキュオネは悲しみに狂乱し、自分も入水して夫の後を追おうと浜辺に駆けていきますが、そこで波に揺られて流れ着いた夫の遺体と遭遇します。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "身も世もあらず悲嘆する彼女の姿が神々の同情を買い、２人は"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "翡"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "カワ"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "翠"
+              },
+              {
+                "type": "pronunciation",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "セミ"
+                  }
+                ]
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/カワセミ",
+                  "title": "https://ja.wikipedia.org/wiki/カワセミ"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "に姿を変えられるのだ。"
+          }
+        ]
+      },
+      {
+        "type": "noticesheading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "絵画の題名について："
+          }
+        ]
+      },
+      {
+        "type": "notices",
+        "content": [
+          {
+            "type": "text",
+            "text": "１７世紀に、絵画は 《イリスの近づきに目覚めるモルフェ》 （《イリスとモルフェ》） と名付けられたが、以上で明らかになっている通り、この題名は、 「変身物語」 で書かれている話と合わせて考えると、矛盾が生じると否定できない。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "文書だと、"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/イーリス",
+                  "title": "https://ja.wikipedia.org/wiki/イーリス"
+                }
+              }
+            ],
+            "text": "イリス"
+          },
+          {
+            "type": "text",
+            "text": "が眠りの神のソムヌスの洞窟を訪れることになっていることが、絵画の題名では"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "モルフェ"
+              },
+              {
+                "type": "pronunciationlang",
+                "attrs": {
+                  "lang": "fr"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Morphée"
+                  }
+                ]
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "#area_morpheus",
+                  "title": "モルペウス"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "になってしまっていることから、 《イリスとソムヌス》 との題名のほうが適切だと断言できる。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "モルペウスはソムヌスの息子である。物語の続きが示すように、イリスの命令を受けた父はイリスの任務を遂行しに行くように彼を指示する。"
+          }
+        ]
+      }
+    ]
+  },
+  "selection": {
+    "type": "text",
+    "anchor": 2745,
+    "head": 2745
+  }
+}
