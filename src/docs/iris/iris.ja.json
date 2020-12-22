@@ -5,7 +5,8 @@
       {
         "type": "heading",
         "attrs": {
-          "level": 1
+          "level": 1,
+          "id": ""
         },
         "content": [
           {
@@ -15,76 +16,82 @@
         ]
       },
       {
-        "type": "figure",
+        "type": "paragraph",
         "content": [
           {
-            "type": "picture",
+            "type": "figure",
             "content": [
               {
-                "type": "source",
-                "attrs": {
-                  "sizes": "(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw",
-                  "srcset": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-280.webp 280w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-380.webp 380w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-480.webp 480w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-640.webp 640w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.webp 700w",
-                  "type": "image/webp"
-                }
+                "type": "picture",
+                "content": [
+                  {
+                    "type": "source",
+                    "attrs": {
+                      "sizes": "(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw",
+                      "srcset": "\nhttps://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-280.webp 280w,\nhttps://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-380.webp 380w,\nhttps://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-480.webp 480w,\nhttps://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-640.webp 640w,\nhttps://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.webp 700w",
+                      "type": "image/webp"
+                    }
+                  },
+                  {
+                    "type": "image",
+                    "attrs": {
+                      "src": "/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg",
+                      "title": "ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアス、《イリスの近づきに目覚めるモルフェ》絵画",
+                      "alt": "ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアス、《イリスの近づきに目覚めるモルフェ》絵画",
+                      "usemap": "#iris",
+                      "sizes": "(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw",
+                      "srcset": "\nhttps://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-280.jpg 280w,\nhttps://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-380.jpg 380w,\nhttps://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-480.jpg 480w,\nhttps://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-640.jpg 640w,\nhttps://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg 700w",
+                      "id": null
+                    }
+                  }
+                ]
               },
               {
-                "type": "image",
-                "attrs": {
-                  "src": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg",
-                  "title": "ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアス、《イリスの近づきに目覚めるモルフェ》絵画",
-                  "alt": "ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアス、《イリスの近づきに目覚めるモルフェ》絵画",
-                  "usemap": "#iris",
-                  "sizes": "(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw",
-                  "srcset": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-280.jpg 280w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-380.jpg 380w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-480.jpg 480w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-640.jpg 640w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg 700w"
-                }
-              }
-            ]
-          },
-          {
-            "type": "figcaption",
-            "content": [
-              {
-                "type": "text",
-                "text": "眠りの神の洞窟に入るユノー女神の伝達者であるイリス"
-              }
-            ]
-          },
-          {
-            "type": "map",
-            "attrs": {
-              "name": "iris",
-              "id": "iris"
-            },
-            "content": [
-              {
-                "type": "area",
-                "attrs": {
-                  "href": "#iris",
-                  "title": "イリス",
-                  "alt": "イリス",
-                  "id": "area_iris",
-                  "shape": "poly",
-                  "coords": "41,502,57,465,91,443,139,421,140,375,182,333,219,254,264,249,301,207,296,184,280,192,273,213,219,234,207,193,210,169,202,157,184,162,169,89,142,147,119,128,97,136,26,90,24,109,44,154,72,187,86,245,67,274,64,302,47,313,43,328,50,333,57,333,59,347,50,359,39,350,23,353,15,362,15,399,31,415,27,433,36,447,51,444,45,453,33,454,26,479,27,505"
-                }
+                "type": "figcaption",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "眠りの神の洞窟に入るユノー女神の伝達者であるイリス"
+                  }
+                ]
               },
               {
-                "type": "area",
+                "type": "map",
                 "attrs": {
-                  "href": "#morpheus",
-                  "title": "眠りの神",
-                  "alt": "眠りの神",
-                  "id": "area_morpheus",
-                  "shape": "poly",
-                  "coords": "163,554,232,532,271,529,290,541,306,597,314,602,352,566,363,549,436,537,454,521,478,515,503,497,528,509,572,496,570,480,550,475,521,475,512,463,488,453,485,429,494,417,486,403,430,379,403,380,396,391,399,432,326,393,223,375,228,396,276,422,316,429,339,443,364,472,324,458,287,459,252,466,217,457,212,465,233,482,248,500,198,523,166,528,155,541"
-                }
+                  "name": "iris",
+                  "id": "iris"
+                },
+                "content": [
+                  {
+                    "type": "area",
+                    "attrs": {
+                      "href": "#iris",
+                      "title": "イリス",
+                      "alt": "イリス",
+                      "id": "area_iris",
+                      "shape": "poly",
+                      "coords": "40,484,55,448,88,427,134,405,135,362,176,321,211,245,255,240,291,199,286,177,270,185,263,206,211,225,200,186,202,163,195,152,177,156,163,86,137,142,115,123,93,131,25,87,23,105,42,148,70,180,83,236,65,264,62,291,46,302,42,316,48,321,55,321,57,334,48,346,38,338,22,340,14,349,15,384,29,400,26,418,34,430,49,428,43,436,32,438,25,461,26,486"
+                    }
+                  },
+                  {
+                    "type": "area",
+                    "attrs": {
+                      "href": "#morpheus",
+                      "title": "眠りの神",
+                      "alt": "眠りの神",
+                      "id": "area_morpheus",
+                      "shape": "poly",
+                      "coords": "157,534,223,512,261,510,280,521,295,575,303,580,339,545,350,529,421,518,438,502,461,496,485,479,509,490,552,478,549,463,531,458,502,458,494,446,471,436,468,414,477,401,468,388,414,365,388,366,382,376,384,416,314,379,215,361,220,382,266,406,305,414,327,427,351,455,312,441,277,443,243,449,209,440,205,448,225,464,239,482,191,504,160,509,149,521"
+                    }
+                  }
+                ]
               }
             ]
           }
         ]
       },
       {
-        "type": "notices",
+        "type": "paragraph",
         "content": [
           {
             "type": "rubylang",
@@ -685,8 +692,9 @@
             "type": "text",
             "marks": [
               {
-                "type": "link",
+                "type": "linkwithid",
                 "attrs": {
+                  "id": "iris",
                   "href": "#area_iris",
                   "title": "イリス"
                 }
@@ -753,7 +761,8 @@
       {
         "type": "heading",
         "attrs": {
-          "level": 2
+          "level": 2,
+          "id": "イリス"
         },
         "content": [
           {
@@ -1467,7 +1476,7 @@
         ]
       },
       {
-        "type": "notices",
+        "type": "paragraph",
         "content": [
           {
             "type": "text",
@@ -1493,7 +1502,7 @@
         ]
       },
       {
-        "type": "notices",
+        "type": "paragraph",
         "content": [
           {
             "type": "text",
@@ -1502,10 +1511,10 @@
         ]
       },
       {
-        "type": "noticesblockquotes",
+        "type": "blockquote",
         "content": [
           {
-            "type": "notices",
+            "type": "paragraph",
             "content": [
               {
                 "type": "text",
@@ -1516,7 +1525,7 @@
         ]
       },
       {
-        "type": "notices",
+        "type": "paragraph",
         "content": [
           {
             "type": "text",
@@ -1576,9 +1585,10 @@
         ]
       },
       {
-        "type": "noticesheading",
+        "type": "heading",
         "attrs": {
-          "level": 3
+          "level": 3,
+          "id": "絵画の題名について："
         },
         "content": [
           {
@@ -1588,7 +1598,7 @@
         ]
       },
       {
-        "type": "notices",
+        "type": "paragraph",
         "content": [
           {
             "type": "text",
@@ -1643,8 +1653,9 @@
             ],
             "marks": [
               {
-                "type": "link",
+                "type": "linkwithid",
                 "attrs": {
+                  "id": "morpheus",
                   "href": "#area_morpheus",
                   "title": "モルペウス"
                 }
@@ -1668,7 +1679,7 @@
   },
   "selection": {
     "type": "text",
-    "anchor": 2745,
-    "head": 2745
+    "anchor": 2747,
+    "head": 2747
   }
 }
