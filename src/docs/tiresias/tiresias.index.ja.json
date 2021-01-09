@@ -1,0 +1,66 @@
+{
+  "title": "テイレシアス",
+  "menu": "テイレシアス",
+  "template": "docs_minus_h1",
+  "created": "02-01-2017, 21:54",
+  "date": "25-02-2018, 12:26",
+  "modified": "26-11-2018, 20:48",
+  "itempage": "Article",
+  "taxonomy": {
+    "category": [
+      "docs",
+      "ja"
+    ]
+  },
+  "metadata": {
+    "description": "トリアノンにルネ＝アントワーヌ・ウアスが描いたある「ミネルヴァとテイレシアス」絵画のもとに使用された、オウィディウス作家が書いた変身物語の第3巻のミネルヴァがテイレシアスの眼を見えなくさせていることが語られている「テイレシアス章」の文書",
+    "keywords": "ヴェルサイユ宮殿, ヴェルサイユ, ルイ１４世, Louis XIV, ルイ十四世, オウィディウス, 変身物語, トリアノン, テイレシアス, ミネルヴァ, ミネルヴァとテイレシアス, ルネ＝アントワーヌ・ウアス, 大トリアノン宮殿, Minerve et Tirésias, Minerva, Tiresias",
+    "image": "tiresias_700x501.jpg",
+    "image_width": 700,
+    "image_height": 501,
+    "image_title": "ルネ＝アントワーヌ・ウアス、《ミネルヴァとテイレシアス》",
+    "image_legend": "手前に見えるミネルヴァが真ん中にいるテイレシアスを見えなくさせている",
+    "twitter:card": "summary"
+  },
+  "significantlinks": [
+    "https://ja.wikipedia.org/wiki/大トリアノン宮殿",
+    "https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス",
+    "https://ja.wikipedia.org/wiki/オウィディウス",
+    "https://ja.wikipedia.org/wiki/変身物語",
+    "https://ja.wikipedia.org/wiki/ミネルウァ",
+    "https://ja.wikipedia.org/wiki/テイレシアース"
+  ],
+  "specialty": [
+    "フランス歴史",
+    "神話",
+    "ローマ帝国文学",
+    "宮廷文化",
+    "ヴェルサイユ宮殿",
+    "十七世紀フランス絵画",
+    "ルイ１４世",
+    "Louis XIV",
+    "ルイ十四世",
+    "ヴェルサイユ",
+    "ヴェルサイユ宮殿",
+    "大トリアノン宮殿",
+    "フランス絵画",
+    "フランス古典主義",
+    "フランス宮廷絵画",
+    "フランス宮廷画家",
+    "ルネ＝アントワーヌ・ウアス",
+    "ミネルヴァとテイレシアス",
+    "ミネルヴァ",
+    "テイレシアス",
+    "ミネルヴァとテイレシアス",
+    "Minerve et Tirésias",
+    "Minerva",
+    "Tiresias"
+  ],
+  "shortcode-core": {
+    "active": true
+  },
+  "sitemap": {
+    "changefreq": "monthly",
+    "priority": 0.9
+  }
+}

@@ -27,20 +27,21 @@
                   {
                     "type": "source",
                     "attrs": {
+                      "media": null,
                       "sizes": "(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw",
-                      "srcset": "\nhttps://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-280.webp 280w,\nhttps://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-380.webp 380w,\nhttps://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-480.webp 480w,\nhttps://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-640.webp 640w,\nhttps://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.webp 700w",
+                      "srcset": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-280.webp 280w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-380.webp 380w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-480.webp 480w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-640.webp 640w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.webp 700w",
                       "type": "image/webp"
                     }
                   },
                   {
                     "type": "image",
                     "attrs": {
-                      "src": "/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg",
+                      "src": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg",
                       "title": "ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアス、《イリスの近づきに目覚めるモルフェ》絵画",
                       "alt": "ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアス、《イリスの近づきに目覚めるモルフェ》絵画",
                       "usemap": "#iris",
                       "sizes": "(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw",
-                      "srcset": "\nhttps://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-280.jpg 280w,\nhttps://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-380.jpg 380w,\nhttps://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-480.jpg 480w,\nhttps://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-640.jpg 640w,\nhttps://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg 700w",
+                      "srcset": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-280.jpg 280w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-380.jpg 380w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-480.jpg 480w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-640.jpg 640w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg 700w",
                       "id": null
                     }
                   }
@@ -65,23 +66,23 @@
                   {
                     "type": "area",
                     "attrs": {
-                      "href": "#iris",
                       "title": "イリス",
                       "alt": "イリス",
                       "id": "area_iris",
+                      "href": "#iris",
                       "shape": "poly",
-                      "coords": "40,484,55,448,88,427,134,405,135,362,176,321,211,245,255,240,291,199,286,177,270,185,263,206,211,225,200,186,202,163,195,152,177,156,163,86,137,142,115,123,93,131,25,87,23,105,42,148,70,180,83,236,65,264,62,291,46,302,42,316,48,321,55,321,57,334,48,346,38,338,22,340,14,349,15,384,29,400,26,418,34,430,49,428,43,436,32,438,25,461,26,486"
+                      "coords": "60,724,83,671,131,639,200,607,202,541,263,481,317,366,382,359,435,298,428,266,404,276,394,308,317,337,300,279,303,244,292,227,266,234,244,129,205,212,173,185,140,197,38,130,35,158,64,222,105,269,124,353,98,395,93,435,68,452,62,472,72,480,83,481,85,500,72,517,56,505,33,509,21,522,22,575,44,598,39,625,52,644,73,640,65,652,48,655,38,690,39,727"
                     }
                   },
                   {
                     "type": "area",
                     "attrs": {
-                      "href": "#morpheus",
                       "title": "眠りの神",
                       "alt": "眠りの神",
                       "id": "area_morpheus",
+                      "href": "#morpheus",
                       "shape": "poly",
-                      "coords": "157,534,223,512,261,510,280,521,295,575,303,580,339,545,350,529,421,518,438,502,461,496,485,479,509,490,552,478,549,463,531,458,502,458,494,446,471,436,468,414,477,401,468,388,414,365,388,366,382,376,384,416,314,379,215,361,220,382,266,406,305,414,327,427,351,455,312,441,277,443,243,449,209,440,205,448,225,464,239,482,191,504,160,509,149,521"
+                      "coords": "235,799,335,766,392,763,419,779,442,860,453,868,508,816,523,792,630,775,655,750,690,742,726,717,762,734,826,715,822,692,794,685,752,685,739,667,705,652,700,619,713,600,701,581,620,546,582,547,572,563,575,622,470,567,323,540,330,571,399,608,457,619,490,639,526,680,468,660,415,662,364,672,313,659,307,671,337,695,358,721,286,754,239,761,223,779"
                     }
                   }
                 ]
@@ -104,16 +105,16 @@
                 "text": "大トリアノン宮殿"
               },
               {
-                "type": "pronunciationlang",
-                "attrs": {
-                  "lang": "fr"
-                },
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "le Grand Trianon"
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "fr"
+                    }
                   }
-                ]
+                ],
+                "text": "le Grand Trianon"
               }
             ],
             "marks": [
@@ -141,74 +142,64 @@
                 "text": "ルネ"
               },
               {
-                "type": "pronunciationlang",
-                "attrs": {
-                  "lang": "fr"
-                },
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "René"
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "fr"
+                    }
                   }
-                ]
+                ],
+                "text": "René"
               },
               {
                 "type": "text",
                 "text": "＝"
               },
               {
-                "type": "pronunciationlang",
-                "attrs": {
-                  "lang": "fr"
-                },
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "-"
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "fr"
+                    }
                   }
-                ]
+                ],
+                "text": "-"
               },
               {
                 "type": "text",
                 "text": "アントワーヌ"
               },
               {
-                "type": "pronunciationlang",
-                "attrs": {
-                  "lang": "fr"
-                },
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "Antoine"
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "fr"
+                    }
                   }
-                ]
+                ],
+                "text": "Antoine"
               },
               {
                 "type": "text",
-                "text": "・"
-              },
-              {
-                "type": "pronunciationlang",
-                "attrs": {
-                  "lang": "fr"
-                }
+                "text": "・ウアス"
               },
               {
                 "type": "text",
-                "text": "ウアス"
-              },
-              {
-                "type": "pronunciationlang",
-                "attrs": {
-                  "lang": "fr"
-                },
-                "content": [
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "Houasse"
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "fr"
+                    }
                   }
-                ]
+                ],
+                "text": "Houasse"
               }
             ],
             "marks": [
@@ -236,16 +227,16 @@
                 "text": "イリス"
               },
               {
-                "type": "pronunciationlang",
-                "attrs": {
-                  "lang": "fr"
-                },
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "Iris"
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "fr"
+                    }
                   }
-                ]
+                ],
+                "text": "Iris"
               }
             ]
           },
@@ -264,16 +255,16 @@
                 "text": "モルフェ"
               },
               {
-                "type": "pronunciationlang",
-                "attrs": {
-                  "lang": "fr"
-                },
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "Morphée"
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "fr"
+                    }
                   }
-                ]
+                ],
+                "text": "Morphée"
               }
             ]
           },
@@ -292,16 +283,16 @@
                 "text": "ルイ=フィリップの家族の間"
               },
               {
-                "type": "pronunciationlang",
-                "attrs": {
-                  "lang": "fr"
-                },
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "le Salon de Famille de Louis-Philippe"
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "fr"
+                    }
                   }
-                ]
+                ],
+                "text": "le Salon de Famille de Louis-Philippe"
               }
             ]
           },
@@ -323,16 +314,16 @@
                 "text": "オウィディウス"
               },
               {
-                "type": "pronunciationlang",
-                "attrs": {
-                  "lang": "la"
-                },
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "Ovidius"
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
                   }
-                ]
+                ],
+                "text": "Ovidius"
               }
             ],
             "marks": [
@@ -360,16 +351,16 @@
                 "text": "変身物語"
               },
               {
-                "type": "pronunciationlang",
-                "attrs": {
-                  "lang": "grc"
-                },
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "Metamorphoseon"
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "grc"
+                    }
                   }
-                ]
+                ],
+                "text": "Metamorphoseon"
               }
             ],
             "marks": [
@@ -397,16 +388,16 @@
                 "text": "ケユクス"
               },
               {
-                "type": "pronunciationlang",
-                "attrs": {
-                  "lang": "la"
-                },
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "Ceyx"
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
                   }
-                ]
+                ],
+                "text": "Ceyx"
               }
             ],
             "marks": [
@@ -434,16 +425,16 @@
                 "text": "アルキュオネ"
               },
               {
-                "type": "pronunciationlang",
-                "attrs": {
-                  "lang": "la"
-                },
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "Alcyone"
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
                   }
-                ]
+                ],
+                "text": "Alcyone"
               }
             ],
             "marks": [
@@ -478,16 +469,16 @@
                 "text": "アポロン"
               },
               {
-                "type": "pronunciationlang",
-                "attrs": {
-                  "lang": "la"
-                },
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "Apollōn"
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
                   }
-                ]
+                ],
+                "text": "Apollōn"
               }
             ],
             "marks": [
@@ -515,16 +506,16 @@
                 "text": "クラロス"
               },
               {
-                "type": "pronunciationlang",
-                "attrs": {
-                  "lang": "la"
-                },
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "Claros"
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
                   }
-                ]
+                ],
+                "text": "Claros"
               }
             ],
             "marks": [
@@ -549,39 +540,39 @@
                 "text": "大"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "おお"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "おお"
               },
               {
                 "type": "text",
                 "text": "時"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "し"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "し"
               },
               {
                 "type": "text",
                 "text": "化"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "け"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "け"
               }
             ]
           },
@@ -597,26 +588,26 @@
                 "text": "藻"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "も"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "も"
               },
               {
                 "type": "text",
                 "text": "屑"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "くず"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "くず"
               }
             ]
           },
@@ -642,16 +633,16 @@
                 "text": "ユノー"
               },
               {
-                "type": "pronunciationlang",
-                "attrs": {
-                  "lang": "la"
-                },
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "Juno"
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
                   }
-                ]
+                ],
+                "text": "Juno"
               }
             ],
             "marks": [
@@ -694,9 +685,9 @@
               {
                 "type": "linkwithid",
                 "attrs": {
-                  "id": "iris",
                   "href": "#area_iris",
-                  "title": "イリス"
+                  "title": "イリス",
+                  "id": "iris"
                 }
               }
             ],
@@ -724,16 +715,16 @@
                 "text": "ソムヌス"
               },
               {
-                "type": "pronunciationlang",
-                "attrs": {
-                  "lang": "la"
-                },
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "Somnus"
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
                   }
-                ]
+                ],
+                "text": "Somnus"
               }
             ]
           },
@@ -806,13 +797,13 @@
                 "text": "虹"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "イリス"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "イリス"
               }
             ]
           },
@@ -828,13 +819,13 @@
                 "text": "衣"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "ころも"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "ころも"
               }
             ]
           },
@@ -858,16 +849,16 @@
                 "text": "キムメリア"
               },
               {
-                "type": "pronunciationlang",
-                "attrs": {
-                  "lang": "la"
-                },
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "Cimmeria"
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
                   }
-                ]
+                ],
+                "text": "Cimmeria"
               }
             ],
             "marks": [
@@ -905,13 +896,13 @@
                 "text": "洞"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "ほら"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "ほら"
               }
             ]
           },
@@ -927,26 +918,26 @@
                 "text": "懶"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "らん"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "らん"
               },
               {
                 "type": "text",
                 "text": "惰"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "だ"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "だ"
               }
             ]
           },
@@ -962,26 +953,26 @@
                 "text": "朦"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "もう"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "もう"
               },
               {
                 "type": "text",
                 "text": "朧"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "ろう"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "ろう"
               }
             ]
           },
@@ -997,26 +988,26 @@
                 "text": "鶏"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "と"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "と"
               },
               {
                 "type": "text",
                 "text": "冠"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "さか"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "さか"
               }
             ]
           },
@@ -1032,13 +1023,13 @@
                 "text": "曙"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "アウロラ"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "アウロラ"
               }
             ]
           },
@@ -1054,26 +1045,26 @@
                 "text": "鵞"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "が"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "が"
               },
               {
                 "type": "text",
                 "text": "鳥"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "ちょう"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "ちょう"
               }
             ]
           },
@@ -1107,13 +1098,13 @@
                 "text": "忘却"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "レーテ"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "レーテ"
               }
             ]
           },
@@ -1129,26 +1120,26 @@
                 "text": "罌"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "け"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "け"
               },
               {
                 "type": "text",
                 "text": "粟"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "し"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "し"
               }
             ]
           },
@@ -1169,26 +1160,26 @@
                 "text": "蝶"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "ちょう"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "ちょう"
               },
               {
                 "type": "text",
                 "text": "番"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "つがい"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "つがい"
               }
             ]
           },
@@ -1204,13 +1195,13 @@
                 "text": "一色"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "いっしょく"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "いっしょく"
               }
             ]
           },
@@ -1226,26 +1217,26 @@
                 "text": "真"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "ま"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "ま"
               },
               {
                 "type": "text",
                 "text": "砂"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "さご"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "さご"
               }
             ]
           },
@@ -1288,13 +1279,13 @@
                 "text": "顎"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "あご"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "あご"
               }
             ]
           },
@@ -1310,26 +1301,26 @@
                 "text": "喉"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "のど"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "のど"
               },
               {
                 "type": "text",
                 "text": "首"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "くび"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "くび"
               }
             ]
           },
@@ -1345,26 +1336,26 @@
                 "text": "片"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "かた"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "かた"
               },
               {
                 "type": "text",
                 "text": "肱"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "ひじ"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "ひじ"
               }
             ]
           },
@@ -1389,26 +1380,26 @@
                 "text": "寄"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "よ"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "よ"
               },
               {
                 "type": "text",
                 "text": "越"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "こ"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "こ"
               }
             ]
           },
@@ -1442,13 +1433,13 @@
                 "text": "虹"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "イリス"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "イリス"
               }
             ]
           },
@@ -1546,26 +1537,26 @@
                 "text": "翡"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "カワ"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "カワ"
               },
               {
                 "type": "text",
                 "text": "翠"
               },
               {
-                "type": "pronunciation",
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "セミ"
+                    "type": "rt"
                   }
-                ]
+                ],
+                "text": "セミ"
               }
             ],
             "marks": [
@@ -1639,25 +1630,25 @@
                 "text": "モルフェ"
               },
               {
-                "type": "pronunciationlang",
-                "attrs": {
-                  "lang": "fr"
-                },
-                "content": [
+                "type": "text",
+                "marks": [
                   {
-                    "type": "text",
-                    "text": "Morphée"
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "fr"
+                    }
                   }
-                ]
+                ],
+                "text": "Morphée"
               }
             ],
             "marks": [
               {
                 "type": "linkwithid",
                 "attrs": {
-                  "id": "morpheus",
                   "href": "#area_morpheus",
-                  "title": "モルペウス"
+                  "title": "モルペウス",
+                  "id": "morpheus"
                 }
               }
             ]
@@ -1679,7 +1670,7 @@
   },
   "selection": {
     "type": "text",
-    "anchor": 2747,
-    "head": 2747
+    "anchor": 2639,
+    "head": 2639
   }
 }

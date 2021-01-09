@@ -1,0 +1,445 @@
+{
+  "doc": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "id": ""
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Tirésias"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "figure",
+            "content": [
+              {
+                "type": "picture",
+                "content": [
+                  {
+                    "type": "source",
+                    "attrs": {
+                      "media": null,
+                      "sizes": "(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw",
+                      "srcset": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-280.webp 280w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-380.webp 380w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-480.webp 480w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-640.webp 640w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias_700x501.webp 700w",
+                      "type": "image/webp"
+                    }
+                  },
+                  {
+                    "type": "image",
+                    "attrs": {
+                      "src": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias_700x501.jpg",
+                      "title": "Peinture de René-Antoine HOUASSE, “Minerve et Tirésias”, Grand Trianon, Château de Versailles",
+                      "alt": "Peinture de René-Antoine HOUASSE, “Minerve et Tirésias”, Grand Trianon, Château de Versailles",
+                      "usemap": null,
+                      "sizes": "(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw",
+                      "srcset": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-280.jpg 280w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-380.jpg 380w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-480.jpg 480w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias-640.jpg 640w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/02.tiresias/tiresias_700x501.jpg 700w",
+                      "id": null
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "figcaption",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Minerve au premier plan rend aveugle Tirésias, au centre"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Au "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Grand_Trianon",
+                  "title": "https://fr.wikipedia.org/wiki/Grand_Trianon"
+                }
+              }
+            ],
+            "text": "Grand Trianon"
+          },
+          {
+            "type": "text",
+            "text": ", dans le Salon des Seigneurs, se trouve un tableau peint par "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/René-Antoine_Houasse",
+                  "title": "https://fr.wikipedia.org/wiki/René-Antoine HOUASSE"
+                }
+              }
+            ],
+            "text": "René-Antoine HOUASSE"
+          },
+          {
+            "type": "text",
+            "text": ", « Minerve et Tirésias »."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Minerve_(mythologie)",
+                  "title": "https://fr.wikipedia.org/wiki/Minerve_(mythologie)"
+                }
+              }
+            ],
+            "text": "Minerve"
+          },
+          {
+            "type": "text",
+            "text": ", au premier plan, y rend aveugle "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Tirésias",
+                  "title": "https://fr.wikipedia.org/wiki/Tirésias"
+                }
+              }
+            ],
+            "text": "Tirésias"
+          },
+          {
+            "type": "text",
+            "text": ", au centre, tel que le raconte "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Ovide",
+                  "title": "https://fr.wikipedia.org/wiki/Ovide"
+                }
+              }
+            ],
+            "text": "Ovide"
+          },
+          {
+            "type": "text",
+            "text": " dans le livre III de ses "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)",
+                  "title": "https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)"
+                }
+              }
+            ],
+            "text": "Métamorphoses"
+          },
+          {
+            "type": "text",
+            "text": "."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "En voici l'extrait."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              },
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(40, 161, 197)"
+                }
+              }
+            ],
+            "text": "Tirésias"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "316"
+          },
+          {
+            "type": "text",
+            "text": " Tandis que la loi du destin s'accomplissait de la sorte sur terre"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Et que le berceau du petit Bacchus, né deux fois, était en sûreté,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Jupiter, que le nectar, nous dit-on, avait un jour détendu,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Mit de côté les occupations sérieuses pour se distraire"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "320"
+          },
+          {
+            "type": "text",
+            "text": " Avec Junon et badiner en toute quiétude : « Je parie"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Que votre plaisir est plus grand que celui qu'éprouvent"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Les mâles », affirma-t-il. Elle n'était pas d'accord. Ils résolurent"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "De demander l'avis du sage Tirésias. Celui-ci connaissait le plaisir"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Des deux sexes car après avoir profané d'un coup de baton,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "325"
+          },
+          {
+            "type": "text",
+            "text": " Dans une forêt verdoyante, le coît de deux grand serpents,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Il avait été changé (stupeur!) d'homme en femme"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Durant sept automnes ; au huitième, les ayant revus,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Il avait dit : « Puisqu'un coup reçu vous donne le pouvoir"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "De changer le sexe de son auteur, je vais vous frapper"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "330"
+          },
+          {
+            "type": "text",
+            "text": " À nouveau. » Les deux serpents sont frappés, il avait repris"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Sa forme première et son aspect naturel."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Donc, choisi comme arbitre dans cette querelle pour rire,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Il donna raison à Jupiter. La fille de Saturne, dit-on,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Le prit beaucoup plus mal que la chose n'en valait la peine"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "335"
+          },
+          {
+            "type": "text",
+            "text": " et condamna les yeux de son juge à la nuit éternelle."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Mais le père tout-puissant (aucun dieu n'a le droit, en effet, d'annuler"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Les décisions d'un autre dieu) lui donna, pour pallier sa cécité, la prescience"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "338"
+          },
+          {
+            "type": "text",
+            "text": " De l'avenir et adoucit sa peine en lui témoignant son estime."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(40, 161, 197)"
+                }
+              }
+            ],
+            "text": "Ovide, “Les Métamorphoses”, Livre III"
+          }
+        ]
+      }
+    ]
+  },
+  "selection": {
+    "type": "text",
+    "anchor": 1796,
+    "head": 1796
+  }
+}

@@ -1,0 +1,489 @@
+{
+  "doc": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "id": ""
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Tiresias"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "figure",
+            "content": [
+              {
+                "type": "picture",
+                "content": [
+                  {
+                    "type": "source",
+                    "attrs": {
+                      "media": null,
+                      "sizes": "(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw",
+                      "srcset": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-280.webp 280w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-380.webp 380w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-480.webp 480w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-640.webp 640w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.webp 700w",
+                      "type": "image/webp"
+                    }
+                  },
+                  {
+                    "type": "image",
+                    "attrs": {
+                      "src": "https://francois-vidit.co/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg",
+                      "title": "Peinture de René-Antoine HOUASSE, “Minerve and Tiresias”, qui se trouve au Grand Trianon au Château de Versailles",
+                      "alt": "Peinture de René-Antoine HOUASSE, “Minerve and Tiresias”, qui se trouve au Grand Trianon au Château de Versailles",
+                      "usemap": null,
+                      "sizes": "(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw",
+                      "srcset": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-280.jpg 280w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-380.jpg 380w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-480.jpg 480w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-640.jpg 640w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg 700w",
+                      "id": null
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "figcaption",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Minerve at first ground makes Tiresias in the center becoming blind"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "At the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Grand_Trianon",
+                  "title": "https://en.wikipedia.org/wiki/Grand_Trianon"
+                }
+              }
+            ],
+            "text": "Grand Trianon"
+          },
+          {
+            "type": "text",
+            "text": ", in the Salon des Seigneurs, is a painting painted by "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/René-Antoine_Houasse",
+                  "title": "https://en.wikipedia.org/wiki/René-Antoine_Houasse"
+                }
+              }
+            ],
+            "text": "René-Antoine HOUASSE"
+          },
+          {
+            "type": "text",
+            "text": ", « Minerva and Tiresias »."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Minerva",
+                  "title": "https://en.wikipedia.org/wiki/Minerva"
+                }
+              }
+            ],
+            "text": "Minerva"
+          },
+          {
+            "type": "text",
+            "text": " at first ground makes Tiresias in the center becoming blind, as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Ovid",
+                  "title": "https://en.wikipedia.org/wiki/Ovid"
+                }
+              }
+            ],
+            "text": "Ovid"
+          },
+          {
+            "type": "text",
+            "text": " tells in Book III of the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Metamorphoses",
+                  "title": "https://en.wikipedia.org/wiki/Metamorphoses"
+                }
+              }
+            ],
+            "text": "Metamorphosis"
+          },
+          {
+            "type": "text",
+            "text": "."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Here's the text."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              },
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(40, 161, 197)"
+                }
+              }
+            ],
+            "text": "Tiresias"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "316"
+          },
+          {
+            "type": "text",
+            "text": " While these events according to the laws"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "of destiny occurred, and while the child,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "the twice-born Bacchus, in his cradle lay,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "'Tis told that Jupiter, a careless hour,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "indulged too freely in the nectar cup;"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "and having laid aside all weighty cares,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "jested with Juno as she idled by."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "320"
+          },
+          {
+            "type": "text",
+            "text": " Freely the god began; “Who doubts the truth?"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "The female's pleasure is a great delight,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "much greater than the pleasure of a male.”"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Juno denied it; wherefore 'twas agreed"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "to ask Tiresias to declare the truth,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "than whom none knew both male and female joys:"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "for wandering in a green wood he had seen"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "two serpents coupling; and he took his staff"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "and sharply struck them, till they broke and fled."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "'Tis marvelous, that instant he became"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "a woman from a man, and so remained"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "while seven autumns passed. When eight were told,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "again he saw them in their former plight,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "and thus he spoke; “Since such a power was wrought,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "by one stroke of a staff my sex was changed—"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "again I strike!” And even as he struck"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "the same two snakes, his former sex returned;"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "his manhood was restored.—"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "as both agreed"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "to choose him umpire of the sportive strife,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "he gave decision in support of Jove;"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "from this the disappointment Juno felt"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "surpassed all reason, and enraged, decreed"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "eternal night should seal Tiresias' eyes.—"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "337"
+          },
+          {
+            "type": "text",
+            "text": " immortal Deities may never turn"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "decrees and deeds of other Gods to naught,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "but Jove, to recompense his loss of sight,"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "endowed him with the gift of prophecy."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(40, 161, 197)"
+                }
+              }
+            ],
+            "text": "Ovid, “The Metamorphosis”, Book III"
+          }
+        ]
+      }
+    ]
+  },
+  "selection": {
+    "type": "text",
+    "anchor": 1834,
+    "head": 1834
+  }
+}

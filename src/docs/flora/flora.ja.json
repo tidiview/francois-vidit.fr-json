@@ -1,0 +1,7003 @@
+{
+  "doc": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "id": ""
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "フロラ"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "figure",
+            "content": [
+              {
+                "type": "picture",
+                "content": [
+                  {
+                    "type": "source",
+                    "attrs": {
+                      "media": null,
+                      "sizes": "(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw",
+                      "srcset": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-280.webp 280w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-380.webp 380w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-480.webp 480w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-640.webp 640w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore_700x1152.webp 700w",
+                      "type": "image/webp"
+                    }
+                  },
+                  {
+                    "type": "image",
+                    "attrs": {
+                      "src": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore_700x1152.jpg",
+                      "title": "ヴェルサイユの大トリアノン宮殿にある、ジャン・ジューヴェネ、《フロラとゼフィルス》絵画",
+                      "alt": "ヴェルサイユの大トリアノン宮殿にある、ジャン・ジューヴェネ、《フロラとゼフィルス》絵画",
+                      "usemap": null,
+                      "sizes": "(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw",
+                      "srcset": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-280.jpg 280w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-380.jpg 380w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-480.jpg 480w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-640.jpg 640w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore_700x1152.jpg 700w",
+                      "id": "zephyr_et_flore"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "figcaption",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "フロラに花の連なりの籠を差し出すゼフィルス"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "大トリアノン宮殿"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "fr"
+                    }
+                  }
+                ],
+                "text": "le Grand Trianon"
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/大トリアノン宮殿",
+                  "title": "https://ja.wikipedia.org/wiki/大トリアノン宮殿"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "に展示されている"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "ジャン"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "Jean"
+              },
+              {
+                "type": "text",
+                "text": "・ジューヴネ"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "JOUVENET"
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "http://www.louvre.fr/jp/rooms/フランス　ルイ14世の画家の間",
+                  "title": "http://www.louvre.fr/jp/rooms/フランス_ルイ１４世の画家の間"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "が描いた「"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "フロラ"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "fr"
+                    }
+                  }
+                ],
+                "text": "Flore"
+              },
+              {
+                "type": "text",
+                "text": "と"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "fr"
+                    }
+                  }
+                ],
+                "text": "et"
+              },
+              {
+                "type": "text",
+                "text": "ゼフィルス"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "fr"
+                    }
+                  }
+                ],
+                "text": "Zéphyr"
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#zephyr_et_flore",
+                  "title": "フロラとゼフィルス"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "」絵画が「"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "涼みの間"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "fr"
+                    }
+                  }
+                ],
+                "text": "le Salon Frais"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "」に見られます。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "川沿いで、花の冠をかぶせようとしているひとりの天使や身を清めている"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "妖精"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "ニンフ"
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/ニュンペー",
+                  "title": "https://ja.wikipedia.org/wiki/ニンフ"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/ニュンペー",
+                  "title": "https://ja.wikipedia.org/wiki/ニンフ"
+                }
+              }
+            ],
+            "text": "たち"
+          },
+          {
+            "type": "text",
+            "text": "が近くに、何ともいえない春が漂う雰囲気なかで、"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_zephyrus",
+                  "title": "ゼフィルス",
+                  "id": "zephyrus_4"
+                }
+              }
+            ],
+            "text": "西の"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "微"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "そよ"
+              },
+              {
+                "type": "text",
+                "text": "風"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "かぜ"
+              }
+            ],
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_zephyrus",
+                  "title": "ゼフィルス",
+                  "id": "zephyrus_4"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "である羽が付いている男のひと"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "ゼフィルス"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Zephyrus"
+              }
+            ],
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_zephyrus",
+                  "title": "ゼフィルス",
+                  "id": "zephyrus"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "は、美しい女の人、"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "フロラ"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Flora"
+              }
+            ],
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_flora",
+                  "title": "フロラ女神",
+                  "id": "flora"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "に花の籠を差し出しています。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "この部屋のために"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/1688年",
+                  "title": "https://ja.wikipedia.org/wiki/１６８８年"
+                }
+              }
+            ],
+            "text": "１６８８年"
+          },
+          {
+            "type": "text",
+            "text": "に"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "ルイ"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "fr"
+                    }
+                  }
+                ],
+                "text": "Louis"
+              },
+              {
+                "type": "text",
+                "text": "十四世"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "fr"
+                    }
+                  }
+                ],
+                "text": "XIV"
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/ルイ14世_(フランス王)",
+                  "title": "https://ja.wikipedia.org/wiki/ルイ１４世"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "に注文されたこの絵画は、ローマ皇帝文学作家"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "オウィディウス"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Ovidius"
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/オウィディウス",
+                  "title": "https://ja.wikipedia.org/wiki/オウィディウス"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "が著わした「"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "祭暦"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Fasti"
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/オウィディウス#.E3.80.8E.E7.A5.AD.E6.9A.A6.E3.80.8F",
+                  "title": "https://ja.wikipedia.org/wiki/オウィディウス#祭暦"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "」にある文書から、史料によって知られています。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "「"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/オウィディウス#.E3.80.8E.E7.A5.AD.E6.9A.A6.E3.80.8F",
+                  "title": "https://ja.wikipedia.org/wiki/オウィディウス#祭暦"
+                }
+              }
+            ],
+            "text": "祭暦"
+          },
+          {
+            "type": "text",
+            "text": "」において、"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/オウィディウス",
+                  "title": "https://ja.wikipedia.org/wiki/オウィディウス"
+                }
+              }
+            ],
+            "text": "オウィディウス"
+          },
+          {
+            "type": "text",
+            "text": "が"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/ローマ暦",
+                  "title": "https://ja.wikipedia.org/ローマ暦"
+                }
+              }
+            ],
+            "text": "ローマ"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "暦"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "こよみ"
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/ローマ暦",
+                  "title": "https://ja.wikipedia.org/ローマ暦"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "を季節に応じて、天文や農事に関する行事や祭りを描きながら、自らを暦に司る司祭として自己言及し、あれこれ語るため、神々に直接お話しを聞くという文学的仕掛けが用いられています。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_flora",
+                  "title": "フロラ女神",
+                  "id": "flora_2"
+                }
+              }
+            ],
+            "text": "フロラ"
+          },
+          {
+            "type": "text",
+            "text": "が登場するこの第5巻ともなっている、同時に５月に当たる以下の文書でも、"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/オウィディウス",
+                  "title": "https://ja.wikipedia.org/wiki/オウィディウス"
+                }
+              }
+            ],
+            "text": "オウィディウス"
+          },
+          {
+            "type": "text",
+            "text": "が女神に直接話しを掛けながら、始まっています（"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#183",
+                  "title": "１８３行",
+                  "id": "retour_183"
+                }
+              }
+            ],
+            "text": "１８３~１９２行"
+          },
+          {
+            "type": "text",
+            "text": "）。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "彼はまず彼女自身と彼女を記念する4月末と5月の頭に行なわれる"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "フロラリア"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Floralia"
+              }
+            ],
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_floralia",
+                  "title": "祭り",
+                  "id": "floralia"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_floralia",
+                  "title": "祭り",
+                  "id": "floralia"
+                }
+              }
+            ],
+            "text": "祭り"
+          },
+          {
+            "type": "text",
+            "text": "について情報を求めている。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "絵画で表されている場面と直接な関係が視覚的に見えないのに、女神の魅力と神秘の意義、また"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "http://www.louvre.fr/jp/rooms/フランス　ルイ14世の画家の間",
+                  "title": "http://www.louvre.fr/jp/rooms/フランス_ルイ１４世の画家の間"
+                }
+              }
+            ],
+            "text": "ジャン・ジューヴネ"
+          },
+          {
+            "type": "text",
+            "text": "の表しをより把握する為に役に立ちます。 それで、"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_flora",
+                  "title": "フロラ女神",
+                  "id": "flora_3"
+                }
+              }
+            ],
+            "text": "フロラ"
+          },
+          {
+            "type": "text",
+            "text": "は、答えとして、自分を「"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "クロリス"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Chloris"
+              }
+            ],
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_chloris",
+                  "title": "クロリス",
+                  "id": "chloris"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "」と名のる至福者たちの島出身、"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_zephyrus",
+                  "title": "ゼフィルス",
+                  "id": "zephyrus_2"
+                }
+              }
+            ],
+            "text": "ゼフィルス"
+          },
+          {
+            "type": "text",
+            "text": "を戸惑う美しさを持つ"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "妖精"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "ニンフ"
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/ニュンペー",
+                  "title": "https://ja.wikipedia.org/wiki/ニンフ"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "のひとりとして同一視しながら、自分を紹介しています。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "彼は彼女を誘拐して、自分の嫁にさせて、そして女神として、花の主権を与えられたことも語られていると同時に（"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#193",
+                  "title": "１９３行",
+                  "id": "retour_193"
+                }
+              }
+            ],
+            "text": "１９３~２２２行"
+          },
+          {
+            "type": "text",
+            "text": "）、フロラが伝統的に、春、美しさ、活気に満ちた"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "ホラ"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Hora"
+              }
+            ],
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_hora",
+                  "title": "女神ホラたち",
+                  "id": "heures"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_hora",
+                  "title": "女神ホラたち",
+                  "id": "heures"
+                }
+              }
+            ],
+            "text": "神女たち"
+          },
+          {
+            "type": "text",
+            "text": "と"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "カリス"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Charis"
+              }
+            ],
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_charis",
+                  "title": "女神カリスたち",
+                  "id": "graces"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_charis",
+                  "title": "女神カリスたち",
+                  "id": "graces"
+                }
+              }
+            ],
+            "text": "神女たち"
+          },
+          {
+            "type": "text",
+            "text": "に囲まれている姿が表されていることになります。"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "hard_break"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "id": "フロラとゼフィルス"
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              },
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(223, 138, 19)"
+                }
+              }
+            ],
+            "text": "フロラとゼフィルス"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#retour_183",
+                  "title": "１８３行",
+                  "id": "183"
+                }
+              },
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "１８３"
+          },
+          {
+            "type": "text",
+            "text": " 「お花のお母さま、来て下され、喜ばしい遊びであなたを喜ばせましょう。"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "「花の母なる"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_flora",
+                  "title": "フロラ女神",
+                  "id": "flore"
+                }
+              }
+            ],
+            "text": "女神"
+          },
+          {
+            "type": "text",
+            "text": "よ、おいで下さい。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "愉快な"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_floralia",
+                  "title": "祭り",
+                  "id": "floralia_2"
+                }
+              }
+            ],
+            "text": "祭り"
+          },
+          {
+            "type": "text",
+            "text": "でお祝いしましょう。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "私はあなたを歌うときを先月から遅らせていました。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "あなたの祝祭が"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "アプリリウス"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Aprilius"
+              }
+            ],
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_floralia_2",
+                  "title": "アプリリウス月",
+                  "id": "aprilius"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_floralia_2",
+                  "title": "アプリリウス月",
+                  "id": "aprilius"
+                }
+              }
+            ],
+            "text": "月"
+          },
+          {
+            "type": "text",
+            "text": "に始まって"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "マイユス"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Maius"
+              }
+            ],
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_floralia_2",
+                  "title": "マイユス月",
+                  "id": "maius"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_floralia_2",
+                  "title": "マイユス月",
+                  "id": "maius"
+                }
+              }
+            ],
+            "text": "月"
+          },
+          {
+            "type": "text",
+            "text": "にまで及ぶからです。"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "先の月では月の終わり際に、のちの月では月の始まりとともに、あなたの祝祭があります。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "月と月の境があなたのためにあり、あなたに捧げられているのですから、２つの月のどちらもあなたを讃えるにふさわしいのです。"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "１８９"
+          },
+          {
+            "type": "text",
+            "text": " 「競技も、観客席の"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "喝采"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "かっさい"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "が決める勝利の冠も"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_chloris",
+                  "title": "クロリス"
+                }
+              }
+            ],
+            "text": "今月"
+          },
+          {
+            "type": "text",
+            "text": "のことですから、この歌のことですから、この歌も競技場の催しと進行を同じくしましょう。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "どうか、あなたがどのような女神か、御自身で教えて下さい。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "ひとびとの考えは当てになりません。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "御自分の名前を説明されるのはあなた御自身が最適ですから」。"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#retour_193",
+                  "title": "１９３行",
+                  "id": "193"
+                }
+              },
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "１９３"
+          },
+          {
+            "type": "text",
+            "text": " このようにわたしが申しますと、私の問いに女神はこう答えました。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "女神が話すと、口からは涼しい"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "薔"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "ば"
+              },
+              {
+                "type": "text",
+                "text": "薇"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "ら"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "の"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "息"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "い"
+              },
+              {
+                "type": "text",
+                "text": "吹"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "ぶき"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "が洩れました。"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "１９５"
+          },
+          {
+            "type": "text",
+            "text": " 「いままでこそ"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_flora",
+                  "title": "フロラ女神",
+                  "id": "flora_5"
+                }
+              }
+            ],
+            "text": "フロラ"
+          },
+          {
+            "type": "text",
+            "text": "と呼ばれる私も、かつて"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_chloris",
+                  "title": "クロリス",
+                  "id": "chloris_2"
+                }
+              }
+            ],
+            "text": "クロリス"
+          },
+          {
+            "type": "text",
+            "text": "と言っていました。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "私の名前にあるギリシャの字がラテン語での発音によって害われることになって、私は、至福者たちが昔暮らしたといわれている恵まれ諸島の"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "妖精"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "ニンフ"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "のでしたもの。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "私の容姿がどのであったかなど、おこがましくてとても話せませんが、母が神様の婿殿を見つけて下さったのはこの容姿のためでした。"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "２０１"
+          },
+          {
+            "type": "text",
+            "text": " 「春のこと、そぞろ歩きをしている私が"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_zephyrus",
+                  "title": "ゼフィルス",
+                  "id": "zephyrus_3"
+                }
+              }
+            ],
+            "text": "ゼフィルス"
+          },
+          {
+            "type": "text",
+            "text": "の目に止まりました。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "私は引き返そうとしました。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "が、"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_zephyrus",
+                  "title": "ゼフィルス",
+                  "id": "zephyrus_5"
+                }
+              }
+            ],
+            "text": "ゼフィルス"
+          },
+          {
+            "type": "text",
+            "text": "は追いかけて来ます。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "私は逃げます。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "けれども、あちらの力のほうが強いうえに、兄弟の"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "ボレアス"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Boreas"
+              }
+            ],
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#ref_boree",
+                  "title": "ボレアス",
+                  "id": "boree"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "の前例があるので、娘をさらうのは天下御免であったのです。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#ref_boree",
+                  "title": "ボレアス",
+                  "id": "boree_2"
+                }
+              }
+            ],
+            "text": "ボレアス"
+          },
+          {
+            "type": "text",
+            "text": "はなんと"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "エレクテウス"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Erechtheus"
+              }
+            ],
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_erecteus",
+                  "title": "エレクテウス",
+                  "id": "erechthee"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "の家から獲物を持ち去ったのでした。"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "２０５"
+          },
+          {
+            "type": "text",
+            "text": " 「とはいえ、力ずくでしたことの償いに、彼は私に正妻の名をくれました。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "今この結婚に私はなんの不平もありません。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "私はいつも春を"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "謳"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "おう"
+              },
+              {
+                "type": "text",
+                "text": "歌"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "か"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "しています。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "いつでも一年でもっとも輝かしい季節、木々には葉が繋がり、大地はいつも牧草がおおいます。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "そして野には私の婚資である実り豊かな庭があります。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "そよ風が"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "育"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "はぐく"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "み、泉から湧く澄み切った水が"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "灌"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "かん"
+              },
+              {
+                "type": "text",
+                "text": "漑"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "がい"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "しています。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "私の夫はこの庭を優雅な花で満たし、"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              },
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(223, 138, 19)"
+                }
+              }
+            ],
+            "text": "「女神よ、花の主権を」"
+          },
+          {
+            "type": "text",
+            "text": "と言ってくれました。"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "２１３"
+          },
+          {
+            "type": "text",
+            "text": " 「何度も私は、いったい何色あるのかと、並んだ花を数えたいと思いましたが、出来ませんでした。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "数が及ばないほどたくさんだったのです。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "朝露の滴が葉からこぼれ落ち、色とりどりの草花が陽の光に暖かめられるや、ただちに"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "彩"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "いろどり"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "鮮やかな衣を身にまとった"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_hora",
+                  "title": "女神ホラたち",
+                  "id": "heures_2"
+                }
+              },
+              {
+                "type": "strong"
+              },
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(223, 138, 19)"
+                }
+              }
+            ],
+            "text": "季節神女ホラたち"
+          },
+          {
+            "type": "text",
+            "text": "が集まり、"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              },
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(223, 138, 19)"
+                }
+              }
+            ],
+            "text": "私からの寄付を籠に摘んでゆきます"
+          },
+          {
+            "type": "text",
+            "text": "。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "それにすぐさま優雅の"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_charis",
+                  "title": "女神カリスたち",
+                  "id": "graces_2"
+                }
+              },
+              {
+                "type": "strong"
+              },
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(223, 138, 19)"
+                }
+              }
+            ],
+            "text": "神女カリスたち"
+          },
+          {
+            "type": "text",
+            "text": "も加わって、"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              },
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(223, 138, 19)"
+                }
+              }
+            ],
+            "text": "冠を編み、編んだ冠を自分の神々しい髪に結ぼうとします"
+          },
+          {
+            "type": "text",
+            "text": "。」"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              },
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(223, 138, 19)"
+                }
+              }
+            ],
+            "text": "オウィディウス、祭暦、第５巻より"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "hard_break"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "id": "註釈"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "註釈"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "hard_break"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3,
+          "id": "note_flora"
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "フロラ"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4,
+          "id": "フロラ-flora-の名とは？"
+        },
+        "content": [
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "フロラ"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Flora"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "の名とは？"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 5,
+          "id": "発音"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "発音"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "正式には、ラテン語では長母音があるため、「"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "フローラ"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Flōra"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "」という名前ですが、一般的に、長母音を略する「フロラ」と表記される。"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 5,
+          "id": "由来"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "由来"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "フローラ"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Flōra"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "は、「"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "花"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Flos"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "」（発音：フロス）が活用された言葉に当たって、「"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "花"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "はな"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "」とう意味を示しています。"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4,
+          "id": "女神として"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "女神として"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 5,
+          "id": "フロラとは？"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "フロラとは？"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "フロラは、"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "農業生産を見守る"
+          },
+          {
+            "type": "text",
+            "text": "ローマ宗教の多く存在する女神の一つです。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "「"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "母神"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "mater"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "」の副名もあって、よくまた"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "豊穣神"
+          },
+          {
+            "type": "text",
+            "text": "とも見なされることがあります。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "１７７０年にイタリア中部、ローマ郊外の東、"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "プラエネステ"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Praeneste"
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/パレストリーナ",
+                  "title": "https://ja.wikipedia.org/wiki/プラエネステ"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "に発見された"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/ローマ暦",
+                  "title": "https://ja.wikipedia.org/ローマ暦"
+                }
+              }
+            ],
+            "text": "ローマ暦"
+          },
+          {
+            "type": "text",
+            "text": "を紹介するローマ皇帝時代の跡に書いているとおりに、「"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#retour_sakaseru",
+                  "title": "一般的にものを咲かせることに司る",
+                  "id": "sakaseru"
+                }
+              },
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "一般的にものを咲かせることに司る"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#retour_sakaseru",
+                  "title": "一般的にものを咲かせることに司る",
+                  "id": "sakaseru"
+                }
+              }
+            ],
+            "text": " ↑"
+          },
+          {
+            "type": "text",
+            "text": "」春女神としてと、定義されています。"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 5,
+          "id": "古代ローマ帝国でのフロラ祭儀"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "古代ローマ帝国でのフロラ祭儀"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "ローマ市内に神殿がありました。"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "クィリナリス"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Quirinalis"
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/クイリナーレ",
+                  "title": "https://ja.wikipedia.org/wiki/クィリナリス"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/クイリナーレ",
+                  "title": "https://ja.wikipedia.org/wiki/クィリナリス"
+                }
+              }
+            ],
+            "text": "丘"
+          },
+          {
+            "type": "text",
+            "text": "上に位置付けられていた。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "毎日に祝福の祭儀はが神殿に「"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "フラメン"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Flamen"
+              },
+              {
+                "type": "text",
+                "text": "・フロラリス"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Floralis"
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/古代ローマの公職#.E7.A5.9E.E5.AE.98.E8.81.B7",
+                  "title": "https://ja.wikipedia.org/wiki/古代ローマの公職#神官職"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "」という固有の神官だった"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "フロラ司祭"
+          },
+          {
+            "type": "text",
+            "text": "の一人から捧げられていたことも知られています。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "一年一回、「"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "フロラリア"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Floralia"
+              }
+            ],
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_floralia",
+                  "title": "祭り",
+                  "id": "floralia_3"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_floralia",
+                  "title": "祭り",
+                  "id": "floralia_3"
+                }
+              }
+            ],
+            "text": "祭り"
+          },
+          {
+            "type": "text",
+            "text": "」もありました。"
+          }
+        ]
+      },
+      {
+        "type": "horizontal_rule"
+      },
+      {
+        "type": "bullet_list",
+        "content": [
+          {
+            "type": "list_item",
+            "content": [
+              {
+                "type": "text",
+                "text": "註１に戻る： "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "/docs/ja/versailles/trianon/flore#flora",
+                      "title": "フロラ"
+                    }
+                  }
+                ],
+                "text": "美しい女の人、フロラ ↑"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "content": [
+              {
+                "type": "text",
+                "text": "註２に戻る： "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "/docs/ja/versailles/trianon/flore#flora_2",
+                      "title": "フロラ"
+                    }
+                  }
+                ],
+                "text": "フロラが登場する ↑"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "content": [
+              {
+                "type": "text",
+                "text": "註３に戻る： "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "/docs/ja/versailles/trianon/flore#flora_3",
+                      "title": "フロラ"
+                    }
+                  }
+                ],
+                "text": "それで、フロラそれで ↑"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "content": [
+              {
+                "type": "text",
+                "text": "註４に戻る： "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "/docs/ja/versailles/trianon/flore#flore",
+                      "title": "女神"
+                    }
+                  }
+                ],
+                "text": "花の母なる女神よ ↑"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "content": [
+              {
+                "type": "text",
+                "text": "註５に戻る： "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "/docs/ja/versailles/trianon/flore#flora_5",
+                      "title": "フロラ"
+                    }
+                  }
+                ],
+                "text": "フロラと呼ばれる私 ↑"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "content": [
+              {
+                "type": "text",
+                "text": "註６に戻る： "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "/docs/ja/versailles/trianon/flore#flora_6",
+                      "title": "フロラ"
+                    }
+                  }
+                ],
+                "text": "フロラの侍女 ↑"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "hard_break"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3,
+          "id": "note_chloris"
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "クロリス"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4,
+          "id": "クロリス-chloris-の名とは？"
+        },
+        "content": [
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "クロリス"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Chloris"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "の名とは？"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 5,
+          "id": "発音-1"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "発音"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "正式には、古代ギリシャ語では長母音があるため、「"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "クローリス"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Khlōris"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "」という名前になりますが、古代ギリシャ語からラテン語まで書き写すと、「Kh」が「Ch」に交代されることがあるのと、一般的に、長母音を略されているため、「クロリス」と表記されるようと変わります。"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 5,
+          "id": "由来-1"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "由来"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "古代ギリシャ語で、"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "la"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Khlōrís"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "grc"
+                    }
+                  }
+                ],
+                "text": "Χλωρίς"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "（発音："
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "クローリス"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Khlōris"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "）と書いて、"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "la"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Khlōros"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "grc"
+                    }
+                  }
+                ],
+                "text": "χλωρός"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "（発音："
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "クローロス"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Khlōros"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "）語幹から出来ていて、「"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "緑"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "みどり"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "」と意味を表しています。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "同じ語幹から、「"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "la"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Khlôrophyl"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "grc"
+                    }
+                  }
+                ],
+                "text": "χλωροφύλλη"
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/クロロフィル",
+                  "title": "https://ja.wikipedia.org/wiki/クロロフィル"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "」（発音："
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "クローロフィル"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Khlōrophyl"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "）があって、日本語の「"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "クロロフィル"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "fr"
+                    }
+                  }
+                ],
+                "text": "Chlorophylle"
+              }
+            ],
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#chlorophylle",
+                  "title": "クロロフィル",
+                  "id": "renvoi_chlorophylle"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#chlorophylle",
+                  "title": "クロロフィル",
+                  "id": "renvoi_chlorophylle"
+                }
+              }
+            ],
+            "text": "⭣"
+          },
+          {
+            "type": "text",
+            "text": "」に当たる"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "葉"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "よう"
+              },
+              {
+                "type": "text",
+                "text": "緑"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "りょく"
+              },
+              {
+                "type": "text",
+                "text": "素"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "そ"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "を指しています。"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 5,
+          "id": "クロリスとは？"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "クロリスとは？"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "「クロリス」という名前は、ギリシア神話では、ある"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "妖精"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "ニンフ"
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/ニュンペー",
+                  "title": "https://ja.wikipedia.org/wiki/ニンフ"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "の女性に当たります。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "「"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/オウィディウス#.E3.80.8E.E7.A5.AD.E6.9A.A6.E3.80.8F",
+                  "title": "https://ja.wikipedia.org/wiki/オウィディウス#祭暦"
+                }
+              }
+            ],
+            "text": "祭暦"
+          },
+          {
+            "type": "text",
+            "text": "」においては、"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/オウィディウス",
+                  "title": "https://ja.wikipedia.org/wiki/オウィディウス"
+                }
+              }
+            ],
+            "text": "オウィディウス"
+          },
+          {
+            "type": "text",
+            "text": "が、"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_floralia",
+                  "title": "祭り"
+                }
+              }
+            ],
+            "text": "フロラ"
+          },
+          {
+            "type": "text",
+            "text": "を、"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/クローリス",
+                  "title": "https://ja.wikipedia.org/wiki/クロリス"
+                }
+              }
+            ],
+            "text": "クロリス"
+          },
+          {
+            "type": "text",
+            "text": "という"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "妖精"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "ニンフ"
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/ニュンペー",
+                  "title": "https://ja.wikipedia.org/wiki/ニンフ"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "と折角同一視させているのは、"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/クローリス",
+                  "title": "https://ja.wikipedia.org/wiki/クロリス"
+                }
+              }
+            ],
+            "text": "クロリス"
+          },
+          {
+            "type": "text",
+            "text": "という語幹に「"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "緑"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "みどり"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "」、いわゆる、「"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#flora-2",
+                  "title": "一般的にものを咲かせることに司る",
+                  "id": "retour_sakaseru"
+                }
+              },
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "一般的にものを咲かせることに司る"
+          },
+          {
+            "type": "text",
+            "text": "」意が含まれているからでしょう。"
+          }
+        ]
+      },
+      {
+        "type": "horizontal_rule"
+      },
+      {
+        "type": "bullet_list",
+        "content": [
+          {
+            "type": "list_item",
+            "content": [
+              {
+                "type": "text",
+                "text": "註１に戻る： "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "/docs/ja/versailles/trianon/flore#chloris",
+                      "title": "クロリス"
+                    }
+                  }
+                ],
+                "text": "自分をクロリスと名のる ↑"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "content": [
+              {
+                "type": "text",
+                "text": "註２に戻る： "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "/docs/ja/versailles/trianon/flore#chloris_2",
+                      "title": "クロリス"
+                    }
+                  }
+                ],
+                "text": "クロリスと言っていました ↑"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "hard_break"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4,
+          "id": "note_floralia"
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "フロラリア祭り"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 5,
+          "id": "フロラリア-floralia-祭りの名とは？"
+        },
+        "content": [
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "フロラリア"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Floralia"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "祭りの名とは？"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "「フロラリア」という祝祭は、田園ののどかな祭りとして始まった"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_floralia",
+                  "title": "祭り"
+                }
+              }
+            ],
+            "text": "フロラ女神"
+          },
+          {
+            "type": "text",
+            "text": "の祭りです。"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 5,
+          "id": "note_floralia_2"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "日付"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/オウィディウス",
+                  "title": "https://ja.wikipedia.org/wiki/オウィディウス"
+                }
+              }
+            ],
+            "text": "オウィディウス"
+          },
+          {
+            "type": "text",
+            "text": "が「"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/オウィディウス#.E3.80.8E.E7.A5.AD.E6.9A.A6.E3.80.8F",
+                  "title": "https://ja.wikipedia.org/wiki/オウィディウス#祭暦"
+                }
+              }
+            ],
+            "text": "祭暦"
+          },
+          {
+            "type": "text",
+            "text": "」を作文する紀元後１世紀前半時代だと、"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/4月",
+                  "title": "https://ja.wikipedia.org/wiki/四月"
+                }
+              }
+            ],
+            "text": "４月"
+          },
+          {
+            "type": "text",
+            "text": "である"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/ローマ暦",
+                  "title": "https://ja.wikipedia.org/wiki/アプリーリス"
+                }
+              }
+            ],
+            "text": "アプリリウス月"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#aprilius",
+                  "title": "アプリリウス月",
+                  "id": "note_aprilius"
+                }
+              }
+            ],
+            "text": "↑"
+          },
+          {
+            "type": "text",
+            "text": "の２８日から、５月である"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/ローマ暦",
+                  "title": "https://ja.wikipedia.org/wiki/マーイウス"
+                }
+              }
+            ],
+            "text": "マイユス月"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#maius",
+                  "title": "マイユス月",
+                  "id": "note_maius"
+                }
+              }
+            ],
+            "text": "↑"
+          },
+          {
+            "type": "text",
+            "text": "の３日までの５夜間で行なわれていた。"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 5,
+          "id": "概要"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "概要"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "追いかけや、舞踏や身ぶりや悲劇的な演出が行われていたため、「フロラリア」は「"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "花の祭典"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Ludi Florales"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "」とも呼ばれていました。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "ローマ舞踏のなかで、フロラのために出来た舞踏は、一番印象的だったといわれています。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "元々、春の戻りで若者たちが喜びを表現することで、単純でしたが、そこから、全裸で性的行為のものまねにまで変わることがあって、不道徳性が指摘されることが出ました。"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 5,
+          "id": "場所"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "場所"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "追いかけは町市外に、「フロラの"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "競技場"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "circus"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "」と呼ばれた"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "ウィミナリス"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Viminalis"
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/ヴィミナーレ",
+                  "title": "https://ja.wikipedia.org/wiki/ウィミナリス"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/ヴィミナーレ",
+                  "title": "https://ja.wikipedia.org/wiki/ウィミナリス"
+                }
+              }
+            ],
+            "text": "丘"
+          },
+          {
+            "type": "text",
+            "text": "と"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/ピンチョの丘",
+                  "title": "https://ja.wikipedia.org/wiki/庭園の丘"
+                }
+              }
+            ],
+            "text": "庭園の丘"
+          },
+          {
+            "type": "text",
+            "text": " の間に位置づけられている小谷があった特別な競技場で行われていた。"
+          }
+        ]
+      },
+      {
+        "type": "horizontal_rule"
+      },
+      {
+        "type": "bullet_list",
+        "content": [
+          {
+            "type": "list_item",
+            "content": [
+              {
+                "type": "text",
+                "text": "註１に戻る： "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "/docs/ja/versailles/trianon/flore#floralia",
+                      "title": "フロラリア"
+                    }
+                  }
+                ],
+                "text": "行なわれるフロラリア祭り ↑"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "content": [
+              {
+                "type": "text",
+                "text": "註２に戻る： "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "/docs/ja/versailles/trianon/flore#floralia_2",
+                      "title": "フロラリア"
+                    }
+                  }
+                ],
+                "text": "愉快な祭り ↑"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "content": [
+              {
+                "type": "text",
+                "text": "註３に戻る： "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "/docs/ja/versailles/trianon/flore#floralia_3",
+                      "title": "フロラリア"
+                    }
+                  }
+                ],
+                "text": "一年一回、フロラリア祭り ↑"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "hard_break"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3,
+          "id": "note_zephyrus"
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "ゼフィルス"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4,
+          "id": "ゼフィルス-zephyrus-の名とは？"
+        },
+        "content": [
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "ゼフィルス"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Zephyrus"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "の名とは？"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 5,
+          "id": "発音-2"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "発音"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "ゼフィルスはラテン語での名前で、日本語の書き写しでは、古代ギリシャ語での呼称である「ゼピュルス」と発音するようになりましたが、ラテン語では正式な発音は、「ph」で「f」と同音のため、同時に、オヴィディウスはラテン語で書いていることに基づき、ここでは「"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "ゼフィルス"
+          },
+          {
+            "type": "text",
+            "text": "」で表記することにしました。"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 5,
+          "id": "由来-2"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "由来"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "名前の由来は古代ギリシャ神話からです。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "古代ギリシャ神話だと、「"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "la"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Zephyros"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "grc"
+                    }
+                  }
+                ],
+                "text": "Ζέφυρος"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "」（発音："
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "ゼピュロス"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Zephyros"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "） という神があります。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "古代ギリシャ語からラテン語に書き写された祭、ラテン語っぽく「"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "ゼフィルス"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Zephyrus"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "」と書くようとなりました。"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4,
+          "id": "神として"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "神として"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "la"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Anemoi"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "grc"
+                    }
+                  }
+                ],
+                "text": "Ἄνεμοι"
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/アネモイ",
+                  "title": "https://ja.wikipedia.org/wiki/アネモイ"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/アネモイ",
+                  "title": "https://ja.wikipedia.org/wiki/アネモイ"
+                }
+              }
+            ],
+            "text": "（発音："
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "アネモイ"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Anemoi"
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/アネモイ",
+                  "title": "https://ja.wikipedia.org/wiki/アネモイ"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/アネモイ",
+                  "title": "https://ja.wikipedia.org/wiki/アネモイ"
+                }
+              }
+            ],
+            "text": "）"
+          },
+          {
+            "type": "text",
+            "text": "、古代ギリシア語では（複数形で）「"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "風"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "かぜ"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "たち」の意、という言葉があります。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "ラテン語では、"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "ヴェンティ"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Venti"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "（意：「"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "風"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "かぜ"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "たち」）に当たります。"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "ギリシア神話では、主要な風は４柱いる。ゼフィルスの他だと："
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "content": [
+          {
+            "type": "list_item",
+            "content": [
+              {
+                "type": "rubylang",
+                "attrs": {
+                  "lang": "la"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Boreas"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "rtlang",
+                        "attrs": {
+                          "lang": "grc"
+                        }
+                      }
+                    ],
+                    "text": "Βορέας"
+                  }
+                ],
+                "marks": [
+                  {
+                    "type": "linkwithid",
+                    "attrs": {
+                      "href": "https://ja.wikipedia.org/wiki/アネモイ#.E5.8C.97.E9.A2.A8.E3.83.9C.E3.83.AC.E3.82.A2.E3.83.BC.E3.82.B9",
+                      "title": "https://ja.wikipedia.org/wiki/アネモイ#北風ボレアース",
+                      "id": "ref_boree"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "（発音："
+              },
+              {
+                "type": "rubylang",
+                "attrs": {
+                  "lang": "ja"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ボレアス"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "rtlang",
+                        "attrs": {
+                          "lang": "la"
+                        }
+                      }
+                    ],
+                    "text": "Boreas"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "）、ラテン語でも、ボレアスは冷たい冬の空気を運ぶ北風で、註１に戻る： "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "/docs/ja/versailles/trianon/flore#boree",
+                      "title": "ボレアス"
+                    }
+                  }
+                ],
+                "text": "兄弟のボレアスの前例 ↑"
+              },
+              {
+                "type": "hard_break"
+              },
+              {
+                "type": "text",
+                "text": "註２に戻る： "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "/docs/ja/versailles/trianon/flore#boree_2",
+                      "title": "ボレアス"
+                    }
+                  }
+                ],
+                "text": "ボレアスはなんとエレクテウスの家から ↑"
+              },
+              {
+                "type": "hard_break"
+              },
+              {
+                "type": "text",
+                "text": "註３に戻る： "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "/docs/ja/versailles/trianon/flore#boree_3",
+                      "title": "ボレアス"
+                    }
+                  }
+                ],
+                "text": "北風のボレアスがエレクテウスの娘 ⭣"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "content": [
+              {
+                "type": "rubylang",
+                "attrs": {
+                  "lang": "la"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Notos"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "rtlang",
+                        "attrs": {
+                          "lang": "grc"
+                        }
+                      }
+                    ],
+                    "text": "Νότος"
+                  }
+                ],
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "https://ja.wikipedia.org/wiki/アネモイ#.E5.8D.97.E9.A2.A8.E3.83.8E.E3.83.88.E3.82.B9",
+                      "title": "https://ja.wikipedia.org/wiki/アネモイ#南風ノトス"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "（発音："
+              },
+              {
+                "type": "rubylang",
+                "attrs": {
+                  "lang": "ja"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ノトス"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "rtlang",
+                        "attrs": {
+                          "lang": "la"
+                        }
+                      }
+                    ],
+                    "text": "Notos"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "）、ラテン語では、"
+              },
+              {
+                "type": "rubylang",
+                "attrs": {
+                  "lang": "ja"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ノテュス"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "rtlang",
+                        "attrs": {
+                          "lang": "la"
+                        }
+                      }
+                    ],
+                    "text": "Notus"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "は晩夏と秋の嵐を運ぶ南風であり、"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "content": [
+              {
+                "type": "rubylang",
+                "attrs": {
+                  "lang": "la"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Euros"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "rtlang",
+                        "attrs": {
+                          "lang": "grc"
+                        }
+                      }
+                    ],
+                    "text": "Εύρος"
+                  }
+                ],
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "https://ja.wikipedia.org/wiki/アネモイ#.E6.9D.B1.E9.A2.A8.E3.82.A8.E3.82.A6.E3.83.AD.E3.82.B9",
+                      "title": "https://ja.wikipedia.org/wiki/アネモイ#東風エウロス"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "（発音："
+              },
+              {
+                "type": "rubylang",
+                "attrs": {
+                  "lang": "ja"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "エウロス"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "rtlang",
+                        "attrs": {
+                          "lang": "la"
+                        }
+                      }
+                    ],
+                    "text": "Euros"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "）、ラテン語では、"
+              },
+              {
+                "type": "rubylang",
+                "attrs": {
+                  "lang": "ja"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "エウルス"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "rtlang",
+                        "attrs": {
+                          "lang": "la"
+                        }
+                      }
+                    ],
+                    "text": "Eurus"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "は東風であることにたいして、"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "それにたいしては、ゼフィルスは"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "西風の神で、最も温和なゼピュロスは、春の訪れを告げる豊穣の風"
+          },
+          {
+            "type": "text",
+            "text": "として知られている。"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4,
+          "id": "ゼフィルスとは？"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "ゼフィルスとは？"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/オウィディウス#.E3.80.8E.E7.A5.AD.E6.9A.A6.E3.80.8F",
+                  "title": "https://ja.wikipedia.org/wiki/オウィディウス#祭暦"
+                }
+              }
+            ],
+            "text": "祭暦"
+          },
+          {
+            "type": "text",
+            "text": "では、"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/オウィディウス",
+                  "title": "https://ja.wikipedia.org/wiki/オウィディウス"
+                }
+              }
+            ],
+            "text": "オウィディウス"
+          },
+          {
+            "type": "text",
+            "text": "によって、ゼフィルスは"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "翼を備えた人間"
+          },
+          {
+            "type": "text",
+            "text": "として、古典的に擬人化されて、登場しています。"
+          }
+        ]
+      },
+      {
+        "type": "horizontal_rule"
+      },
+      {
+        "type": "bullet_list",
+        "content": [
+          {
+            "type": "list_item",
+            "content": [
+              {
+                "type": "text",
+                "text": "註１に戻る： "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "/docs/ja/versailles/trianon/flore#zephyrus_4",
+                      "title": "ゼフィルス"
+                    }
+                  }
+                ],
+                "text": "西の微風 ↑"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "content": [
+              {
+                "type": "text",
+                "text": "註２に戻る： "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "/docs/ja/versailles/trianon/flore#zephyrus",
+                      "title": "ゼフィルス"
+                    }
+                  }
+                ],
+                "text": "羽が付いている男のひとゼフィルス ↑"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "content": [
+              {
+                "type": "text",
+                "text": "註3に戻る： "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "/docs/ja/versailles/trianon/flore#zephyrus_2",
+                      "title": "ゼフィルス"
+                    }
+                  }
+                ],
+                "text": "ゼフィルスを戸惑う美しさ ↑"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "content": [
+              {
+                "type": "text",
+                "text": "註4に戻る： "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "/docs/ja/versailles/trianon/flore#zephyrus_3",
+                      "title": "ゼフィルス"
+                    }
+                  }
+                ],
+                "text": "その昔に至福のひとびとが福裕に過ごしていた"
+              },
+              {
+                "type": "ruby",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "国"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "rt"
+                      }
+                    ],
+                    "text": "エリュジウム"
+                  }
+                ],
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "/docs/ja/versailles/trianon/flore#zephyrus_3",
+                      "title": "ゼフィルス"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "/docs/ja/versailles/trianon/flore#zephyrus_3",
+                      "title": "ゼフィルス"
+                    }
+                  }
+                ],
+                "text": "があった ↑"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "content": [
+              {
+                "type": "text",
+                "text": "註5に戻る： "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "/docs/ja/versailles/trianon/flore#zephyrus_5",
+                      "title": "ゼフィルス"
+                    }
+                  }
+                ],
+                "text": "私がゼフィルスの目に止まりました ↑"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "hard_break"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3,
+          "id": "note_hora"
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "季節ホラ女神たち"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4,
+          "id": "季節女神ホラ-hora-たちの名とは？"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "季節女神"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "ホラ"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Hora"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "たちの名とは？"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 5,
+          "id": "発音-3"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "発音"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/オウィディウス",
+                  "title": "https://ja.wikipedia.org/wiki/オウィディウス"
+                }
+              }
+            ],
+            "text": "オウィディウス"
+          },
+          {
+            "type": "text",
+            "text": "の文書では、ホラはラテン語としての語です。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "正式には、ラテン語では長母音があるため、「"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "ホーラ"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Hōra"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "」という書き写しが正しいなのに、一般的に、長母音を略する「"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "ホラ"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Hora"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "」で表記されている。"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 5,
+          "id": "由来-3"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "由来"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "古代ギリシャ語の"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "la"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Hōra"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "grc"
+                    }
+                  }
+                ],
+                "text": "Ὧρα"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "（発音："
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "ホーラ"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Hōra"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "）からそのまま来ています。 "
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "ホーラ"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "grc"
+                    }
+                  }
+                ],
+                "text": "Hōra"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "は単数形で、「"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "時"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "じ"
+              },
+              {
+                "type": "text",
+                "text": "間"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "かん"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "」との意を示しています。"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4,
+          "id": "神として-1"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "神として"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/ホーラ",
+                  "title": "https://ja.wikipedia.org/wiki/ホラ"
+                }
+              }
+            ],
+            "text": "ホラ"
+          },
+          {
+            "type": "text",
+            "text": "は、神としまして、女神であって、"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "時間の区分を擬人化"
+          },
+          {
+            "type": "text",
+            "text": "を指しているのだが、普通は、"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "各々の時間の対照性を現わす意で、複数形で、女神の交わりとして現れて来ます"
+          },
+          {
+            "type": "text",
+            "text": "。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/オウィディウス",
+                  "title": "https://ja.wikipedia.org/wiki/オウィディ���ス"
+                }
+              }
+            ],
+            "text": "オウィディウス"
+          },
+          {
+            "type": "text",
+            "text": "の文書では、「季節神女ホラたち」で出て来るが、ラテン語だと、「季節神女」と「たち」の部分を省いて、ただ直接複数形が含まれている「"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "ホーラエ"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Hōrae"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "」で呼ばれています。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "古代ギリシャ語でも、複数形を含む"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "la"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Hōrai"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "grc"
+                    }
+                  }
+                ],
+                "text": "Ὧραι"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "（発音："
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "ホーライ"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Hōrai"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "）で同様です。 時代によって、人数が少しづつ２人から１２人まで増えたことも知られています。"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 5,
+          "id": "季節神女ホラたちとは？"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "季節神女ホラたちとは？"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "「"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/オウィディウス#.E3.80.8E.E7.A5.AD.E6.9A.A6.E3.80.8F",
+                  "title": "https://ja.wikipedia.org/wiki/オウィディウス#祭暦"
+                }
+              }
+            ],
+            "text": "祭暦"
+          },
+          {
+            "type": "text",
+            "text": "」において、花を手にした優美な乙女の姿で表されて、"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_flora",
+                  "title": "フロラ女神",
+                  "id": "flora_6"
+                }
+              }
+            ],
+            "text": "フロラ"
+          },
+          {
+            "type": "text",
+            "text": "の侍女たち。"
+          }
+        ]
+      },
+      {
+        "type": "horizontal_rule"
+      },
+      {
+        "type": "bullet_list",
+        "content": [
+          {
+            "type": "list_item",
+            "content": [
+              {
+                "type": "text",
+                "text": "註１に戻る： "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "/docs/ja/versailles/trianon/flore#heures",
+                      "title": "女神ホラたち"
+                    }
+                  }
+                ],
+                "text": "活気に満ちたホラ神女たち ↑"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "content": [
+              {
+                "type": "text",
+                "text": "註２に戻る： "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "/docs/ja/versailles/trianon/flore#heures_2",
+                      "title": "女神ホラたち"
+                    }
+                  }
+                ],
+                "text": "季節神女ホラたちが集まり ↑"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "hard_break"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3,
+          "id": "note_charis"
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "カリス女神"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4,
+          "id": "女神カリス-charis-たちの名とは？"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "女神"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "カリス"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Charis"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "たちの名とは？"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 5,
+          "id": "発音-4"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "発音"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "古代ギリシャ語と同じく、「カリス」との発音です。"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 5,
+          "id": "由来-4"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "由来"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "古代ギリシャ語では、"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "カリス"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "grc"
+                    }
+                  }
+                ],
+                "text": "Charis"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "は動詞の"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "la"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "khaírô"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "grc"
+                    }
+                  }
+                ],
+                "text": "χαίρω"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "（発音："
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "カイロー"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "khaírô"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "）は「"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "愉快"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "よろこ"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ぶ」、「生きる力の充実さ」の意を示している。 カリスは単数形で、神秘的さ、「女神」と多面性、「たち」で修飾されている。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "古代ギリシャ語では、修飾部分を省いて、複数形がふくまれている「"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "la"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Charites"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "grc"
+                    }
+                  }
+                ],
+                "text": "Χάριτες"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "」（発音："
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "カリテス"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Charites"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "）とも呼ばれています。"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4,
+          "id": "神として-2"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "神として"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "女神カリスたちの交わりの人数は様々で、２から１６神まで知られていますが、一般的人数を明らかにしない交わりでなければ、古典ギリシャ彫刻では、「カリス三美神たち」の形態で、ローマ、後に西洋美術に伝われて来たため、主に、３神と扱われて来ましたので、以下、その３神の名前を明らかにしました。"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "content": [
+          {
+            "type": "list_item",
+            "content": [
+              {
+                "type": "rubylang",
+                "attrs": {
+                  "lang": "la"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Aglaeā"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "rtlang",
+                        "attrs": {
+                          "lang": "grc"
+                        }
+                      }
+                    ],
+                    "text": "Ἀγλαΐα"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "（発音："
+              },
+              {
+                "type": "rubylang",
+                "attrs": {
+                  "lang": "ja"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "アグライアー"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "rtlang",
+                        "attrs": {
+                          "lang": "la"
+                        }
+                      }
+                    ],
+                    "text": "Aglaeā"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "）は"
+              },
+              {
+                "type": "ruby",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "眩"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "rt"
+                      }
+                    ],
+                    "text": "まぶ"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "しくさせる輝かしい美しさでの"
+              },
+              {
+                "type": "ruby",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "愉快"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "rt"
+                      }
+                    ],
+                    "text": "よろこ"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "び、"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "content": [
+              {
+                "type": "rubylang",
+                "attrs": {
+                  "lang": "la"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Euphrosynē"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "rtlang",
+                        "attrs": {
+                          "lang": "grc"
+                        }
+                      }
+                    ],
+                    "text": "Εὐφροσύνη"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "（発音："
+              },
+              {
+                "type": "rubylang",
+                "attrs": {
+                  "lang": "ja"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "エウプロシュネー"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "rtlang",
+                        "attrs": {
+                          "lang": "la"
+                        }
+                      }
+                    ],
+                    "text": "Euphrosynē"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "）は"
+              },
+              {
+                "type": "ruby",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "宴"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "rt"
+                      }
+                    ],
+                    "text": "うたげ"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "で受けて来る"
+              },
+              {
+                "type": "ruby",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "愉快"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "rt"
+                      }
+                    ],
+                    "text": "よろこ"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "び、"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "content": [
+              {
+                "type": "rubylang",
+                "attrs": {
+                  "lang": "la"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Thalia"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "rtlang",
+                        "attrs": {
+                          "lang": "grc"
+                        }
+                      }
+                    ],
+                    "text": "Θάλεια"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "（発音："
+              },
+              {
+                "type": "rubylang",
+                "attrs": {
+                  "lang": "ja"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "タレイア"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "rtlang",
+                        "attrs": {
+                          "lang": "la"
+                        }
+                      }
+                    ],
+                    "text": "Thalia"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "）は活気のありすぎる"
+              },
+              {
+                "type": "ruby",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "豊"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "rt"
+                      }
+                    ],
+                    "text": "ほう"
+                  },
+                  {
+                    "type": "text",
+                    "text": "穣"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "rt"
+                      }
+                    ],
+                    "text": "じょう"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "の"
+              },
+              {
+                "type": "ruby",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "愉快"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "rt"
+                      }
+                    ],
+                    "text": "よろこ"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "びを現わしています。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 5,
+          "id": "神女カリスたちとは？"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "神女カリスたちとは？"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "「"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/オウィディウス#.E3.80.8E.E7.A5.AD.E6.9A.A6.E3.80.8F",
+                  "title": "https://ja.wikipedia.org/wiki/オウィディウス#祭暦"
+                }
+              }
+            ],
+            "text": "祭暦"
+          },
+          {
+            "type": "text",
+            "text": "」において、花の冠を手にした優美な乙女たちの姿で表されて、"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#note_flora",
+                  "title": "フロラ女神"
+                }
+              }
+            ],
+            "text": "フロラ"
+          },
+          {
+            "type": "text",
+            "text": "{#flora_6に給士しています。"
+          }
+        ]
+      },
+      {
+        "type": "horizontal_rule"
+      },
+      {
+        "type": "bullet_list",
+        "content": [
+          {
+            "type": "list_item",
+            "content": [
+              {
+                "type": "text",
+                "text": "註１に戻る： "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "/docs/ja/versailles/trianon/flore#graces",
+                      "title": "女神カリスたち"
+                    }
+                  }
+                ],
+                "text": "活気に満ちたホラ神女たちとカリス神女たち ↑"
+              }
+            ]
+          },
+          {
+            "type": "list_item",
+            "content": [
+              {
+                "type": "text",
+                "text": "註２に戻る： "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "/docs/ja/versailles/trianon/flore#graces_2",
+                      "title": "女神カリスたち"
+                    }
+                  }
+                ],
+                "text": "カリス神女たちも加わって ↑"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "hard_break"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3,
+          "id": "note_erechteus"
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "エレクテウス"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4,
+          "id": "エレクテウス-erechtheus-とは？"
+        },
+        "content": [
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "エレクテウス"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Erechtheus"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "とは？"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "古代ギリシャ語で、"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "la"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Erekhtheús"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "grc"
+                    }
+                  }
+                ],
+                "text": "Ἐρεχθεύς"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "（発音："
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "エレクテウス"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Erekhtheús"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "）は、神話に古代第六アテネ王として、町の元の神を指しています。"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4,
+          "id": "祭暦においては"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "祭暦においては"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "以上の文書では、"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/オウィディウス",
+                  "title": "https://ja.wikipedia.org/wiki/オウィディウス"
+                }
+              }
+            ],
+            "text": "オウィディウス"
+          },
+          {
+            "type": "text",
+            "text": "が、北風の"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#ref_boree",
+                  "title": "ボレアス",
+                  "id": "boree_3"
+                }
+              }
+            ],
+            "text": "ボレアス"
+          },
+          {
+            "type": "text",
+            "text": "が"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "エレクテウス"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Erechtheus"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "の娘"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "la"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Ōrithyia"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "grc"
+                    }
+                  }
+                ],
+                "text": "Ὠρείθυια"
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/オーレイテュイア",
+                  "title": "https://ja.wikipedia.org/wiki/オレイテュイア"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "（発音："
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "オリテュイヤ"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "la"
+                    }
+                  }
+                ],
+                "text": "Ōrithyia"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "）をさらったことを思い起こさせようとしています。"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/オーレイテュイア",
+                  "title": "https://ja.wikipedia.org/wiki/オレイテュイア"
+                }
+              }
+            ],
+            "text": "オリテュイヤ"
+          },
+          {
+            "type": "text",
+            "text": "の誘拐は、"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/オウィディウス",
+                  "title": "https://ja.wikipedia.org/wiki/オウィディウス"
+                }
+              }
+            ],
+            "text": "オウィディウス"
+          },
+          {
+            "type": "text",
+            "text": "が著わしたもう一つの作品である「"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/変身物語",
+                  "title": "https://ja.wikipedia.org/wiki/変身物語"
+                }
+              }
+            ],
+            "text": "変身物語"
+          },
+          {
+            "type": "text",
+            "text": "」の第６巻、６７７～７１３行に語られています。"
+          }
+        ]
+      },
+      {
+        "type": "horizontal_rule"
+      },
+      {
+        "type": "bullet_list",
+        "content": [
+          {
+            "type": "list_item",
+            "content": [
+              {
+                "type": "text",
+                "text": "註１に戻る： "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "/docs/ja/versailles/trianon/flore#erechthee",
+                      "title": "エレクテウス"
+                    }
+                  }
+                ],
+                "text": "エレクテウスの家から獲物を持ち去ったのでした ↑"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "hard_break"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/ja/versailles/trianon/flore#renvoi_chlorophylle",
+                  "title": "クロロフィル",
+                  "id": "chlorophylle"
+                }
+              }
+            ],
+            "text": "ノート"
+          },
+          {
+            "type": "text",
+            "text": "： 「クロロフィル」と日本語の発音の書き写しは、英語の「"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "クロロファイル"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "en"
+                    }
+                  }
+                ],
+                "text": "Chlorophyll"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "」からではなく、"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "葉"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "よう"
+              },
+              {
+                "type": "text",
+                "text": "緑"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "りょく"
+              },
+              {
+                "type": "text",
+                "text": "素"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "そ"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "が１８１６年に"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "ジョゼフ"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "fr"
+                    }
+                  }
+                ],
+                "text": "Joseph"
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/ジョゼフ・ビヤンネメ・カヴェントゥ",
+                  "title": "https://ja.wikipedia.org/wiki/ジョゼフ・ビヤンネメ・カヴェントゥ"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/ジョゼフ・ビヤンネメ・カヴェントゥ",
+                  "title": "https://ja.wikipedia.org/wiki/ジョゼフ・ビヤンネメ・カヴェントゥ"
+                }
+              }
+            ],
+            "text": "・"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "ビヤンネメ"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "Bienaimé"
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/ジョゼフ・ビヤンネメ・カヴェントゥ",
+                  "title": "https://ja.wikipedia.org/wiki/ジョゼフ・ビヤンネメ・カヴェントゥ"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/ジョゼフ・ビヤンネメ・カヴェントゥ",
+                  "title": "https://ja.wikipedia.org/wiki/ジョゼフ・ビヤンネメ・カヴェントゥ"
+                }
+              }
+            ],
+            "text": "・"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "カヴェントゥ"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "Caventou"
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ja.wikipedia.org/wiki/ジョゼフ・ビヤンネメ・カヴェントゥ",
+                  "title": "https://ja.wikipedia.org/wiki/ジョゼフ・ビヤンネメ・カヴェントゥ"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "によって単離されたことから、フランス語の「"
+          },
+          {
+            "type": "rubylang",
+            "attrs": {
+              "lang": "ja"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "クロロフィル"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rtlang",
+                    "attrs": {
+                      "lang": "fr"
+                    }
+                  }
+                ],
+                "text": "Chlorophylle"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "」に従っているている。英語に従えば、発音に矛盾が避けられなくなります。"
+          }
+        ]
+      },
+      {
+        "type": "horizontal_rule"
+      },
+      {
+        "type": "bullet_list",
+        "content": [
+          {
+            "type": "list_item",
+            "content": [
+              {
+                "type": "text",
+                "text": "註１に戻る： "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "/docs/ja/versailles/trianon/flore#renvoi_chlorophylle",
+                      "title": "クロロフィル"
+                    }
+                  }
+                ],
+                "text": "エレクテウスの家から獲物を持ち去ったのでした ↑"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "selection": {
+    "type": "text",
+    "anchor": 6998,
+    "head": 6998
+  }
+}

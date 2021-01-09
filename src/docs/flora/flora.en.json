@@ -1,0 +1,1174 @@
+{
+  "doc": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "id": ""
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Flora"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "figure",
+            "content": [
+              {
+                "type": "picture",
+                "content": [
+                  {
+                    "type": "source",
+                    "attrs": {
+                      "media": null,
+                      "sizes": "(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw",
+                      "srcset": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-280.webp 280w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-380.webp 380w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-480.webp 480w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-640.webp 640w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore_700x1152.webp 700w",
+                      "type": "image/webp"
+                    }
+                  },
+                  {
+                    "type": "image",
+                    "attrs": {
+                      "src": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore_700x1152.jpg",
+                      "title": "Peinture de Jean JOUVENET, “Flore et Zéphyr”, Grand Trianon, Versailles",
+                      "alt": "Peinture de Jean JOUVENET, “Flore et Zéphyr”, Grand Trianon, Versailles",
+                      "usemap": null,
+                      "sizes": "(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw",
+                      "srcset": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-280.jpg 280w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-380.jpg 380w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-480.jpg 480w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-640.jpg 640w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore_700x1152.jpg 700w",
+                      "id": "flore_et_zephyr"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "figcaption",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Zephyrus is presenting a basket of garlands of flowers to Flora"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "At the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Grand_Trianon",
+                  "title": "https://en.wikipedia.org/wiki/Grand Trianon"
+                }
+              }
+            ],
+            "text": "Grand Trianon"
+          },
+          {
+            "type": "text",
+            "text": " in Versailles, above the fireplace of the Salon Frais, one can see a painting of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Jean_Jouvenet",
+                  "title": "https://en.wikipedia.org/wiki/Jean_JOUVENET"
+                }
+              }
+            ],
+            "text": "Jean JOUVENET"
+          },
+          {
+            "type": "text",
+            "text": ", “"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "Flora"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "Flore"
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "/docs/en/versailles/trianon/flore#flore_et_zephyr",
+                  "title": "Flore et Zéphyr"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "/docs/en/versailles/trianon/flore#flore_et_zephyr",
+                  "title": "Flore et Zéphyr"
+                }
+              }
+            ],
+            "text": " "
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "and"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "et"
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "/docs/en/versailles/trianon/flore#flore_et_zephyr",
+                  "title": "Flore et Zéphyr"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "/docs/en/versailles/trianon/flore#flore_et_zephyr",
+                  "title": "Flore et Zéphyr"
+                }
+              }
+            ],
+            "text": " "
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "Zephyrus"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "Zéphyr"
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "/docs/en/versailles/trianon/flore#flore_et_zephyr",
+                  "title": "Flore et Zéphyr"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "”."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "On the edge of a creek, close to nymphs occupied at their toilet, before an angel who, in an unbelievable atmosphere of spring, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Anemoi#Zephyrus",
+                  "title": "https://en.wikipedia.org/wiki/Anemoi#Zephyrus"
+                }
+              }
+            ],
+            "text": "Zephyrus"
+          },
+          {
+            "type": "text",
+            "text": ", winged man who represents the breeze of the west, presents a basket of garlands of flowers to "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Flora_(deity)",
+                  "title": "https://en.wikipedia.org/wiki/Flora_(deity)"
+                }
+              }
+            ],
+            "text": "Flora"
+          },
+          {
+            "type": "text",
+            "text": ", goddess of this season."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Documents establish that this painting was commissioned by king "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Louis_XIV_of_France",
+                  "title": "https://en.wikipedia.org/wiki/Louis_XIV_of_France"
+                }
+              }
+            ],
+            "text": "Louis XIV"
+          },
+          {
+            "type": "text",
+            "text": " for this piece from a story that was made by the latin writer "
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "Ovid"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "Ovidius"
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Ovid",
+                  "title": "https://en.wikipedia.org/wiki/Ovid"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " in a extract from one of his works, “"
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "The Festivals"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "Fasti"
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Fasti_(poem)",
+                  "title": "https://en.wikipedia.org/wiki/The_Festivals"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "”."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "The writer, while describing traditional festivals and events related to agriculture or astrology according to the seasons of the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Roman_calendar",
+                  "title": "https://en.wikipedia.org/wiki/Roman_calendar"
+                }
+              }
+            ],
+            "text": "roman calendar"
+          },
+          {
+            "type": "text",
+            "text": ", introduces an original literary process: in his story, poet, he appeals to the gods, questioning himself as a master priest of calendar of the meaning of things and words."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "The text below comes from the 5th book and corresponds to the month of May: Ovid speaks directly to "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Flora_(deity)",
+                  "title": "https://en.wikipedia.org/wiki/Flora_(deity)"
+                }
+              }
+            ],
+            "text": "Flora"
+          },
+          {
+            "type": "text",
+            "text": "."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "From "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/en/versailles/trianon/flore#183",
+                  "title": null,
+                  "id": "ref_183"
+                }
+              }
+            ],
+            "text": "183 à 192"
+          },
+          {
+            "type": "text",
+            "text": ", he asked her for details on the “"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Floralia",
+                  "title": "https://en.wikipedia.org/wiki/Floralia"
+                }
+              }
+            ],
+            "text": "Floralia"
+          },
+          {
+            "type": "text",
+            "text": "” which took place in her honour by the end of April until early May."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Although this is not directly related with the stage visually represented in the painting, this part allows to capture the mystery and charm of the goddess and the link with the representation given by "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Jean_Jouvenet",
+                  "title": "https://en.wikipedia.org/wiki/Jean_JOUVENET"
+                }
+              }
+            ],
+            "text": "Jean JOUVENET"
+          },
+          {
+            "type": "text",
+            "text": "."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Flora_(deity)",
+                  "title": "https://en.wikipedia.org/wiki/Flora_(deity)"
+                }
+              }
+            ],
+            "text": "Flora"
+          },
+          {
+            "type": "text",
+            "text": " presents herself by identifying to "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Chloris",
+                  "title": "https://en.wikipedia.org/wiki/Chloris"
+                }
+              }
+            ],
+            "text": "Chloris"
+          },
+          {
+            "type": "text",
+            "text": ", Nymph of the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Fortunate_Isles",
+                  "title": "https://en.wikipedia.org/wiki/Fortunate_Isles"
+                }
+              }
+            ],
+            "text": "Fortunate Isles"
+          },
+          {
+            "type": "text",
+            "text": ", whose beauty charmed "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Anemoi#Zephyrus",
+                  "title": "https://en.wikipedia.org/wiki/Anemoi#Zephyrus"
+                }
+              }
+            ],
+            "text": "Zephyrus"
+          },
+          {
+            "type": "text",
+            "text": "."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "He abduct her, took her for spouse, and gave her sovereignty over flowers."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "In between "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/en/versailles/trianon/flore#193",
+                  "title": null,
+                  "id": "ref_193"
+                }
+              }
+            ],
+            "text": "193 à 222"
+          },
+          {
+            "type": "text",
+            "text": ", she appears linked to spring, to beauty, to life, surrounded by "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Horae",
+                  "title": "https://en.wikipedia.org/wiki/Hours"
+                }
+              }
+            ],
+            "text": "Hours"
+          },
+          {
+            "type": "text",
+            "text": " and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Charites",
+                  "title": "https://en.wikipedia.org/wiki/Graces"
+                }
+              }
+            ],
+            "text": "Graces"
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "hard_break"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "id": "flora-and-zephyrus"
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              },
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(223, 138, 19)"
+                }
+              }
+            ],
+            "text": "Flora and Zephyrus"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/en/versailles/trianon/flore#ref_183",
+                  "title": null,
+                  "id": "183"
+                }
+              },
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "183"
+          },
+          {
+            "type": "text",
+            "text": " Come, Mother of flowers, you that joyful games must celebrate."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "The previous month, I had deferred to deal with your fest."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "185"
+          },
+          {
+            "type": "text",
+            "text": " It begins in April and extends in May: you take two months, the end of one, the beginning of the other."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Since the borders of these months are both yours and come back to you, one as much as the other agrees to sing your praises."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "It was in May that the Circus' games comes too and the victor's palm cheered at theater;"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "190"
+          },
+          {
+            "type": "text",
+            "text": " may my poem also go hand in hand with circus shows."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Teach me who you are: the opinion of humans is misleading; you will be the best authority to explain your own name."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/en/versailles/trianon/flore#ref_193",
+                  "title": null,
+                  "id": "193"
+                }
+              },
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "193"
+          },
+          {
+            "type": "text",
+            "text": " That was my request; Here's the answer of the goddess to my requests (in speaking, her mouth breathed a fresh perfume of roses):"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "195"
+          },
+          {
+            "type": "text",
+            "text": " “I was "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Chloris",
+                  "title": "https://en.wikipedia.org/wiki/Chloris"
+                }
+              }
+            ],
+            "text": "Chloris"
+          },
+          {
+            "type": "text",
+            "text": ", me that now is known as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Flora_(deity)",
+                  "title": "https://en.wikipedia.org/wiki/Flora_(deity)"
+                }
+              }
+            ],
+            "text": "Flora"
+          },
+          {
+            "type": "text",
+            "text": ". A Greek letter of my name was altered by Latin pronunciation."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "I was "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Chloris",
+                  "title": "https://en.wikipedia.org/wiki/Chloris"
+                }
+              }
+            ],
+            "text": "Chloris"
+          },
+          {
+            "type": "text",
+            "text": ", Nymph of these "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Fortunate_Isles",
+                  "title": "https://en.wikipedia.org/wiki/Fortunate_Isles"
+                }
+              }
+            ],
+            "text": "Fortunate Isles"
+          },
+          {
+            "type": "text",
+            "text": ", where, they said, the Blessed were living once."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "To describe to you how beautiful I was would shock my modesty;"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "200"
+          },
+          {
+            "type": "text",
+            "text": " But it is it that gave to my mother a god for son-in-law."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "It was spring, I would wandered: when "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Anemoi#Zephyrus",
+                  "title": "https://en.wikipedia.org/wiki/Anemoi#Zephyrus"
+                }
+              }
+            ],
+            "text": "Zephyrus"
+          },
+          {
+            "type": "text",
+            "text": " noticed me, I lelft; he followed me, I fled: he was the stronger."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Moreover, was this abduction not entirely justified by his brother "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Anemoi#Boreas",
+                  "title": "https://en.wikipedia.org/wiki/Anemoi#Boreas"
+                }
+              }
+            ],
+            "text": "Boreas"
+          },
+          {
+            "type": "text",
+            "text": ", who had also dared to remove the girl of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Erechtheus",
+                  "title": "https://en.wikipedia.org/wiki/Erechtheus"
+                }
+              }
+            ],
+            "text": "Erechtheus"
+          },
+          {
+            "type": "text",
+            "text": "?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "205"
+          },
+          {
+            "type": "text",
+            "text": " However, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Anemoi#Zephyrus",
+                  "title": "https://en.wikipedia.org/wiki/Anemoi#Zephyrus"
+                }
+              }
+            ],
+            "text": "Zephyrus"
+          },
+          {
+            "type": "text",
+            "text": " repaired his contempt by giving me the title of spouse, and I have no complaints about my marriage."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "I enjoy perpetual spring : always the year is bright, always trees are covered with leaves, the earth of greenery."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Among what I have from my dowry, I have a fertile garden: "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "210"
+          },
+          {
+            "type": "text",
+            "text": " the breeze fertiles it, a spring of crystal water sprays it."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "My husband filled it with a multitude of noble flowers and said: “To you, Goddess, the sovereignty over flowers”."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Often I wanted to classify and count their colors, without being able to manage it: there were too many to count."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "215"
+          },
+          {
+            "type": "text",
+            "text": " As soon as the leaves shook winter dew, as soon as the rays heated the multicolores corolles, The "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Horae",
+                  "title": "https://en.wikipedia.org/wiki/Hours"
+                }
+              },
+              {
+                "type": "strong"
+              },
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(223, 138, 19)"
+                }
+              }
+            ],
+            "text": "Hours"
+          },
+          {
+            "type": "text",
+            "text": " decorated with their colourful dresses gather and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              },
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(223, 138, 19)"
+                }
+              }
+            ],
+            "text": "gather my gifts in their light baskets"
+          },
+          {
+            "type": "text",
+            "text": "."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Immediately, the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Charites",
+                  "title": "https://en.wikipedia.org/wiki/Graces"
+                }
+              },
+              {
+                "type": "strong"
+              },
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(223, 138, 19)"
+                }
+              }
+            ],
+            "text": "Graces"
+          },
+          {
+            "type": "text",
+            "text": " comes, which "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              },
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(223, 138, 19)"
+                }
+              }
+            ],
+            "text": "bore the crowns "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              },
+              {
+                "type": "sup"
+              },
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(223, 138, 19)"
+                }
+              }
+            ],
+            "text": "220"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              },
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(223, 138, 19)"
+                }
+              }
+            ],
+            "text": " and garlands to bind their divine hairs"
+          },
+          {
+            "type": "text",
+            "text": "”."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(223, 138, 19)"
+                }
+              }
+            ],
+            "text": "Ovid, “The Festivals”, Book V, 183-220"
+          }
+        ]
+      }
+    ]
+  },
+  "selection": {
+    "type": "text",
+    "anchor": 4053,
+    "head": 4053
+  }
+}

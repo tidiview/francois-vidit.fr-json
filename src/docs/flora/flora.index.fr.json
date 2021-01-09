@@ -1,0 +1,55 @@
+{
+  "title": "Flore",
+  "menu": "flore",
+  "created": "03-05-2017, 15:54",
+  "date": "03-05-2017, 15:54",
+  "modified": "17-06-2017, 19:04",
+  "itempage": "Article",
+  "taxonomy": {
+    "category": [
+      "docs",
+      "fr"
+    ]
+  },
+  "metadata": {
+    "description": "Texte extrait du Livre XI des « Les Fastes » écrit par l'écrivain latin Ovide qui a inspiré au peintre Jean JOUVENET le sujet de la toile « Flore et Zéphyr » commandé par Louis XIV pour le Salon Frais du Grand Trianon à Versailles.",
+    "keywords": "Château de Versailles, Palais de Versailles, Versailles, Louis 14, Louis XIV, Ovide, Les Fastes, Grand Trianon, Trianon, Zéphyr, Flore, Zéphyr et Flore, Jean JOUVENET, Salon Frais",
+    "image": "flore_700x1152.jpg",
+    "image_width": 700,
+    "image_height": 1152,
+    "image_title": "Jean JOUVENET, “Flore et Zéphyr”",
+    "image_legend": "Zéphyr propose une corbeille de guirlandes de fleurs à Flore",
+    "twitter:card": "summary"
+  },
+  "significantlinks": [
+    "https://fr.wikipedia.org/wiki/Grand_Trianon",
+    "https://fr.wikipedia.org/wiki/Jean_Jouvenet",
+    "https://fr.wikipedia.org/wiki/Ovide",
+    "https://fr.wikipedia.org/wiki/Flore_(mythologie)",
+    "https://fr.wikipedia.org/wiki/Fastes",
+    "https://fr.wikipedia.org/wiki/Chloris_(nymphe)",
+    "https://fr.wikipedia.org/wiki/Zéphyr",
+    "https://fr.wikipedia.org/wiki/Louis_XIV"
+  ],
+  "specialty": [
+    "Histoire de France",
+    "Mythologie",
+    "Littérature de l'Empire Romain",
+    "Culture de la cour de France",
+    "Palais de Versailles",
+    "Château de Versailles",
+    "Grand Trianon",
+    "Peinture française du XVIIème siècle",
+    "Jean JOUVENET",
+    "Flore",
+    "Zéphyr",
+    "Flore et Zéphyr"
+  ],
+  "shortcode-core": {
+    "active": true
+  },
+  "sitemap": {
+    "changefreq": "monthly",
+    "priority": 0.9
+  }
+}

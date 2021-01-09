@@ -1,0 +1,1130 @@
+{
+  "doc": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1,
+          "id": ""
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Flore"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "figure",
+            "content": [
+              {
+                "type": "picture",
+                "content": [
+                  {
+                    "type": "source",
+                    "attrs": {
+                      "media": null,
+                      "sizes": "(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw",
+                      "srcset": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-280.webp 280w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-380.webp 380w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-480.webp 480w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-640.webp 640w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore_700x1152.webp 700w",
+                      "type": "image/webp"
+                    }
+                  },
+                  {
+                    "type": "image",
+                    "attrs": {
+                      "src": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore_700x1152.jpg",
+                      "title": "Peinture de Jean JOUVENET, “Flore et Zéphyr”, Grand Trianon, Versailles",
+                      "alt": "Peinture de Jean JOUVENET, “Flore et Zéphyr”, Grand Trianon, Versailles",
+                      "usemap": null,
+                      "sizes": "(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw",
+                      "srcset": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-280.jpg 280w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-380.jpg 380w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-480.jpg 480w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-640.jpg 640w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore_700x1152.jpg 700w",
+                      "id": "flore_et_zephyr"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "figcaption",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Zéphyr propose une corbeille de guirlandes de fleurs à Flore"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Au "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Grand_Trianon",
+                  "title": "https://fr.wikipedia.org/wiki/Grand Trianon"
+                }
+              }
+            ],
+            "text": "Grand Trianon"
+          },
+          {
+            "type": "text",
+            "text": " à Versailles, au-dessus de la cheminée du Salon Frais, se peut voir un tableau de "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Jean_Jouvenet",
+                  "title": "https://fr.wikipedia.org/wiki/Jean_Jouvenet"
+                }
+              }
+            ],
+            "text": "Jean JOUVENET"
+          },
+          {
+            "type": "text",
+            "text": ", “"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "/docs/fr/versailles/trianon/flore#flore_et_zephyr",
+                  "title": "Flore et Zéphyr"
+                }
+              }
+            ],
+            "text": "Flore et Zéphyr"
+          },
+          {
+            "type": "text",
+            "text": "”."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Au bord d'un ruisseau, à proximité de nymphes occupées à leur toilette, devant un ange qui la couronne, dans une atmosphère indicible de printemps, Zéphyr, homme aîlé qui représente la brise de l'ouest, présente une corbeille de guirlandes de fleurs à "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Flore_(mythologie)",
+                  "title": "https://fr.wikipedia.org/wiki/Iris_(mythologie)"
+                }
+              }
+            ],
+            "text": "Flore"
+          },
+          {
+            "type": "text",
+            "text": ", déesse de cette saison."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Des documents établissent que ce tableau a été commandé par le roi "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Louis_XIV",
+                  "title": "https://fr.wikipedia.org/wiki/Louis_XIV"
+                }
+              }
+            ],
+            "text": "Louis XIV"
+          },
+          {
+            "type": "text",
+            "text": " pour cette pièce à partir d'un récit qu'en a fait l'écrivain latin "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Ovide",
+                  "title": "https://fr.wikipedia.org/wiki/Ovide"
+                }
+              }
+            ],
+            "text": "Ovide"
+          },
+          {
+            "type": "text",
+            "text": " dans un passage d'une de ses œuvres, “"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Fastes",
+                  "title": "https://fr.wikipedia.org/wiki/Fastes"
+                }
+              }
+            ],
+            "text": "les Fastes"
+          },
+          {
+            "type": "text",
+            "text": "”."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "L'écrivain, tout en décrivant les fêtes et événements traditionnels relatifs à l'agriculture ou à l'astrologie en fonction des saisons du "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Calendrier_romain",
+                  "title": "https://fr.wikipedia.org/wiki/Calendrier_romain"
+                }
+              }
+            ],
+            "text": "calendrier romain"
+          },
+          {
+            "type": "text",
+            "text": ", y introduit un procédé littéraire original: au cours de son récit, poète, il interpelle les dieux, s'interroge en tant que prêtre et maître du calendrier du sens des choses et des mots."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Le texte ci-dessous est issu du 5"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "ème"
+          },
+          {
+            "type": "text",
+            "text": " livre et correspond au mois de mai: "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Ovide",
+                  "title": "https://fr.wikipedia.org/wiki/Ovide"
+                }
+              }
+            ],
+            "text": "Ovide"
+          },
+          {
+            "type": "text",
+            "text": " s'adresse directement à "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Flore_(mythologie)",
+                  "title": "https://fr.wikipedia.org/wiki/Iris_(mythologie)"
+                }
+              }
+            ],
+            "text": "Flore"
+          },
+          {
+            "type": "text",
+            "text": "."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Dans les vers "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/fr/versailles/trianon/flore#183",
+                  "title": null,
+                  "id": "ref_183"
+                }
+              }
+            ],
+            "text": "183 à 192"
+          },
+          {
+            "type": "text",
+            "text": ", il lui demande vers des précisions sur les "
+          },
+          {
+            "type": "ruby",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jeux Floraux"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "rt"
+                  }
+                ],
+                "text": "Floralia"
+              }
+            ],
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Jeux_floraux",
+                  "title": "https://fr.wikipedia.org/wiki/Jeux_floraux"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " qui se tenaient en son honneur depuis la fin du mois d'avril jusque début mai."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Bien que cela n'est pas de rapport direct avec la scène représentée visuellement dans le tableau, ce passage permet de saisir le mystère et le charme de la déesse, autant que le lien avec la représentation qu'en donne "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Jean_Jouvenet",
+                  "title": "https://fr.wikipedia.org/wiki/Jean_Jouvenet"
+                }
+              }
+            ],
+            "text": "Jean JOUVENET"
+          },
+          {
+            "type": "text",
+            "text": "."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Flore_(mythologie)",
+                  "title": "https://fr.wikipedia.org/wiki/Iris_(mythologie)"
+                }
+              }
+            ],
+            "text": "Flore"
+          },
+          {
+            "type": "text",
+            "text": " se présente elle-même en s'identifiant à "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Chloris_(nymphe)",
+                  "title": "https://fr.wikipedia.org/wiki/Chloris_(nymphe)"
+                }
+              }
+            ],
+            "text": "Chloris"
+          },
+          {
+            "type": "text",
+            "text": ", Nymphe de l'"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Îles_des_Bienheureux",
+                  "title": "https://fr.wikipedia.org/wiki/Îles_des_Bienheureux"
+                }
+              }
+            ],
+            "text": "Île des Bienheureux"
+          },
+          {
+            "type": "text",
+            "text": ", dont la beauté a charmé "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Zéphyr",
+                  "title": "https://fr.wikipedia.org/wiki/Zéphyr"
+                }
+              }
+            ],
+            "text": "Zéphyr"
+          },
+          {
+            "type": "text",
+            "text": "."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Celui-ci l'enleva, la prit pour femme, et lui donna souveraineté sur les fleurs."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Dans les vers "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/fr/versailles/trianon/flore#193",
+                  "title": null,
+                  "id": "ref_193"
+                }
+              }
+            ],
+            "text": "193 à 222"
+          },
+          {
+            "type": "text",
+            "text": ", elle apparaît liée au printemps, à la beauté, à la vie, entourée des "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Louis_XIV",
+                  "title": "https://fr.wikipedia.org/wiki/Louis_XIV"
+                }
+              }
+            ],
+            "text": "Heures"
+          },
+          {
+            "type": "text",
+            "text": " et des "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Calendrier_romain",
+                  "title": "https://fr.wikipedia.org/wiki/Calendrier_romain"
+                }
+              }
+            ],
+            "text": "Grâces"
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "hard_break"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2,
+          "id": "flore-et-zéphyr"
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              },
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(223, 138, 19)"
+                }
+              }
+            ],
+            "text": "Flore et Zéphyr"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/fr/versailles/trianon/flore#ref_183",
+                  "title": null,
+                  "id": "183"
+                }
+              },
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "183"
+          },
+          {
+            "type": "text",
+            "text": " Viens, Mère des fleurs, toi qui doit être célébrée par des jeux plaisants."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Le mois précédent, j'avais différé de traiter de ta fête."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "185"
+          },
+          {
+            "type": "text",
+            "text": " Elle commence en avril, et se prolonge en mai : tu occupes deux mois, la fin de l'un, le début de l'autre."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Puisque les confins de ces mois sont tiens et te reviennent, l'un autant que l'autre convient pour chanter tes louanges."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "C'est en mai que tombent les jeux du cirque et que la palme s'acclame au théâtre ;"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "190"
+          },
+          {
+            "type": "text",
+            "text": " puisse mon poème aussi aller de pair avec les spectacles du cirque."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Apprends-moi qui tu es : l'opinion des hommes est faillible ; tu seras le meilleur garant pour expliquer ton propre nom."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "linkwithid",
+                "attrs": {
+                  "href": "/docs/fr/versailles/trianon/flore#ref_193",
+                  "title": null,
+                  "id": "193"
+                }
+              },
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "193"
+          },
+          {
+            "type": "text",
+            "text": " Telle fut ma demande ;"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "voici la réponse de la déesse à mes requêtes (en parlant, sa bouche exhalait un frais parfum de roses) :"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "195"
+          },
+          {
+            "type": "text",
+            "text": " “J'étais "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Chloris_(nymphe)",
+                  "title": "https://fr.wikipedia.org/wiki/Chloris_(nymphe)"
+                }
+              }
+            ],
+            "text": "Chloris"
+          },
+          {
+            "type": "text",
+            "text": ", moi qu'on appelle maintenant "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Flore_(mythologie)",
+                  "title": "https://fr.wikipedia.org/wiki/Iris_(mythologie)"
+                }
+              }
+            ],
+            "text": "Flore"
+          },
+          {
+            "type": "text",
+            "text": " ; une lettre grecque de mon nom a été altérée par la prononciation latine."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "J'étais "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Chloris_(nymphe)",
+                  "title": "https://fr.wikipedia.org/wiki/Chloris_(nymphe)"
+                }
+              }
+            ],
+            "text": "Chloris"
+          },
+          {
+            "type": "text",
+            "text": ", Nymphe de ces Îles Fortunées, où, dit-on, les Bienheureux vivaient jadis."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Te décrire combien j'étais belle heurterait ma modestie ;"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "200"
+          },
+          {
+            "type": "text",
+            "text": " toutefois c'est elle qui valut à ma mère un dieu pour gendre."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "C'était le printemps, j'errais : "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Zéphyr",
+                  "title": "https://fr.wikipedia.org/wiki/Zéphyr"
+                }
+              }
+            ],
+            "text": "Zéphyr"
+          },
+          {
+            "type": "text",
+            "text": " m'aperçut, je m'éloignai ; il me suivit, je m'enfuis : il fut le plus fort."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "D'ailleurs, ce rapt n'était-il pas entièrement justifié par son frère "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Borée",
+                  "title": "https://fr.wikipedia.org/wiki/Borée"
+                }
+              }
+            ],
+            "text": "Borée"
+          },
+          {
+            "type": "text",
+            "text": ", qui avait osé lui aussi enlever la fille d'"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Érechthée",
+                  "title": "https://fr.wikipedia.org/wiki/Érechthée"
+                }
+              }
+            ],
+            "text": "Érechthée"
+          },
+          {
+            "type": "text",
+            "text": " ?"
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "205"
+          },
+          {
+            "type": "text",
+            "text": " Cependant "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Zéphyr",
+                  "title": "https://fr.wikipedia.org/wiki/Zéphyr"
+                }
+              }
+            ],
+            "text": "Zéphyr"
+          },
+          {
+            "type": "text",
+            "text": " répara son outrage en me donnant le titre d'épouse, et je n'émets aucune plainte à propos de mon mariage."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              },
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(223, 138, 19)"
+                }
+              }
+            ],
+            "text": "Je jouis d'un éternel printemps"
+          },
+          {
+            "type": "text",
+            "text": " : toujours l'année est éclatante, toujours l'arbre est couvert de feuilles, la terre de verdure."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Parmi les biens de ma dot, je possède un jardin fertile : "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "210"
+          },
+          {
+            "type": "text",
+            "text": " la brise le féconde, une source d'eau limpide l'arrose."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Mon époux l'a empli d'une multitude de nobles fleurs et a dit : “À toi, Déesse, la souveraineté des fleurs”."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Souvent j'ai voulu classer et compter leurs couleurs, sans pouvoir y parvenir : leur nombre était trop grand."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "sup"
+              }
+            ],
+            "text": "215"
+          },
+          {
+            "type": "text",
+            "text": " Dès que les feuilles ont secoué la rosée hivernale, dès que les rayons ont réchauffé les corolles multicolores, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              },
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(223, 138, 19)"
+                }
+              }
+            ],
+            "text": "les"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": " "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Louis_XIV",
+                  "title": "https://fr.wikipedia.org/wiki/Louis_XIV"
+                }
+              },
+              {
+                "type": "strong"
+              },
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(223, 138, 19)"
+                }
+              }
+            ],
+            "text": "Heures"
+          },
+          {
+            "type": "text",
+            "text": " parées de leurs robes diaprées se rassemblent et "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              },
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(223, 138, 19)"
+                }
+              }
+            ],
+            "text": "recueillent mes dons dans leurs corbeilles légères"
+          },
+          {
+            "type": "text",
+            "text": "."
+          },
+          {
+            "type": "hard_break"
+          },
+          {
+            "type": "text",
+            "text": "Aussitôt surviennent "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              },
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(223, 138, 19)"
+                }
+              }
+            ],
+            "text": "les"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": " "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://fr.wikipedia.org/wiki/Calendrier_romain",
+                  "title": "https://fr.wikipedia.org/wiki/Calendrier_romain"
+                }
+              },
+              {
+                "type": "strong"
+              },
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(223, 138, 19)"
+                }
+              }
+            ],
+            "text": "Grâces"
+          },
+          {
+            "type": "text",
+            "text": ", qui "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              },
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(223, 138, 19)"
+                }
+              }
+            ],
+            "text": "tressent des couronnes "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              },
+              {
+                "type": "sup"
+              },
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(223, 138, 19)"
+                }
+              }
+            ],
+            "text": "220"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              },
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(223, 138, 19)"
+                }
+              }
+            ],
+            "text": " et des guirlandes pour en entrelacer leurs chevelures célestes"
+          },
+          {
+            "type": "text",
+            "text": "”."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "spancolor",
+                "attrs": {
+                  "color": "rgb(223, 138, 19)"
+                }
+              }
+            ],
+            "text": "Ovide, Les Fastes, Livre V, vers 183 à 220"
+          }
+        ]
+      }
+    ]
+  },
+  "selection": {
+    "type": "text",
+    "anchor": 4261,
+    "head": 4261
+  }
+}

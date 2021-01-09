@@ -1,0 +1,58 @@
+{
+  "title": "フロラ",
+  "menu": "フロラ",
+  "template": "docs_minus_h1",
+  "created": "03-05-2017, 15:54",
+  "date": "26-11-2018, 20:34",
+  "modified": "21-12-2020, 20:59",
+  "itempage": "Article",
+  "taxonomy": {
+    "category": [
+      "docs",
+      "ja"
+    ]
+  },
+  "metadata": {
+    "description": "大トリアノン宮殿の涼みの間に、ジャン・ジューヴェネ画家が描いた「フロラとゼフィルス」（フランス語：フロル・エ・ゼフィル、“Flore et Zéphyr”）絵画のもとに使用された、オウィディウス作家が書いた「祭暦」（ファスティ、Fasti）の第５巻マイユス月章でフロラとゼフィルスの結婚が語られている文書を紹介している",
+    "keywords": "ヴェルサイユ宮殿, ヴェルサイユ, ルイ１４世, Louis XIV, ルイ十四世, オウィディウス, 祭暦, ファスティ, Fasti, 大トリアノン宮殿, ジャン・ジューヴェネ, フロラ, マイユス月, ゼフィルス, フロラとゼフィルス",
+    "image": "flore_700x1152.jpg",
+    "image_width": 700,
+    "image_height": 1152,
+    "image_title": "ジャン・ジューヴェネ、《フロラとゼフィルス》",
+    "image_legend": "フロラに花の連なりの籠を差し出すゼフィルス",
+    "twitter:card": "summary"
+  },
+  "significantlinks": [
+    "https://ja.wikipedia.org/wiki/大トリアノン宮殿",
+    "https://ja.wikipedia.org/wiki/オウィディウス",
+    "https://ja.wikipedia.org/wiki/フローラ",
+    "https://ja.wikipedia.org/wiki/ルイ14世_(フランス王)",
+    "https://ja.wikipedia.org/wiki/クローリス",
+    "https://ja.wikipedia.org/wiki/アネモイ#.E8.A5.BF.E9.A2.A8.E3.82.BC.E3.83.94.E3.83.A5.E3.83.AD.E3.82.B9",
+    "https://ja.wikipedia.org/wiki/ホーラ",
+    "https://ja.wikipedia.org/wiki/カリス"
+  ],
+  "specialty": [
+    "フランス歴史",
+    "神話",
+    "ローマ帝国文学",
+    "宮廷文化",
+    "ヴェルサイユ宮殿",
+    "大トリアノン宮殿",
+    "フランス絵画",
+    "フランス古典主義",
+    "ジャン・ジューヴェネ",
+    "オウィディウス",
+    "祭暦",
+    "フロラとゼフィルス",
+    "フローラ",
+    "ゼフィルス"
+  ],
+  "shortcode-core": {
+    "active": true
+  },
+  "sitemap": {
+    "changefreq": "weekly",
+    "priority": 0.9
+  }
+}

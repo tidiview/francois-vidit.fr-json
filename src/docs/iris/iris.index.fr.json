@@ -1,0 +1,63 @@
+{
+  "title": "イリス",
+  "menu": "イリス",
+  "template": "docs_minus_h1",
+  "created": "02-01-2017, 21:54",
+  "date": "26-11-2018, 20:47",
+  "modified": "16-02-2020, 16:35",
+  "itempage": "Article",
+  "taxonomy": {
+    "category": [
+      "docs",
+      "ja"
+    ]
+  },
+  "metadata": {
+    "description": "トリアノンにルネ＝アントワーヌ・ウアスが描いた「イリスの近づきに目覚めるモルフェ」（「イリスとモルフェ」とも）絵画を合わせて、作品の元となっているオウィディウス作家が書いた変身物語の第１１巻の眠りの神を訪れるイリスの「眠り章」の文書を紹介する。",
+    "keywords": "ヴェルサイユ宮殿, ヴェルサイユ, ルイ１４世, Louis XIV, ルイ十四世, オウィディウス, 変身物語, トリアノン, 大トリアノン宮殿, 眠り, イリスとソムヌス, ルネ＝アントワーヌ・ウアス, René-Antoine HOUASSE, 大トリアノン宮殿, ソムヌス, イリス, モルフェ, モルペウス, イリスとモルフェ, イリスの近づきに目覚めるモルフェ",
+    "image": "iris_700x951.jpg",
+    "image_width": 700,
+    "image_height": 951,
+    "image_title": "ルネ＝アントワーヌ・ウアス（René-Antoine HOUASSE）、《イリスの近づきに目覚めるモルフェ》",
+    "image_legend": "眠りの神の洞窟に入るユノー女神の伝達者であるイリス",
+    "twitter:card": "summary"
+  },
+  "significantlinks": [
+    "https://ja.wikipedia.org/wiki/大トリアノン宮殿",
+    "https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス",
+    "https://ja.wikipedia.org/wiki/オウィディウス",
+    "https://ja.wikipedia.org/wiki/変身物語",
+    "https://ja.wikipedia.org/wiki/イーリス",
+    "https://ja.wikipedia.org/wiki/ヒュプノス",
+    "https://ja.wikipedia.org/wiki/アポローン",
+    "https://ja.wikipedia.org/wiki/クラロス",
+    "https://ja.wikipedia.org/wiki/ユーノー",
+    "https://ja.wikipedia.org/wiki/キンメリア人",
+    "https://ja.wikipedia.org/wiki/カワセミ",
+    "https://ja.wikipedia.org/wiki/モルペウス",
+    "https://ja.wikipedia.org/wiki/イーリス"
+  ],
+  "specialty": [
+    "フランス歴史",
+    "神話",
+    "ローマ帝国文学",
+    "宮廷文化",
+    "ヴェルサイユ宮殿",
+    "大トリアノン宮殿",
+    "１７世紀フランス絵画",
+    "ルネ＝アントワーヌ・ウアス",
+    "イーリス",
+    "イリス",
+    "モルペウス",
+    "モルフェ",
+    "イリスとモルフェ",
+    "イリスの近づきに目覚めるモルフェ"
+  ],
+  "shortcode-core": {
+    "active": true
+  },
+  "sitemap": {
+    "changefreq": "monthly",
+    "priority": 0.9
+  }
+}

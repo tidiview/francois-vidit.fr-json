@@ -1,0 +1,61 @@
+{
+  "title": "Flora",
+  "menu": "flora",
+  "created": "03-05-2017, 15:54",
+  "date": "03-05-2017, 15:54",
+  "modified": "17-06-2017, 19:04",
+  "itempage": "Article",
+  "taxonomy": {
+    "category": [
+      "docs",
+      "en"
+    ]
+  },
+  "metadata": {
+    "description": "Text extract from chapter 5 of Book XI of « The Festivals » written from latin writer Ovid and describing the beginning of the month of may from which the painter Jean JOUVENET inspired for the making of his work « Flora and Zephyrus » (french: “Flore et Zéphyr”), painting that has been commisionned by King Louis XIV and can be seen in the Salon Frais of the Grand Trianon in Versailles",
+    "keywords": "Versailles, Grand Trianon, Louis 14, Louis XIV, Louis 14th, Ovid, The Festivals, Grand Trianon, Flora, Zephyrus, Flora and Zephyrus, Jean JOUVENET, Flore, Zéphyr, Flore et Zéphyr",
+    "image": "flore_700x1152.jpg",
+    "image_width": 700,
+    "image_height": 1152,
+    "image_title": "Jean JOUVENET, “Flora and Zephyrus”",
+    "image_legend": "Zephyrus is presenting a basket of garlands of flowers to Flora",
+    "twitter:card": "summary"
+  },
+  "significantlinks": [
+    "https://en.wikipedia.org/wiki/Grand_Trianon",
+    "https://en.wikipedia.org/wiki/Jean_Jouvenet",
+    "https://en.wikipedia.org/wiki/Anemoi#Zephyrus",
+    "https://en.wikipedia.org/wiki/Flora_(deity)",
+    "https://en.wikipedia.org/wiki/Louis_XIV_of_France",
+    "https://en.wikipedia.org/wiki/Ovid",
+    "https://en.wikipedia.org/wiki/Fasti_(poem)",
+    "https://en.wikipedia.org/wiki/Roman_calendar",
+    "https://en.wikipedia.org/wiki/Chloris",
+    "https://en.wikipedia.org/wiki/Floralia",
+    "https://en.wikipedia.org/wiki/Horae",
+    "https://en.wikipedia.org/wiki/Charites"
+  ],
+  "specialty": [
+    "History of France",
+    "Mythology",
+    "Culture of royal french court",
+    "Litterature of the Roman Empire",
+    "Roman Imperial Litterature",
+    "Palace of Versailles",
+    "French Painting of the 17th century",
+    "Château de Versailles",
+    "Grand Trianon\"",
+    "Jean JOUVENET",
+    "Flora",
+    "Zephyrus",
+    "Flora and Zephyrus",
+    "Flore et Zéphyr"
+  ],
+  "shortcode-core": {
+    "active": true
+  },
+  "sitemap": {
+    "changefreq": "monthly",
+    "priority": 0.9
+  }
+}

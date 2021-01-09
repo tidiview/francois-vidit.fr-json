@@ -1,0 +1,59 @@
+{
+  "title": "Tiresias",
+  "menu": "tiresias",
+  "created": "02-01-2017, 21:54",
+  "date": "02-01-2017, 21:54",
+  "modified": "10-01-2017, 00:15",
+  "itempage": "Article",
+  "taxonomy": {
+    "category": [
+      "docs",
+      "en"
+    ]
+  },
+  "metadata": {
+    "description": "Text extract from chapter “Tiresias” of Book III of the « Metamorphosis » of Ovid from which has inspired the painter René-Antoine HOUASSE for the making of his painting “Minerva and Tiresias”",
+    "keywords": "Château de Versailles, Palais of Versailles, Versailles, Louis the 14th, Louis 14, Louis XIV, Ovid, The Metamorphosis, The Grand Trianon, Grand Trianon, Trianon, Tiresias, Minerva, Minerva and Tiresias, Minerve et Tiresias, René-Antoine HOUASSE",
+    "image": "tiresias_700x501.jpg",
+    "image_width": 700,
+    "image_height": 501,
+    "image_title": "René-Antoine HOUASSE, “Minerve and Tiresias”",
+    "image_legend": "Minerve at first ground makes Tiresias in the center becoming blind",
+    "twitter:card": "summary"
+  },
+  "significantlinks": [
+    "https://en.wikipedia.org/wiki/Grand_Trianon",
+    "https://en.wikipedia.org/wiki/René-Antoine_Houasse",
+    "https://en.wikipedia.org/wiki/Minerva",
+    "https://en.wikipedia.org/wiki/Tiresias",
+    "https://en.wikipedia.org/wiki/Ovid",
+    "https://en.wikipedia.org/wiki/Metamorphoses"
+  ],
+  "specialty": [
+    "History of France",
+    "Mythology",
+    "Culture of royal french court",
+    "Litterature of the Roman Empire",
+    "Roman Imperial Litterature",
+    "French Painting of the Seventeenth century",
+    "French Painting of the 17th century",
+    "French Painting of the XVIIth century",
+    "French Court Painting",
+    "Louis XIV",
+    "Louis 14th",
+    "Louis the 14th",
+    "Palace of Versailles",
+    "Grand Trianon",
+    "René-Antoine HOUASSE",
+    "Tiresias",
+    "Minerva",
+    "Minerve et Tiresias"
+  ],
+  "shortcode-core": {
+    "active": true
+  },
+  "sitemap": {
+    "changefreq": "monthly",
+    "priority": 0.9
+  }
+}

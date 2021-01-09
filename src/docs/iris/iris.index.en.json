@@ -1,0 +1,57 @@
+{
+  "title": "Iris and Morpheus",
+  "menu": "iris",
+  "created": "02-01-2017, 21:54",
+  "date": "11-02-2018, 14:45",
+  "modified": "16-02-2020, 16:27",
+  "itempage": "Article",
+  "taxonomy": {
+    "category": [
+      "docs",
+      "en"
+    ]
+  },
+  "metadata": {
+    "description": "Presentation of the text and excerpt from Book XI of “Metamorphoses” written by the Latin writer Ovid with regard to the work he inspired to the painter René-Antoine HOUASSE the painting “Morpheus awakening as Iris draws near” (also called “Iris and Morpheus”) from the former Salon du Sommeil, now the Salon de Famille du Grand Trianon.",
+    "keywords": "Château de Versailles, Palace of Versailles, Versailles, Louis 14, Louis XIV, Louis 14th, Ovid, The Metamorphoses, Grand Trianon, Trianon, Iris, Morpheus, Iris and Morpheus, Morpheus awakening as Iris draws near, The Sleep, Hypnos, René-Antoine HOUASSE",
+    "image": "iris_700x951.jpg",
+    "image_width": 700,
+    "image_height": 951,
+    "image_title": "René-Antoine HOUASSE, “Morpheus awakening as Iris draws near”",
+    "image_legend": "Iris, messenger of Juno, enters in the cave of Sleep Morpheus",
+    "twitter:card": "summary"
+  },
+  "significantlinks": [
+    "https://en.wikipedia.org/wiki/Grand_Trianon",
+    "https://en.wikipedia.org/wiki/René-Antoine_Houasse",
+    "https://en.wikipedia.org/wiki/Metamorphoses",
+    "https://en.wikipedia.org/wiki/Ovid",
+    "https://en.wikipedia.org/wiki/Iris_(mythology)",
+    "https://en.wikipedia.org/wiki/Juno_(mythology)",
+    "https://en.wikipedia.org/wiki/Hypnos",
+    "https://en.wikipedia.org/wiki/Alcyone"
+  ],
+  "specialty": [
+    "History of France",
+    "Mythology",
+    "Culture of royal french court",
+    "Litterature of the Roman Empire",
+    "Roman Imperial Litterature",
+    "Palace of Versailles",
+    "Château de Versailles",
+    "Trianon",
+    "Grand Trianon",
+    "René-Antoine HOUASSE",
+    "Iris",
+    "Morpheus",
+    "Iris and Morpheus",
+    "Morpheus awakening as Iris draws near"
+  ],
+  "shortcode-core": {
+    "active": true
+  },
+  "sitemap": {
+    "changefreq": "monthly",
+    "priority": 0.9
+  }
+}

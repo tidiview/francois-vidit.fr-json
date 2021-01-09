@@ -5,7 +5,8 @@
       {
         "type": "heading",
         "attrs": {
-          "level": 1
+          "level": 1,
+          "id": ""
         },
         "content": [
           {
@@ -15,76 +16,43 @@
         ]
       },
       {
-        "type": "figure",
+        "type": "paragraph",
         "content": [
           {
-            "type": "picture",
+            "type": "figure",
             "content": [
               {
-                "type": "source",
-                "attrs": {
-                  "sizes": "(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw",
-                  "srcset": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-280.webp 280w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-380.webp 380w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-480.webp 480w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-640.webp 640w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.webp 700w",
-                  "type": "image/webp"
-                }
-              },
-              {
-                "type": "image",
-                "attrs": {
-                  "src": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg",
-                  "title": "Peinture de René-Antoine HOUASSE,　“Morphée s'éveillant à l'approche d'Iris” (“Iris et Morphée”), Grand Trianon, Versailles",
-                  "alt": "Peinture de René-Antoine HOUASSE,　“Morphée s'éveillant à l'approche d'Iris” (“Iris et Morphée”), Grand Trianon, Versailles",
-                  "usemap": "#iris",
-                  "sizes": "(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw",
-                  "srcset": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-280.jpg 280w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-380.jpg 380w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-480.jpg 480w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-640.jpg 640w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg 700w"
-                }
-              }
-            ]
-          },
-          {
-            "type": "figcaption",
-            "content": [
-              {
-                "type": "text",
-                "text": "Iris, messagère de Junon, entre dans la grotte de Sommeil"
-              }
-            ]
-          },
-          {
-            "type": "map",
-            "attrs": {
-              "name": "iris",
-              "id": "iris"
-            },
-            "content": [
-              {
-                "type": "area",
-                "attrs": {
-                  "href": "#iris",
-                  "title": "Iris",
-                  "alt": "Iris",
-                  "id": "area_iris",
-                  "shape": "poly",
-                  "coords": "41,502,57,465,91,443,139,421,140,375,182,333,219,254,264,249,301,207,296,184,280,192,273,213,219,234,207,193,210,169,202,157,184,162,169,89,142,147,119,128,97,136,26,90,24,109,44,154,72,187,86,245,67,274,64,302,47,313,43,328,50,333,57,333,59,347,50,359,39,350,23,353,15,362,15,399,31,415,27,433,36,447,51,444,45,453,33,454,26,479,27,505"
-                }
-              },
-              {
-                "type": "area",
-                "attrs": {
-                  "href": "#morpheus",
-                  "title": "Sommeil",
-                  "alt": "Sommeil",
-                  "id": "area_morpheus",
-                  "shape": "poly",
-                  "coords": "163,554,232,532,271,529,290,541,306,597,314,602,352,566,363,549,436,537,454,521,478,515,503,497,528,509,572,496,570,480,550,475,521,475,512,463,488,453,485,429,494,417,486,403,430,379,403,380,396,391,399,432,326,393,223,375,228,396,276,422,316,429,339,443,364,472,324,458,287,459,252,466,217,457,212,465,233,482,248,500,198,523,166,528,155,541"
-                }
+                "type": "picture",
+                "content": [
+                  {
+                    "type": "source",
+                    "attrs": {
+                      "media": null,
+                      "sizes": "(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw",
+                      "srcset": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-280.webp 280w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-380.webp 380w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-480.webp 480w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-640.webp 640w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.webp 700w",
+                      "type": "image/webp"
+                    }
+                  },
+                  {
+                    "type": "image",
+                    "attrs": {
+                      "src": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg",
+                      "title": "Peinture de René-Antoine HOUASSE,　“Morphée s'éveillant à l'approche d'Iris” (“Iris et Morphée”), Grand Trianon, Versailles",
+                      "alt": "Peinture de René-Antoine HOUASSE,　“Morphée s'éveillant à l'approche d'Iris” (“Iris et Morphée”), Grand Trianon, Versailles",
+                      "usemap": "#iris",
+                      "sizes": "(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw",
+                      "srcset": "https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-280.jpg 280w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-380.jpg 380w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-480.jpg 480w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-640.jpg 640w,https://francois-vidit.com/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg 700w></picture><figcaption>Iris, messagère de Junon, entre dans la grotte de Sommeil</figcaption><map name=",
+                      "id": "iris"
+                    }
+                  }
+                ]
               }
             ]
           }
         ]
       },
       {
-        "type": "notices",
+        "type": "paragraph",
         "content": [
           {
             "type": "text",
@@ -169,10 +137,11 @@
             "type": "text",
             "marks": [
               {
-                "type": "link",
+                "type": "linkwithid",
                 "attrs": {
                   "href": "#area_iris",
-                  "title": "Iris"
+                  "title": "Iris",
+                  "id": "iris"
                 }
               }
             ],
@@ -246,7 +215,8 @@
       {
         "type": "heading",
         "attrs": {
-          "level": 2
+          "level": 2,
+          "id": "iris-1"
         },
         "content": [
           {
@@ -859,9 +829,10 @@
         ]
       },
       {
-        "type": "noticesheading",
+        "type": "heading",
         "attrs": {
-          "level": 4
+          "level": 4,
+          "id": "note"
         },
         "content": [
           {
@@ -871,7 +842,7 @@
         ]
       },
       {
-        "type": "notices",
+        "type": "paragraph",
         "content": [
           {
             "type": "text",
@@ -935,10 +906,11 @@
             "type": "text",
             "marks": [
               {
-                "type": "link",
+                "type": "linkwithid",
                 "attrs": {
                   "href": "#area_morpheus",
-                  "title": "Morphée"
+                  "title": "Morphée",
+                  "id": "morpheus"
                 }
               }
             ],
@@ -961,7 +933,7 @@
   },
   "selection": {
     "type": "text",
-    "anchor": 4129,
-    "head": 4129
+    "anchor": 4068,
+    "head": 4068
   }
 }
