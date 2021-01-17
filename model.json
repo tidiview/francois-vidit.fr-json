@@ -9,12 +9,15 @@
     "custom-line": {
       ":type": "line"
     },
+    "custom-text": {
+      ":type": "text"
+    }
   },
   "custom-object2": {
     "custom-line": {
       ":type": "line"
     },
-    "custom-text": {
+    "custom-text2": {
       ":type": "text"
     }
   },
