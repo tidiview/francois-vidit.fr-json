@@ -1,0 +1,8 @@
+{
+  "profile": "personal",
+  "name": "api-demo",
+  "routes": [
+    "https://francois-vidit.fr/*"
+  ],
+  "zoneid": "9a70f9638a2aa124f1c07fdda379553a"
+}
