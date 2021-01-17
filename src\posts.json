@@ -5,7 +5,6 @@
     "custom-text": "This is a text with\nseveral lines"
   },
   "custom-list": [
-    {},
     {
       "custom-list-item": "third point on the list"
     },
