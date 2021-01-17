@@ -15,5 +15,9 @@
     {
       "custom-list-item": "first point on the list"
     }
-  ]
+  ],
+  "custom-object2": {
+    "custom-text2": "text\nprout 2",
+    "custom-line2": "prout 2"
+  }
 }
