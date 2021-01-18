@@ -51,8 +51,9 @@
     "@context": "http://schema.org", 
     "@type": ["WebPageElement", "Article"],
     "url": "https://francois-vidit.com/docs/ja/versailles/trianon/iris#body-inner",
-    "description": "トリアノンにルネ＝アントワーヌ・ウアスが描いた「イリスの近づきに目覚めるモルフェ」（「イリスとモルフェ」とも）絵画を合わせて、作品の元となっているオウィディウス作家が書いた変身物語の第１１巻の眠りの神を訪れるイリスの「眠り章」の文書を紹介する。","relatedLink": [	"https://francois-vidit.com/docs/fr/versailles/trianon/iris",	"https://francois-vidit.com/docs/en/versailles/trianon/iris"	],	"significantLink": ["https://ja.wikipedia.org/wiki/大トリアノン宮殿","https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス","https://ja.wikipedia.org/wiki/オウィディウス","https://ja.wikipedia.org/wiki/変身物語","https://ja.wikipedia.org/wiki/イーリス","https://ja.wikipedia.org/wiki/ヒュプノス","https://ja.wikipedia.org/wiki/アポローン","https://ja.wikipedia.org/wiki/クラロス","https://ja.wikipedia.org/wiki/ユーノー","https://ja.wikipedia.org/wiki/キンメリア人","https://ja.wikipedia.org/wiki/カワセミ","https://ja.wikipedia.org/wiki/モルペウス","https://ja.wikipedia.org/wiki/イーリス"],
-	"specialty": ["フランス歴史","神話","ローマ帝国文学","宮廷文化","ヴェルサイユ宮殿","大トリアノン宮殿","１７世紀フランス絵画","ルネ＝アントワーヌ・ウアス","イーリス","イリス","モルペウス","モルフェ","イリスとモルフェ","イリスの近づきに目覚めるモルフェ"],
+    "description": "トリアノンにルネ＝アントワーヌ・ウアスが描いた「イリスの近づきに目覚めるモルフェ」（「イリスとモルフェ」とも）絵画を合わせて、作品の元となっているオウィディウス作家が書いた変身物語の第１１巻の眠りの神を訪れるイリスの「眠り章」の文書を紹介する。",
+    "relatedLink": [	"https://francois-vidit.com/docs/fr/versailles/trianon/iris",	"https://francois-vidit.com/docs/en/versailles/trianon/iris"	],	"significantLink": ["https://ja.wikipedia.org/wiki/大トリアノン宮殿","https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス","https://ja.wikipedia.org/wiki/オウィディウス","https://ja.wikipedia.org/wiki/変身物語","https://ja.wikipedia.org/wiki/イーリス","https://ja.wikipedia.org/wiki/ヒュプノス","https://ja.wikipedia.org/wiki/アポローン","https://ja.wikipedia.org/wiki/クラロス","https://ja.wikipedia.org/wiki/ユーノー","https://ja.wikipedia.org/wiki/キンメリア人","https://ja.wikipedia.org/wiki/カワセミ","https://ja.wikipedia.org/wiki/モルペウス","https://ja.wikipedia.org/wiki/イーリス"],
+	  "specialty": ["フランス歴史","神話","ローマ帝国文学","宮廷文化","ヴェルサイユ宮殿","大トリアノン宮殿","１７世紀フランス絵画","ルネ＝アントワーヌ・ウアス","イーリス","イリス","モルペウス","モルフェ","イリスとモルフェ","イリスの近づきに目覚めるモルフェ"],
     "datePublished": "2017-01-02T21:54:00+01:00",
     "dateModified": "2020-12-20T01:00:00+01:00",
     "mainEntityOfPage": {
