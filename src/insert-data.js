@@ -7,10 +7,6 @@ const host = process.env.DB_HOST;
 const user = process.env.DB_USER;
 const pass = process.env.DB_PASS;
 
-console.log(host);
-console.log(user);
-console.log(pass);
-
 const url = "mongodb+srv://" + user + ":" + pass + "@" + host + "/test?retryWrites=true&w=majority&useNewUrlParser=true&useUnifiedTopology=true";
 const client = new MongoClient(url);
  
@@ -26,7 +22,8 @@ async function run() {
         // Use the collection "people"
         const col = db.collection("people");
 
-        // Construct a document                                                                                                                                                              
+        // Construct a document
+
         let personDocument = {
             "name": { "first": "Alan", "last": "Turing" },
             "birth": new Date(1912, 5, 23), // June 23, 1912                                                                                                                                 
