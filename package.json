@@ -1,0 +1,16 @@
+{
+  "name": "json",
+  "version": "0.0.1",
+  "description": "json formed backend for francois-vidit.fr, new version of francois-vidit.com.",
+  "main": "src\\index.js",
+  "repository": "https://github.com/tidiview/francois-vidit.fr-json.git",
+  "author": "tidiview <francois.vidit@laposte.net>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "mongodb": "^3.6.3"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
