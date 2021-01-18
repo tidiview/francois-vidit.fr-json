@@ -1,0 +1,289 @@
+<script type="application/ld+json">
+[{
+	"@context": "http://schema.org",
+	"@type": "WebSite",
+	"@id": "https://francois-vidit.com",
+	"name": "francois-vidit.com",
+	"url": "https://francois-vidit.com",
+	"mainEntityOfPage": [{
+	      "@language": "ja",
+	      "@value": "https://francois-vidit.com/ja"},
+	      {"@language": "fr",
+	      "@value": "https://francois-vidit.com/fr"},
+	      {"@language": "en",
+	      "@value": "https://francois-vidit.com/en"}],
+	"image": "https://francois-vidit.com/user/themes/mytheme/images/landing-curtain-1920.jpg"
+},
+{
+	"@context": "http://schema.org",
+		"@type": "Organization",
+	"name": "francois-vidit.com",
+	"url": "https://francois-vidit.com",
+	"logo": {
+		"@type": "ImageObject",
+		"url": "https://francois-vidit.com/user/pages/organisation/francois-vidit-com_600x60.png",
+		"height": 60,
+		"width": 600}},
+{
+	"@context": "http://schema.org",
+	"@id": "https://francois-vidit.com/profile",
+		"@type": "Person",
+	"familyName": [{"@language": "ja", "@value": "VIDIT"}, {"@language": "ja", "@value": "ヴィディ"}, {"@language": "fr", "@value": "VIDIT"}, {"@language": "en", "@value": "VIDIT"}],
+	"givenName": [{"@language": "ja", "@value": "François"}, {"@language": "ja", "@value": "フランソワ"}, {"@language": "fr", "@value": "François"}, {"@language": "en", "@value": "François"}],
+	"name": [{"@language": "ja", "@value": "François VIDIT"}, {"@language": "ja", "@value": "フランソワ・ヴィディ"}, {"@language": "fr", "@value": "François VIDIT"}, {"@language": "en", "@value": "François VIDIT"}],
+	"url": "https://francois-vidit.com/profile/ja",
+	"mainEntityOfPage": "https://francois-vidit.com/profile/ja",
+	"hasOfferCatalog": {
+		"@type": "OfferCatalog",
+		"@id": "https://francois-vidit.com/ja#futures-dates"
+	},
+	"description": [{
+	      "@language": "ja",
+	      "@value": "フランソワ・ヴィディはパリから活躍するフランス日本語ガイド通訳協会会員の通訳案内士です。"},
+	      {"@language": "fr",
+	      "@value": "François VIDIT est un guide de tourisme en langue japonaise français membre de l'A.G.I.J (Association des Guide-Interprètes de langue Japonaise) qui exerce à Paris"},
+	      {"@language": "en",
+	      "@value": "François VIDIT is a french tour guide in japanese language member of A.G.I.J. (french japanese-language speaking licenced guides association) that works from Paris"}],
+	"knowsLanguage": [{
+		"@type": "Language",
+		"name": [{
+				"@language": "ja",
+				"@value": "フランス語"},
+				{"@language": "fr",
+				"@value": "français"},
+				{"@language": "en",
+				"@value": "french"} ],
+		"alternateName": "fr"
+	},
+	{
+		"@type": "Language",
+		"name": [{
+			"@language": "ja",
+			"@value": "日本語"},
+			{"@language": "fr",
+			"@value": "japonais"},
+			{"@language": "en",
+			"@value": "japanese"} ],
+		"alternateName": "ja"
+	},
+	{
+		"@type": "Language",
+		"name": [{
+			"@language": "ja",
+			"@value": "英語"},
+			{"@language": "fr",
+			"@value": "anglais"},
+			{"@language": "en",
+			"@value": "english"} ],
+		"alternateName": "en"
+	}],
+    "JobTitle": [{
+		"@language": "ja",
+		"@value": "フランス日本語通訳案内士"},
+		{"@language": "fr",
+		"@value": "Guide-Interprète National en langue japonaise"},
+		{"@language": "en",
+		"@value": "French National Guide in japanese language"}],
+	"address": {
+		"@type": "PostalAddress",
+		"addressCountry": {
+			"@type": "Country",
+			"name": [{
+				"@language": "ja",
+				"@value": "フランス"},
+				{"@language": "ja",
+				"@value": "FRANCE"},
+				{"@language": "fr",
+				"@value": "FRANCE"},
+				{"@language": "en",
+				"@value": "FRANCE"}]
+		},
+		"addressLocality": [{
+			"@language": "ja",
+			"@value": "パリ"},
+			{"@language": "ja",
+			"@value": "PARIS"},
+			{"@language": "fr",
+			"@value": "PARIS"},
+			{"@language": "en",
+			"@value": "PARIS"}],
+		"postalCode": "75015",
+		"streetAddress": [{
+			"@language": "ja",
+			"@value": "１０、ルー・テオフラスト・ルノド"},
+			{"@language": "ja",
+			"@value": "10, rue Théophraste RENAUDOT"},
+			{"@language": "fr",
+			"@value": "10, rue Théophraste RENAUDOT"},
+			{"@language": "en",
+			"@value": "10, rue Théophraste RENAUDOT"}]
+	},
+	"sameAs": [
+		"https://francois-vidit.com/profile/ja",
+		"https://www.twitter.com/@bf7afa37fa94ja",
+		"https://www.plus.google.com/u/0/102915870834043244842",
+		"https://www.github.com/tidiview/francois-vidit.com"
+	],
+	"memberOf": [{
+	    "@type": "Organization",
+	    "@id": "http://www.agij-paris.com/ja",
+	    "name": "A.G.I.J.",
+	    "url": "http://www.agij-paris.com",
+	    "logo": "http://www.agij-paris.com/image/title01.gif",
+	    "description": [{
+			"@language": "ja",
+			"@value": "「A.G.I.J」は「フランス日本語通訳ガイド協会」です"},
+			{"@language": "fr",
+			"@value": "'A.G.I.J' signifie 'Association des Guide-Interprètes en langue Japonaise'"},
+			{"@language": "en",
+			"@value": "'A.G.I.J'　stands for 'French Japanese Speaking Guides Association'"}]
+	}]},
+{
+	"@context": "http://schema.org",
+	"@type": "BreadcrumbList",
+	"@id": "https://francois-vidit.com/docs/ja/versailles/trianon/iris#breadcrumbs",
+	"itemListElement": [{
+		"@type": "ListItem",
+	    "position": 1,
+	    "item":
+	    { "@id": "https://francois-vidit.com/ja",
+	    "@type": "WebSite",
+	    "name": "ホーム",
+	    "image": "https://francois-vidit.com/user/themes/mytheme/images/landing-curtain-1920.jpg"}
+	  }	  ,
+	  { "@type": "ListItem",
+	    "position": 2,
+	    "item":
+	    { "@type": "CollectionPage",	    "@id": "https://francois-vidit.com/docs/ja",
+	    "name": "ドックス",
+	    "image": "https://francois-vidit.com/docs/ja/reference_700x426.png"}
+	},
+	  { "@type": "ListItem",
+	    "position": 3,
+	    "item":
+	    { "@type": "CollectionPage",	    "@id": "https://francois-vidit.com/docs/ja/versailles",
+	    "name": "ヴェルサイユ",
+	    "image": "https://francois-vidit.com/docs/ja/versailles/versailles_700x525.jpg"}
+	},
+	  { "@type": "ListItem",
+	    "position": 4,
+	    "item":
+	    { "@type": "CollectionPage",	    "@id": "https://francois-vidit.com/docs/ja/versailles/trianon",
+	    "name": "トリアノン",
+	    "image": "https://francois-vidit.com/docs/ja/versailles/trianon/trianon_700x467.jpg"}
+	},
+	  { "@type": "ListItem",
+	    "position": 5,
+	    "item":
+	    { "@type": "ItemPage",	    "@id": "https://francois-vidit.com/docs/ja/versailles/trianon/iris",
+	    "name": "イリス",
+	    "image": "https://francois-vidit.com/docs/ja/versailles/trianon/iris/iris_700x951.jpg"}
+	}]
+},
+{
+	"@context": "http://schema.org",
+	"@type": "ImageObject",
+	"url": "https://francois-vidit.com/docs/ja/versailles/trianon/iris/iris_700x951.jpg",
+	"name": "iris_700x951.jpg",
+	"width": 700,
+	"height": 951
+},
+{
+	"@context" : "https://schema.org",
+	"@type" : "ItemPage",
+	"name" : "イリス",
+	"description": "トリアノンにルネ＝アントワーヌ・ウアスが描いた「イリスの近づきに目覚めるモルフェ」（「イリスとモルフェ」とも）絵画を合わせて、作品の元となっているオウィディウス作家が書いた変身物語の第１１巻の眠りの神を訪れるイリスの「眠り章」の文書を紹介する。",
+	"url" : "https://francois-vidit.com/docs/ja/versailles/trianon/iris",
+	"datePublished": "2020-02-16T16:35:00+01:00",
+	"dateModified": "2020-12-20T01:00:00+01:00",
+	"lastReviewed": "2020-12-20T01:00:00+01:00",
+	"reviewedBy": {
+			"@type": "Person",
+	"name": [{
+		"@language": "ja",
+		"@value": "François VIDIT"},
+		{"@language": "ja", "@value": "フランソワ・ヴィディ"},
+		{"@language": "fr", "@value": "François VIDIT"},
+		{"@language": "en", "@value": "François VIDIT"}],
+	"url": "https://francois-vidit.com/profile"	},
+	"breadcrumb": {
+		"@type": "BreadcrumbList",
+		"id": "https://francois-vidit.com/docs/ja/versailles/trianon/iris#breadcrumbs"
+	},
+	"primaryImageOfPage": {
+		"@type": "ImageObject",
+		"url": "https://francois-vidit.com/docs/ja/versailles/trianon/iris"
+	},
+	"relatedLink": [	"https://francois-vidit.com/docs/fr/versailles/trianon/iris",	"https://francois-vidit.com/docs/en/versailles/trianon/iris"	],	"significantLink": ["https://ja.wikipedia.org/wiki/大トリアノン宮殿","https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス","https://ja.wikipedia.org/wiki/オウィディウス","https://ja.wikipedia.org/wiki/変身物語","https://ja.wikipedia.org/wiki/イーリス","https://ja.wikipedia.org/wiki/ヒュプノス","https://ja.wikipedia.org/wiki/アポローン","https://ja.wikipedia.org/wiki/クラロス","https://ja.wikipedia.org/wiki/ユーノー","https://ja.wikipedia.org/wiki/キンメリア人","https://ja.wikipedia.org/wiki/カワセミ","https://ja.wikipedia.org/wiki/モルペウス","https://ja.wikipedia.org/wiki/イーリス"],
+	"specialty": ["フランス歴史","神話","ローマ帝国文学","宮廷文化","ヴェルサイユ宮殿","大トリアノン宮殿","１７世紀フランス絵画","ルネ＝アントワーヌ・ウアス","イーリス","イリス","モルペウス","モルフェ","イリスとモルフェ","イリスの近づきに目覚めるモルフェ"],
+	"mainContentOfPage": {
+		"@type": ["WebPageElement", "Article"],
+		"url": "https://francois-vidit.com/docs/ja/versailles/trianon/iris",
+		"datePublished": "2017-01-02T21:54:00+01:00",
+		"dateModified": "2020-12-20T01:00:00+01:00",
+		"headline": "イリス",
+		"mainEntityOfPage": {
+			"@type": "ItemPage",
+			"url": "https://francois-vidit.com/docs/ja/versailles/trianon/iris" 
+			},
+		"author": {
+				"@type": "Person",
+	"name": [{
+		"@language": "ja",
+		"@value": "François VIDIT"},
+		{"@language": "ja", "@value": "フランソワ・ヴィディ"},
+		{"@language": "fr", "@value": "François VIDIT"},
+		{"@language": "en", "@value": "François VIDIT"}],
+	"url": "https://francois-vidit.com/profile"			},
+		"publisher": {
+			"@type": "Organization",
+			"name": "francois-vidit.com",
+			"logo": {
+				"@type": "ImageObject",
+				"url": "https://francois-vidit.com/user/pages/organisation/francois-vidit-com_600x60.png"
+			}
+		},
+		"image": {
+			"@type": "ImageObject",
+			"url": "https://francois-vidit.com/docs/ja/versailles/trianon/iris/iris_700x951.jpg",
+			"name": "iris_700x951.jpg", "width": 700, "height": 951
+		}
+	}
+},
+{
+	"@context": "http://schema.org", 
+	"@type": ["WebPageElement", "Article"],
+	"url": "https://francois-vidit.com/docs/ja/versailles/trianon/iris#body-inner",
+	"description": "トリアノンにルネ＝アントワーヌ・ウアスが描いた「イリスの近づきに目覚めるモルフェ」（「イリスとモルフェ」とも）絵画を合わせて、作品の元となっているオウィディウス作家が書いた変身物語の第１１巻の眠りの神を訪れるイリスの「眠り章」の文書を紹介する。",
+	"datePublished": "2017-01-02T21:54:00+01:00",
+	"dateModified": "2020-12-20T01:00:00+01:00",
+	"mainEntityOfPage": {
+		"@type": "ItemPage",
+		"url": "https://francois-vidit.com/docs/ja/versailles/trianon/iris" 
+	},
+	"headline": "イリス",
+	"author": {
+			"@type": "Person",
+	"name": [{
+		"@language": "ja",
+		"@value": "François VIDIT"},
+		{"@language": "ja", "@value": "フランソワ・ヴィディ"},
+		{"@language": "fr", "@value": "François VIDIT"},
+		{"@language": "en", "@value": "François VIDIT"}],
+	"url": "https://francois-vidit.com/profile"	},
+	"image": {
+		"@type": "ImageObject",
+		"url": "https://francois-vidit.com/docs/ja/versailles/trianon/iris/iris_700x951.jpg",
+		"name": "iris_700x951.jpg",
+		"width": 700,
+		"height": 951
+	},
+	"publisher": {
+		"@type": "Organization",
+		"name": "francois-vidit.com",
+		"logo": {
+			"@type": "ImageObject",
+			"url": "https://francois-vidit.com/user/pages/organisation/francois-vidit-com_600x60.png"
+		}
+	}
+}]</script>
