@@ -7,10 +7,14 @@
   "author": "tidiview <francois.vidit@laposte.net>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "start": "node --trace-deprecation index.js"
+  },
   "dependencies": {
     "mongodb": "^3.6.3"
   },
   "devDependencies": {
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.11.12"
   }
 }
