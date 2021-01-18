@@ -1,4 +1,3 @@
-<script type="application/ld+json">
 [{
 	"@context": "http://schema.org",
 	"@type": "WebSite",
@@ -286,4 +285,4 @@
 			"url": "https://francois-vidit.com/user/pages/organisation/francois-vidit-com_600x60.png"
 		}
 	}
-}]</script>
+}]
