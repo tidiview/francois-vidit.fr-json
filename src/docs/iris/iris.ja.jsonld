@@ -1,14 +1,16 @@
 [
   {
     "@context": "http://schema.org",
-      "@type": "Organization",
-    "name": "francois-vidit.com",
+    "@type": "Organization",
     "url": "https://francois-vidit.com",
+    "name": "francois-vidit.com",
     "logo": {
       "@type": "ImageObject",
       "url": "https://francois-vidit.com/user/pages/organisation/francois-vidit-com_600x60.png",
       "height": 60,
-      "width": 600}},
+      "width": 600
+    }
+  },
   {
     "@context": "http://schema.org",
     "@type": "BreadcrumbList",
@@ -17,38 +19,32 @@
       "@type": "ListItem",
         "position": 1,
         "item":
-        { "@id": "https://francois-vidit.com/ja",
-        "@type": "WebSite",
-        "name": "ホーム",
-        "image": "https://francois-vidit.com/user/themes/mytheme/images/landing-curtain-1920.jpg"}
+        { "@type": "WebSite", "@id": "https://francois-vidit.com/ja",
+        "name": "ホーム" }
       }	  ,
       { "@type": "ListItem",
         "position": 2,
         "item":
-        { "@type": "CollectionPage",	    "@id": "https://francois-vidit.com/docs/ja",
-        "name": "ドックス",
-        "image": "https://francois-vidit.com/docs/ja/reference_700x426.png"}
+        { "@type": "CollectionPage", "@id": "https://francois-vidit.com/docs/ja",
+        "name": "ドックス" }
     },
       { "@type": "ListItem",
         "position": 3,
         "item":
-        { "@type": "CollectionPage",	    "@id": "https://francois-vidit.com/docs/ja/versailles",
-        "name": "ヴェルサイユ",
-        "image": "https://francois-vidit.com/docs/ja/versailles/versailles_700x525.jpg"}
+        { "@type": "CollectionPage", "@id": "https://francois-vidit.com/docs/ja/versailles",
+        "name": "ヴェルサイユ" }
     },
       { "@type": "ListItem",
         "position": 4,
         "item":
         { "@type": "CollectionPage",	    "@id": "https://francois-vidit.com/docs/ja/versailles/trianon",
-        "name": "トリアノン",
-        "image": "https://francois-vidit.com/docs/ja/versailles/trianon/trianon_700x467.jpg"}
+        "name": "トリアノン" }
     },
       { "@type": "ListItem",
         "position": 5,
         "item":
         { "@type": "ItemPage",	    "@id": "https://francois-vidit.com/docs/ja/versailles/trianon/iris",
-        "name": "イリス",
-        "image": "https://francois-vidit.com/docs/ja/versailles/trianon/iris/iris_700x951.jpg"}
+        "name": "イリス" }
     }]
   },
   {
@@ -76,13 +72,7 @@
     },
     "publisher": {
       "@type": "Organization",
-      "name": "francois-vidit.com",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://francois-vidit.com/user/pages/organisation/francois-vidit-com_600x60.png",
-      "height": 60,
-      "width": 600
-      }
+      "url": "https://francois-vidit.com"
     }
   }]
   
