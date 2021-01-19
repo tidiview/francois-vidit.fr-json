@@ -14,6 +14,7 @@
   {
     "@context": "http://schema.org",
     "@type": "BreadcrumbList",
+    "name": "ホーム > ドックス > ヴェルサイユ > トリアノン > イリス",
     "@id": "https://francois-vidit.com/docs/ja/versailles/trianon/iris#breadcrumbs",
     "itemListElement": [{
       "@type": "ListItem",
@@ -49,25 +50,35 @@
   },
   {
     "@context": "http://schema.org", 
-    "@type": ["WebPageElement", "Article"],
-    "url": "https://francois-vidit.com/docs/ja/versailles/trianon/iris#body-inner",
+    "@type": ["Article", "WebPageElement"],
+    "@id": "https://francois-vidit.com/docs/ja/versailles/trianon/iris#article",
+    "url": "https://francois-vidit.com/docs/ja/versailles/trianon/iris#article",
     "description": "トリアノンにルネ＝アントワーヌ・ウアスが描いた「イリスの近づきに目覚めるモルフェ」（「イリスとモルフェ」とも）絵画を合わせて、作品の元となっているオウィディウス作家が書いた変身物語の第１１巻の眠りの神を訪れるイリスの「眠り章」の文書を紹介する。",
-    "relatedLink": [	"https://francois-vidit.com/docs/fr/versailles/trianon/iris",	"https://francois-vidit.com/docs/en/versailles/trianon/iris"	],	"significantLink": ["https://ja.wikipedia.org/wiki/大トリアノン宮殿","https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス","https://ja.wikipedia.org/wiki/オウィディウス","https://ja.wikipedia.org/wiki/変身物語","https://ja.wikipedia.org/wiki/イーリス","https://ja.wikipedia.org/wiki/ヒュプノス","https://ja.wikipedia.org/wiki/アポローン","https://ja.wikipedia.org/wiki/クラロス","https://ja.wikipedia.org/wiki/ユーノー","https://ja.wikipedia.org/wiki/キンメリア人","https://ja.wikipedia.org/wiki/カワセミ","https://ja.wikipedia.org/wiki/モルペウス","https://ja.wikipedia.org/wiki/イーリス"],
-	  "specialty": ["フランス歴史","神話","ローマ帝国文学","宮廷文化","ヴェルサイユ宮殿","大トリアノン宮殿","１７世紀フランス絵画","ルネ＝アントワーヌ・ウアス","イーリス","イリス","モルペウス","モルフェ","イリスとモルフェ","イリスの近づきに目覚めるモルフェ"],
     "datePublished": "2017-01-02T21:54:00+01:00",
     "dateModified": "2020-12-20T01:00:00+01:00",
     "mainEntityOfPage": {
       "@type": "ItemPage",
-      "url": "https://francois-vidit.com/docs/ja/versailles/trianon/iris" 
+      "url": "https://francois-vidit.com/docs/ja/versailles/trianon/iris"
+    },
+    "hasPart": {
+      "@type": "WebPageElement",
+      "name": "絵画の題名について",
+      "url": "https://francois-vidit.com/docs/ja/versailles/trianon/iris#notes"
     },
     "headline": "イリス",
     "author": {
-        "@type": "Person",
-    "name": "François VIDIT",
-    "alternateName": "フランソワ・ヴィディ",
-    "url": "https://francois-vidit.com/profile/ja"	},
+      "@type": "Person",
+      "name": "François VIDIT",
+      "alternateName": "フランソワ・ヴィディ",
+      "url": "https://francois-vidit.com/profile/ja"
+    },
+    "citation": {
+      "@type": "Text",
+      "@id": "https://francois-vidit.com/docs/ja/versailles/trianon/iris#citation"
+    },
     "image": {
       "@type": "ImageObject",
+      "@id": "https://francois-vidit.com/docs/ja/versailles/trianon/iris/iris_700x951.jpg",
       "url": "https://francois-vidit.com/docs/ja/versailles/trianon/iris/iris_700x951.jpg",
       "name": "iris_700x951.jpg",
       "width": 700,
@@ -76,6 +87,89 @@
     "publisher": {
       "@type": "Organization",
       "url": "https://francois-vidit.com"
+    },
+    "about": {
+      "@type": "Painting",
+      "@id": "https://francois-vidit.com/docs/ja/versailles/trianon/iris#painting"
     }
-  }]
+  },
+  {
+    "@context": "http://schema.org", 
+    "@type": ["Text", "CreativeWork", "WebPageElement"],
+    "@id": "https://francois-vidit.com/docs/ja/versailles/trianon/iris#citation",
+    "isPartOf": {
+      "@type": ["Text", "CreativeWork"],
+      "name": "第１１巻",
+      "isPartOf": {
+        "@type": ["Text", "CreativeWork", "Book"],
+        "name": "変身物語",
+        "sameAs": "https://www.wikidata.org/wiki/Q184742",
+        "author": {
+          "@type": "Person",
+          "name": "オウィディウス",
+          "sameAs": "https://www.wikidata.org/wiki/Q7198"
+        }
+      }
+    },
+    "character": [{
+      "@type": "Person",
+      "@id": "https://francois-vidit.com/docs/ja/versailles/trianon/iris#iris",
+      "name": "イリス",
+      "sameAs": "https://www.wikidata.org/wiki/Q184570"
+    }, 
+    {
+      "@type": "Person",
+      "@id": "https://francois-vidit.com/docs/ja/versailles/trianon/iris#morphee",
+      "name": "モルフェ",
+      "alternateName": "モルペウス",
+      "sameAs": "https://www.wikidata.org/wiki/Q194012"
+    }],
+    "contentLocation": {
+      "@type": "Place",
+      "@id": "https://francois-vidit.com/docs/ja/versailles/trianon/iris#location",
+      "url": "https://francois-vidit.com/docs/ja/versailles/trianon/iris#location",
+      "name": "眠りの神の洞窟"
+    }
+  },
+  {
+  "@context": "http://schema.org", 
+  "@type": ["Painting", "Place", "WebPageElement"],
+  "name": "イリスの近づきに目覚めるモルフェ",
+  "@id": "https://francois-vidit.com/docs/ja/versailles/trianon/iris#painting",
+  "creator": {
+    "@type": "Person",
+    "name": "ルネ＝アントワーヌ・ウアス",
+    "sameAs": "https://www.wikidata.org/wiki/Q184570"
+  },
+  "containedInPlace": {
+    "@type": "Place",
+    "@id": "https://francois-vidit.com/docs/ja/versailles/trianon/iris#place",
+    "name": "ルイ=フィリップの家族の間",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "大トリアノン宮殿",
+      "sameAs": "https://www.wikidata.org/wiki/Q8049"
+    }
+  },
+  "character": [{
+    "@type": "Person",
+    "@id": "https://francois-vidit.com/docs/ja/versailles/trianon/iris#iris"
+  }, 
+  {
+    "@type": "Person",
+    "@id": "https://francois-vidit.com/docs/ja/versailles/trianon/iris#morphee"
+  }],
+  "image": {
+    "@type": "ImageObject",
+    "@id": "https://francois-vidit.com/docs/ja/versailles/trianon/iris/iris_700x951.jpg"
+  },
+  "isBasedOn": {
+    "@type": "Text",
+    "@id": "https://francois-vidit.com/docs/ja/versailles/trianon/iris#citation"
+  },
+  "contentLocation": {
+    "@type": "Place",
+    "@id": "https://francois-vidit.com/docs/ja/versailles/trianon/iris#location"
+  }
+}]
   
