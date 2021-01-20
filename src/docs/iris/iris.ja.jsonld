@@ -53,6 +53,7 @@
     "@type": ["Article", "WebPageElement"],
     "@id": "https://francois-vidit.com/docs/ja/versailles/trianon/iris#article",
     "url": "https://francois-vidit.com/docs/ja/versailles/trianon/iris#article",
+    "headline": "イリス",
     "description": "トリアノンにルネ＝アントワーヌ・ウアスが描いた「イリスの近づきに目覚めるモルフェ」（「イリスとモルフェ」とも）絵画を合わせて、作品の元となっているオウィディウス作家が書いた変身物語の第１１巻の眠りの神を訪れるイリスの「眠り章」の文書を紹介する。",
     "datePublished": "2017-01-02T21:54:00+01:00",
     "dateModified": "2020-12-20T01:00:00+01:00",
@@ -66,7 +67,6 @@
       "name": "絵画の題名について",
       "url": "https://francois-vidit.com/docs/ja/versailles/trianon/iris#notes"
     },
-    "headline": "イリス",
     "author": {
       "@type": "Person",
       "name": "François VIDIT",
@@ -98,6 +98,7 @@
     "@context": "http://schema.org", 
     "@type": ["Text", "CreativeWork", "WebPageElement"],
     "@id": "https://francois-vidit.com/docs/ja/versailles/trianon/iris#citation",
+    "name": "イリス",
     "isPartOf": {
       "@type": ["Text", "CreativeWork"],
       "name": "第１１巻",
