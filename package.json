@@ -1,6 +1,6 @@
 {
   "name": "json",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "json formed backend for francois-vidit.fr, new version of francois-vidit.com.",
   "main": "src\\index.js",
   "repository": "https://github.com/tidiview/francois-vidit.fr-json.git",
