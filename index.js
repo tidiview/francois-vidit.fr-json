@@ -18,8 +18,9 @@ polka()
   .use(json())
   /* .get('/', reply) */
   .get('/', async (req, res) => {
-    let connect = await new MongoClient(url).connect()
-    let data = await connect.db("test").collection("people").find().toArray().catch(err => {
+    let connexion = await new MongoClient(url).connect()
+    // connexion to db "test" collection "people"
+    let data = await connexion.db("test").collection("people").find().toArray().catch(err => {
       send(res, 404);
     });
       console.log(data)
