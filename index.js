@@ -1,7 +1,7 @@
 const polka = require('polka');
 const send = require('@polka/send-type');
 const { PORT=3000 } = process.env;
-const people = require('./people');
+const posts = require('./posts');
 const { MongoClient } = require("mongodb");
 require('dotenv').config()
 /* const { json } = require('body-parser'); */
@@ -16,7 +16,6 @@ const url = "mongodb+srv://" + user + ":" + pass + "@" + host + "/test?retryWrit
 
 polka()
   .use(json())
-  /* .get('/', reply) */
   .get('/', async (req, res) => {
     let connexion = await new MongoClient(url).connect()
     // connexion to db "test" collection "people"
@@ -28,7 +27,7 @@ polka()
       // res: ServerReponse | code: Number | data: String | headers: Object
       send(res, 200, data, { 'Content-Type': 'application/json; charset=UTF-8', 'X-Content-Type-Options': 'nosniff', 'Cache-Control': 'no-cache' });
   })
-  .use("people", people)
+  .use("posts", posts)
   .listen(PORT, err => {
     if (err) throw err;
     console.log(`> Running on localhost:${PORT}`);
