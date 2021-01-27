@@ -78,37 +78,35 @@ polka()
   
   .post('/', (req, res) => {
     let json = JSON.stringify(req.body);
-    
+
     // The database to use
     const dbName = "test";
-
     // The collection to use
     const collectionName = "people";
-
+    // The credentials to use (see above)
     const client = new MongoClient(url);
+    // The document ID to delete (sent to the server)
+    const ObjectIDMitsue = "6011907fb6490003a0bbb1d8";
 
     const init = async () => {
-  
       try {
         await client.connect();
         console.log("Connected correctly to server");
         const db = client.db(dbName);
-    
         // Use the collection "people"
         const col = db.collection(collectionName);
-    
-        // Find documents
+        // Insert json as a document
         const myDoc = await col.insertOne(JSON.parse(json));
-        // Print to the console
+        // Delete document with ID = ObjectIDMitsue
+        /* const myDoc = await col.deleteOne({_id: ObjectID(ObjectIDMitsue)}); */
+        // Print to the console of the operation
         console.log(myDoc);
-    
       } catch (err) {
         console.log(err.stack);
       } finally {
         await client.close();
       }
     }
-    
     init();
 
 		res.writeHead(200, { 'Content-Type': 'application/json; charset=UTF-8', 'X-Content-Type-Options': 'nosniff', 'Cache-Control': 'no-cache' });
